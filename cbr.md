@@ -1,6 +1,6 @@
 ---
-layout: home
+layout: default
 title: Governing Documents
-nav_order: 1
+nav_order: 2
 ---
 Triangle's Governing Documents
