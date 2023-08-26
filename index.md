@@ -3,6 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 ---
+For now, this is a To Do List Page
 
 - [ ] Constitution
 - [ ] Bylaws
@@ -14,7 +15,7 @@ nav_order: 1
 - [ ] National Council Minutes
 - [ ] National Headquarters
 - [x] National Meetings and Conventions
-- [ ] National Presidents
+- [x] National Presidents
 - [ ] REVIEW Editors
 - [ ] Awards Given to Individuals
 - [ ] National Service

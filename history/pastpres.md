@@ -70,7 +70,7 @@ nav_order: 5
 |1994-96|Steven M. Heitert|Missouri Mines|1981|
 |1996|Robert G. Sharp|Purdue|1951|
 |1996-98|Timothy L. Eiler|Minnesota|1987|
-|1998-2000 Jeffrey P. Scott|Wisconsin|1987|
+|1998-2000|Jeffrey P. Scott|Wisconsin|1987|
 |2000-02|Merle Newlon III|Louisville|1973|
 |2002-04|Bret T. Feger|Louisville|1986|
 |2004-05|Kurt W. Over|Pittsburgh|1983|
