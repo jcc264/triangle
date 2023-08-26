@@ -11,7 +11,7 @@ appointment of Herbert Scobie in 1962, the position became a full-time
 position.
 
 |Years Served|Name|
-|:-----------|:---------|
+|:------|:-|
 |1948-1950|Charles R. Little pur23|
 |1950-1954|Herbert F. Scobie minn32|
 |1954-1962|William R. Brown os33|
