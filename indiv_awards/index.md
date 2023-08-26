@@ -1,6 +1,6 @@
 ---
 title: Individual Awards
-layout: home
+layout: default
 nav_order: 5
 ---
 Individual Awards

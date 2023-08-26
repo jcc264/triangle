@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Governing Documents
 nav_order: 2
 ---
