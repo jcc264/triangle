@@ -1,5 +1,5 @@
 ---
-title: Triangle Chronology
+title: Triangle Timeline
 layout: home
 parent: History
 nav_order: 1
