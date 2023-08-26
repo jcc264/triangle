@@ -1,6 +1,7 @@
 ---
+title: Documents
 layout: default
-title: Governing Documents
-nav_order: 2
+nav_order: 1
+has_children: true
 ---
 Triangle's Governing Documents
