@@ -42,6 +42,7 @@ engineers, architects and scientists.  It shall carry out its
 purpose by establishing chapters that develop balanced men who cultivate high moral character, foster lifelong friendships, and live with integrity.
 
 ### SECTION 2
+{:.no_toc}
 
 The objectives of TRIANGLE, which apply to all members, are:
 
@@ -69,6 +70,7 @@ The members of TRIANGLE shall be active, alumni, associate,
 chapter honorary, national honorary and distinguished fellow.
 
 ### SECTION 2
+{:.no_toc}
 
 At the time of election to membership, all members of TRIANGLE shall be men who:
 
@@ -97,16 +99,19 @@ The government of TRIANGLE shall be vested in a National
 Convention and a National Council.
 
 ### SECTION 2
+{:.no_toc}
 
 TRIANGLE shall be organized into chapters and associations.
 
 ### SECTION 3
+{:.no_toc}
 
 Chapters shall be established only at technical institutions in
 which programs of study that lead to baccalaureate degrees in
 engineering, architecture, or approved sciences are taught.
 
 ### SECTION 4
+{:.no_toc}
 
 Associations may be organized by TRIANGLE alumni representing any
 or all chapters for the purpose of establishing and maintaining
@@ -135,6 +140,7 @@ chapter honorary, national honorary and distinguished fellow
 members.
 
 ### SECTION 2
+{:.no_toc}
 
 For each active, associate, alumni, chapter honorary, or
 distinguished fellow member initiated, the active organization shall pay to
@@ -144,15 +150,18 @@ TRIANGLE and other perquisites as long as he is a member of the
 Fraternity.
 
 ### SECTION 3
+{:.no_toc}
 
 Each year, each active organization shall pay to TRIANGLE the National Active
 Fee and National Education Fee for each active member of the chapter.
 
 ### SECTION 4
+{:.no_toc}
 
 Each year, each active organization and alumni organization shall pay to TRIANGLE a Chapter Fee.
 
 ### SECTION 5
+{:.no_toc}
 
 Voluntary National Alumni Dues shall be paid to TRIANGLE by
 alumni and associate members.
@@ -172,6 +181,7 @@ majority of the duly authorized representatives of the alumni
 organizations of three-fourths (3/4) of the chapters.
 
 ### SECTION 2
+{:.no_toc}
 
 The National Constitution may be amended by a referendum vote of
 chapters upon the presentation to National Council of a documented
@@ -192,6 +202,7 @@ Constitution of TRIANGLE and shall be equally authoritative in
 establishing the fundamental principles of the Fraternity.
 
 ### SECTION 2
+{:.no_toc}
 
 The Ritual shall be amended in the same manner as the National Constitution, with the exception of the Abridged History, which shall be amended in the same manner as the National Bylaws.
 
@@ -204,6 +215,7 @@ The Ritual shall be amended in the same manner as the National Constitution, wit
 The Graduation Ceremony of TRIANGLE shall be a part of the National Constitution of TRIANGLE.
 
 ### SECTION 2
+{:.no_toc}
 
 The Graduation Ceremony shall be amended in the same manner as the National Bylaws.
 
