@@ -17,7 +17,8 @@ As in effect on January 8, 2023.
 
 ### SECTION 1 - ACTIVE MEMBERS
 <ol type="1">
-<li>#### Para. 1 - Qualifications for Membership
+
+#### Para. <li> 1 - Qualifications for Membership
 
 <ol type="a">
 <li>Active members shall be chosen from undergraduate or graduate
