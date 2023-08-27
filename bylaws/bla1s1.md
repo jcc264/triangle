@@ -11,7 +11,8 @@ As in effect on January 8, 2023.
 ## ARTICLE 1 - MEMBERSHIP
 
 ### SECTION 1 - ACTIVE MEMBERS
-
+<ol type="1">
+<li>
 #### Para. 1 - Qualifications for Membership
 
 <OL TYPE="a">
@@ -39,7 +40,7 @@ full-time study.
 </p>
 </OL>
 
-
+</ol>
 #### Para. 2 - Recruitment and Pledging
 
 <OL TYPE="a">
