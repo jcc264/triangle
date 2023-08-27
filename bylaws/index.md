@@ -1,7 +1,7 @@
 ---
 title: Bylaws Index
 layout: default
-parent: Governing Documents
+nav_order: 3_
 has_children: true
 ---
 
