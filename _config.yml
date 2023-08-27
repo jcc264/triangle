@@ -6,3 +6,6 @@ url: https://kevnyc.github.io/triangle
 
 aux_links:
   Main Triangle Page: http://www.triangle.org
+
+kramdown:
+  toc_levels: 2..3
