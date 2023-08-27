@@ -1,5 +1,5 @@
 ---
-title: Bylaws Index
+title: National Bylaws
 layout: default
 nav_order: 3_
 has_children: true
