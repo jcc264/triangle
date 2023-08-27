@@ -1,7 +1,7 @@
 ---
 title: Bylaws
 layout: default
-parent: Governing Documents
+parent: Bylaws Index
 ---
 
 # Triangle Fraternity National Bylaws
