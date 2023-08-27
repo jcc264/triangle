@@ -17,6 +17,8 @@ As in effect on January 8, 2023.
 {:toc}
 </details>
 
+----
+
 ## ARTICLE 1 - NAME
 
 ### SECTION 1
@@ -227,3 +229,5 @@ those functions directed by the National Constitution, Ritual,
 Bylaws, mandates of the National Convention, and/or good
 administrative practices not contrary to TRIANGLE precepts and
 governing documents.
+
+----
