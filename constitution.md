@@ -1,7 +1,7 @@
 ---
 title: Constitution
 layout: default
-parent: Governing Documents
+nav_order: 2
 ---
 
 # Triangle Fraternity National Constitution
