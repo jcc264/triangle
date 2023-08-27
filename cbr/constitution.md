@@ -8,6 +8,15 @@ parent: Governing Documents
 
 As in effect on January 8, 2023.
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## ARTICLE 1 - NAME
 
 ### SECTION 1
