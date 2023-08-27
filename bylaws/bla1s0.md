@@ -3,11 +3,11 @@ title: Article 1, Section 0
 layout: default
 parent: National Bylaws
 ---
-<style type="text/css">
+style type="text/css"
 ol { list-style-type: lower-alpha; }
 ol ol { list-style-type: lower-roman; } 
 ol ol ol { list-style-type: upper-alpha; }
-</style>
+/style
 
 # Triangle Fraternity National Bylaws
 
