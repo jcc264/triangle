@@ -1,5 +1,5 @@
 ---
-title: Constitution
+title: National Constitution
 layout: default
 nav_order: 2
 ---
