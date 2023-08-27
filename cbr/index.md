@@ -1,5 +1,5 @@
 ---
-title: Documents
+title: Governing Documents
 layout: default
 nav_order: 1
 has_children: true
