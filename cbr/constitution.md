@@ -36,6 +36,7 @@ TRIANGLE shall not become affiliated with any other organization so as to lose i
 ## ARTICLE 2  - PURPOSE AND OBJECTIVES
 
 ### SECTION 1
+{:.no_toc}
 
 The purpose of TRIANGLE shall be to maintain a fraternity of
 engineers, architects and scientists.  It shall carry out its
@@ -65,6 +66,7 @@ The objectives of TRIANGLE, which apply to all members, are:
 ## ARTICLE 3  - MEMBERSHIP
 
 ### SECTION 1
+{:.no_toc}
 
 The members of TRIANGLE shall be active, alumni, associate,
 chapter honorary, national honorary and distinguished fellow.
@@ -83,6 +85,7 @@ At the time of election to membership, all members of TRIANGLE shall be men who:
 The status of a pledge and his initiation to the proper grade of membership shall be governed by the Ritual and Bylaws.
 
 ### SECTION 3
+{:.no_toc}
 
 TRIANGLE shall not allow dual pledging or membership with members
 of national academic college fraternities as defined in the
@@ -94,6 +97,7 @@ honorary and distinguished fellow.
 ## ARTICLE 4  - ORGANIZATION
 
 ### SECTION 1
+{:.no_toc}
 
 The government of TRIANGLE shall be vested in a National
 Convention and a National Council.
@@ -122,6 +126,7 @@ contact between members.
 ## ARTICLE 5  - OFFICERS
 
 ### SECTION 1
+{:.no_toc}
 
 The officers of TRIANGLE shall be the President, Vice President,
 Secretary, Treasurer and Past President.  Nothing shall
@@ -133,6 +138,7 @@ by one person.
 ## ARTICLE 6  - FUNDS
 
 ### SECTION 1
+{:.no_toc}
 
 For each man pledged, the active organization shall pay to TRIANGLE the
 National Pledge Fee.  This fee shall be waived for associate,
@@ -171,6 +177,7 @@ alumni and associate members.
 ## ARTICLE 7  - AMENDMENTS
 
 ### SECTION 1
+{:.no_toc}
 
 An amendment to the National Constitution shall be initiated as
 specified in the Bylaws; submitted to the chapters by the
@@ -196,6 +203,7 @@ to a vote of the chapters in accordance with this Article.
 ## ARTICLE 8  - RITUAL
 
 ### SECTION 1
+{:.no_toc}
 
 The Ritual of TRIANGLE shall be a part of the National
 Constitution of TRIANGLE and shall be equally authoritative in
@@ -211,6 +219,7 @@ The Ritual shall be amended in the same manner as the National Constitution, wit
 ## ARTICLE 9 - GRADUATION CEREMONY
 
 ### SECTION 1
+{:.no_toc}
 
 The Graduation Ceremony of TRIANGLE shall be a part of the National Constitution of TRIANGLE.
 
@@ -224,6 +233,7 @@ The Graduation Ceremony shall be amended in the same manner as the National Byla
 ## ARTICLE 10  - BYLAWS
 
 ### SECTION 1
+{:.no_toc}
 
 The Bylaws appended to this National Constitution shall conform
 to the fundamental principles expressed in the National
@@ -234,6 +244,7 @@ Constitution and Ritual of TRIANGLE.
 ## ARTICLE 11  - FRATERNITY REGULATIONS
 
 ### SECTION 1
+{:.no_toc}
 
 Fraternity Regulations, and changes thereto, shall be adopted by
 National Council to implement and provide for the continuance of
