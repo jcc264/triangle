@@ -5,7 +5,7 @@ nav_order: 1
 ---
 For now, this is a To Do List Page
 
-- [ ] Constitution
+- [x] Constitution
 - [ ] Bylaws
 - [ ] Regulations
 - [x] Chronology
