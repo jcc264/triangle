@@ -20,10 +20,12 @@ As in effect on January 8, 2023.
 ## ARTICLE 1 - NAME
 
 ### SECTION 1
+{:.no_toc}
 
 This organization shall be known and designated as TRIANGLE.
 
 ### SECTION 2
+{:.no_toc}
 
 TRIANGLE shall not become affiliated with any other organization so as to lose its name or purpose.
 
