@@ -4,9 +4,9 @@ layout: default
 parent: National Bylaws
 ---
 
-<style type="text/css">
+style type="text/css"
     ol { list-style-type: lower-alpha; }
-</style>
+style
 
 # Triangle Fraternity National Bylaws
 
