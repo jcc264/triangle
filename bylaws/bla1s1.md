@@ -31,7 +31,7 @@ to do so.  A candidate for affiliation, before he can receive an
 invitation, must receive a three-fourths (3/4) favorable vote of
 the active organization of that chapter.
 
-    Affiliation with another chapter shall confer upon a member all
+        Affiliation with another chapter shall confer upon a member all
 rights and responsibilities of an active member in that chapter. 
 Upon graduating from or leaving the technical institution, he
 shall become an alumni member of that chapter.  He may at any
