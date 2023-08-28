@@ -20,12 +20,10 @@ students whose curriculum leads to a baccalaureate or higher
 degree in engineering, architecture or  science and whose
 curriculum has been:
 
-<p>
-<ol>
-<li><p>requested for approval by the member's chapter, and</p>
-<li><p>approved by the Approved Courses Committee.</p>
-</ol>
-</p>
+
+requested for approval by the member's chapter, and
+approved by the Approved Courses Committee.
+
 
     2. No man shall be pledged until he has matriculated for full-time study.
 
