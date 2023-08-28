@@ -15,8 +15,7 @@ As in effect on January 8, 2023.
 <li>Para. 1 - Qualifications for Membership
 
 <ol type="a">
-<li>
-Active members shall be chosen from undergraduate or graduate
+<li>Active members shall be chosen from undergraduate or graduate
 students whose curriculum leads to a baccalaureate or higher
 degree in engineering, architecture or  science and whose
 curriculum has been:
@@ -25,17 +24,17 @@ curriculum has been:
 <li><p>requested for approval by the member's chapter, and</p>
 <li><p>approved by the Approved Courses Committee.</p>
 </ol>
+
 <li><p>No man shall be pledged until he has matriculated for
-full-time study.
-</p>
-<li><p>A man may be pledged only if his cumulative grade point average is at least 2.5 on a 4.00 scale or, if he has not completed the first term of the freshman year, if his high school cumulative grade point average is at least 2.5 on a 4.00 scale or equivalent. The scholastic requirements above shall be a minimum national standard; chapters may have more stringent standards.
-</p>
-<li><p>A man may be initiated only if his cumulative grade point average is at least that required for graduation in his curriculum and at least 2.5 on a 4.00 scale or equivalent. This requirement shall be waived if the man has not completed the first term of the freshman year. The scholastic requirements above shall be a minimum national standard; chapters may have more stringent standards.
-</p>
-<li><p>Any man pledged or repledged after completing his first academic term shall, at the time of pledging, meet the minimum scholastic requirements for initiation and shall have a cumulative grade point average of at least 2.5 on a 4.00 scale or equivalent.
-</p>
-<li><p>Membership is for life. Once he has been initiated, a member does not relinquish membership in Triangle as a result of any changes such that the member no longer meets the initial qualifications for membership.
-</p>
+full-time study.</p>
+
+<li><p>A man may be pledged only if his cumulative grade point average is at least 2.5 on a 4.00 scale or, if he has not completed the first term of the freshman year, if his high school cumulative grade point average is at least 2.5 on a 4.00 scale or equivalent. The scholastic requirements above shall be a minimum national standard; chapters may have more stringent standards.</p>
+
+<li><p>A man may be initiated only if his cumulative grade point average is at least that required for graduation in his curriculum and at least 2.5 on a 4.00 scale or equivalent. This requirement shall be waived if the man has not completed the first term of the freshman year. The scholastic requirements above shall be a minimum national standard; chapters may have more stringent standards.</p>
+
+<li><p>Any man pledged or repledged after completing his first academic term shall, at the time of pledging, meet the minimum scholastic requirements for initiation and shall have a cumulative grade point average of at least 2.5 on a 4.00 scale or equivalent.</p>
+
+<li><p>Membership is for life. Once he has been initiated, a member does not relinquish membership in Triangle as a result of any changes such that the member no longer meets the initial qualifications for membership.</p>
 </ol>
 
 </ol>
