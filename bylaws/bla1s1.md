@@ -20,6 +20,52 @@ As in effect on January 8, 2023.
 
 4. Para. 4 - Initiation
 
+    1. During the probation period each pledge shall read the
+History of TRIANGLE and the play "Everyman".  He shall prepare a
+neat synopsis of each, which he shall present for approval to the
+secretary of the active organization at least two days before the
+initiation ceremony.
+
+    1. Eligibility of each pledge for active membership shall be
+determined in a secret ballot at a regular meeting of the active
+organization. Every member of the active organization shall have
+the opportunity to vote on each pledge. Such vote shall not be
+taken upon any pledge who has not been a pledge of the chapter
+for at least four weeks.
+
+    1. A pledge shall be elected to membership unless three or more
+unfavorable votes are cast; however, any chapter may by provision
+of its constitution change the number of such unfavorable votes. 
+Any pledge who fails to be so elected shall be released
+immediately, in the manner prescribed in these Bylaws.
+
+    1. After selection of a date for initiation, the active
+organization shall forward to the National Office a Request for
+Initiation, the form of which shall be specified by the National Office, and the appropriate National Member Service Fee. Such requests and fees shall be forwarded to reach the National Office at least fourteen (14) days before the date of the proposed initiation.
+
+        No candidate shall be conducted through any part of the
+initiation ceremony until definite permission to initiate has
+been received from the National Office.
+
+    1. The initiation ceremony shall be conducted in accordance with
+the Ritual.
+
+    1. A banquet shall be held as part of the initiation ceremony.
+
+        The new initiates, all active members of the chapter, and other
+members of TRIANGLE shall attend the banquet.
+
+        A suitable program shall be planned primarily with the motive of
+extending a hearty welcome to the initiates and to advance the
+knowledge of TRIANGLE ideals, traditions, history and fraternal
+spirit among the members.
+
+    1. After completion of the initiation ceremony and the banquet,
+each initiate shall have no voting rights beyond those accorded
+pledges until he has satisfied the following requirements:
+
+
+
 5. Para. 5 - Posthumous Initiation
 
     1. National Council, upon request from a chapter, may approve the posthumous initiation of a pledge.  Such approval shall require a two-thirds (2/3) vote of National Council.
