@@ -10,16 +10,10 @@ As in effect on January 8, 2023.
 ## ARTICLE 1 - MEMBERSHIP
 
 ### SECTION 1 - ACTIVE MEMBERS
-<ol type="1">
 
-<li> Para. 1 - Qualifications for Membership
+1. Para. 1 - Qualifications for Membership
 
-<ol type="a">
 
-<li>Paragraph:</li>
-
-</ol>
-
-</ol>
+2. Para. 2 - second paragraph
 
 ----
