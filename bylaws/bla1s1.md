@@ -14,16 +14,18 @@ As in effect on January 8, 2023.
 <ol type="1">
 <li>Para. 1 - Qualifications for Membership
 
-<ol type="a">
+<ol>
 <li>Active members shall be chosen from undergraduate or graduate
 students whose curriculum leads to a baccalaureate or higher
 degree in engineering, architecture or  science and whose
 curriculum has been:
 
-<ol type="i">
+<p>
+<ol>
 <li><p>requested for approval by the member's chapter, and</p>
 <li><p>approved by the Approved Courses Committee.</p>
 </ol>
+</p>
 
 <li><p>No man shall be pledged until he has matriculated for
 full-time study.</p>
