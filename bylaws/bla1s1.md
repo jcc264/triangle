@@ -28,3 +28,8 @@ As in effect on January 8, 2023.
 
 8. Para. 8 - Cooperative Education Programs
 
+    a. During the time that an active member is participating in a
+cooperative education program and is away from the technical
+institution at which he holds active membership, he shall
+continue to be considered an active member of his chapter.
+
