@@ -5,7 +5,9 @@ parent: National Bylaws
 ---
 
 <style type="text/css">
-    ol { list-style-type: upper-alpha; }
+    ol { list-style-type: lower-roman; }
+    ol ol { list-style-type: lower-roman; } 
+    ol ol ol { list-style-type: lower-roman; }
 </style>
 
 # Triangle Fraternity National Bylaws
@@ -68,8 +70,8 @@ spirit among the members.
 each initiate shall have no voting rights beyond those accorded
 pledges until he has satisfied the following requirements:
 
-        i. First
-        ii. Second
+        i.  First
+        ii.  Second
 
 5. Para. 5 - Posthumous Initiation
 
