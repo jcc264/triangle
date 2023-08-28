@@ -64,13 +64,10 @@ spirit among the members.
 each initiate shall have no voting rights beyond those accorded
 pledges until he has satisfied the following requirements:
 
-        1. Each initiate shall fill out and sign a Membership Record which he shall present to the secretary of the active organization for approval;
-
-        1. Each initiate shall fill out and sign a sheet in the Membership Book of the chapter;
-
-        1. Each initiate shall read the National Constitution, Bylaws, Fraternity Regulations, and Ritual within a few days after the initiation; and
-
-        1. Each initiate shall memorize the Oath and shall repeat it correctly, from memory, at a regular meeting of the active organization.
+        <ol type="i">
+        <li>First
+        <li>Second
+        </ol>
 
 5. Para. 5 - Posthumous Initiation
 
