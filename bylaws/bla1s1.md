@@ -12,21 +12,19 @@ As in effect on January 8, 2023.
 
 ### SECTION 1 - ACTIVE MEMBERS
 <ol type="1">
-<li>
-#### Para. 1 - Qualifications for Membership
+<li>Para. 1 - Qualifications for Membership
 
-<OL TYPE="a">
-<LI><p>
+<ol type="a">
+<li>
 Active members shall be chosen from undergraduate or graduate
 students whose curriculum leads to a baccalaureate or higher
 degree in engineering, architecture or  science and whose
 curriculum has been:
-</p>
 
-<OL TYPE="i">
-<LI><p>requested for approval by the member's chapter, and</p>
+<ol type="i">
+<li><p>requested for approval by the member's chapter, and</p>
 <li><p>approved by the Approved Courses Committee.</p>
-</OL>
+</ol>
 <li><p>No man shall be pledged until he has matriculated for
 full-time study.
 </p>
@@ -38,12 +36,12 @@ full-time study.
 </p>
 <li><p>Membership is for life. Once he has been initiated, a member does not relinquish membership in Triangle as a result of any changes such that the member no longer meets the initial qualifications for membership.
 </p>
-</OL>
+</ol>
 
 </ol>
 #### Para. 2 - Recruitment and Pledging
 
-<OL TYPE="a">
+<ol type="a">
 <li><p>Any member of TRIANGLE may suggest the name of a man for
 consideration for membership in the Fraternity.
 </p>
@@ -99,7 +97,7 @@ president of the active organization or his designee shall
 administer the pledge oath as follows:
 </p> 
 
-<BLOCKQUOTE>"Mr. __________(state full name), please raise your
+<blockquote>"Mr. __________(state full name), please raise your
 right hand and repeat these words after me:
 <br>
 <br>I solemnly swear (or affirm) upon my word and honor as a
@@ -110,7 +108,7 @@ which TRIANGLE may offer, and that I will so conduct myself as to
 warrant the respect and esteem of my fellow men. I promise to in
 no way make intelligible to others any of the secrets of TRIANGLE
 that may become known to me."
-</BLOCKQUOTE>
+</blockquote>
 
 <li><p>The president or his designee shall then affix the pledge pin
 to the coat lapel or shirt or sweater of the pledge, telling him
@@ -124,12 +122,12 @@ Pledging  and the appropriate National Pledge Fee.  A separate
 form shall be filed for each pledge.  These forms and fees shall
 be received by the National Office not more than fourteen (14)
 days following the date of pledging.
-</P>
-</OL>
+</p>
+</ol>
 
 #### Para. 3 - Education and Probation Period
 
-<OL TYPE="a">
+<ol type="a">
 <li><p>During the probation period, each pledge should be made to
 feel that he has a part in the affairs of the Fraternity, and he
 should be required to attend chapter meetings, except those parts related to membership, initiation, the Ritual, and the Graduation Ceremony. The pledges should be encouraged to take an
@@ -168,7 +166,7 @@ member education program which shall include the following
 information:
 </p>
 
-<OL TYPE="i">
+<ol type="i">
 <li><p>the responsibilities of members,</p>
 <li><p>the chapter roll,</p>
 <li><p>the Founders of TRIANGLE,</p>
@@ -182,7 +180,7 @@ Regulations,</p>
 <li><p>chapter constitution and bylaws,</p>
 <li><p>Robert's Rules of Order, and</p>
 <li><p>risk management and the effects of alcohol consumption on human physiology.</p>
-</OL>
+</ol>
 
 <li><p>The chapter should supplement the above information with
 programs such as how to study and time management.
@@ -190,12 +188,12 @@ programs such as how to study and time management.
 
 <li><p>These classes are to be completed in no less than twenty-one
 (21) days and no more than eighty-four (84) days.</p>
-</OL>
+</ol>
 
 
 #### Para. 4 - Initiation
 
-<OL TYPE="a">
+<ol type="a">
 
 <li><p>During the probation period each pledge shall read the
 History of TRIANGLE and the play "Everyman".  He shall prepare a
@@ -251,7 +249,7 @@ each initiate shall have no voting rights beyond those accorded
 pledges until he has satisfied the following requirements:
 </p>
 
-<OL TYPE="i">
+<ol type="i">
 
 <li><p>Each initiate shall fill out and sign a Membership Record
 which he shall present to the secretary of the active
@@ -267,8 +265,8 @@ initiation; and
 correctly, from memory, at a regular meeting of the active
 organization.
 </p>
-</OL>
-</OL>
+</ol>
+</ol>
 
 #### Para. 5 - Posthumous Initiation
 
@@ -285,7 +283,7 @@ organization.
 
 #### Para. 6 - Affiliation
 
-<OL TYPE="a">
+<ol type="a">
 <li><p>When an active member withdraws from one technical
 institution and enters another at which a chapter of TRIANGLE is
 located, he may affiliate with this chapter upon its invitation
@@ -302,11 +300,11 @@ time request that he be designated an alumni member of the
 chapter which initiated him.  Upon receipt of such request the
 Secretary shall revise the membership records of the Fraternity.
 </p>
-</OL>
+</ol>
 
 #### Para. 7 - Graduate student active members
 
-<OL TYPE="a">
+<ol type="a">
 <li><p>An alumni member enrolled in a graduate course of study at a
 technical institution at which a chapter of TRIANGLE is located,
 may request active member status with this chapter.  Such request
@@ -323,19 +321,19 @@ affiliated with the second chapter.
 and responsibilities of an active member in that chapter.  His
 change in member status from alumni to active shall take effect
 immediately.
-</P>
-</OL>
+</p>
+</ol>
 
 #### Para. 8 - Cooperative Education Programs
 
-<P>
-<OL TYPE="a">
+<p>
+<ol type="a">
 <li><p>During the time that an active member is participating in a
 cooperative education program and is away from the technical
 institution at which he holds active membership, he shall
 continue to be considered an active member of his chapter.
-</P>
-</OL>
+</p>
+</ol>
 
 
 ----
