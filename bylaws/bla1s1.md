@@ -22,6 +22,14 @@ As in effect on January 8, 2023.
 
 5. Para. 5 - Posthumous Initiation
 
+    1. National Council, upon request from a chapter, may approve the posthumous initiation of a pledge.  Such approval shall require a two-thirds (2/3) vote of National Council.
+
+    1. After selection of a date for initiation, the active organization shall forward to the National Office a Request for Initiation, the form of which shall be specified by the National Office.  Such requests shall be forwarded to reach the National Office at least fourteen (14) days before the date of the proposed initiation.
+
+    1. The initiation of member shall be acknowledged by the chapter in a manner consistent with the Ritual of TRIANGLE.
+
+    1. Following the initiation the secretary of the active organization shall complete a Membership Record for the initiate.
+
 6. Para. 6 - Affiliation
 
     1. When an active member withdraws from one technical
