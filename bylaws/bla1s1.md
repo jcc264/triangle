@@ -71,6 +71,11 @@ each initiate shall have no voting rights beyond those accorded
 pledges until he has satisfied the following requirements:
 
         1.  First
+        
+            1. Next
+            
+                1. Again
+                
         1.  Second
 
 5. Para. 5 - Posthumous Initiation
