@@ -11,8 +11,8 @@ As in effect on January 8, 2023.
 ## ARTICLE 1 - MEMBERSHIP
 
 ### SECTION 1 - ACTIVE MEMBERS
-<ol type="1">
-<li>Para. 1 - Qualifications for Membership
+
+1. Para. 1 - Qualifications for Membership
 
 <ol>
 <li>Active members shall be chosen from undergraduate or graduate
@@ -39,8 +39,8 @@ full-time study.</p>
 <li><p>Membership is for life. Once he has been initiated, a member does not relinquish membership in Triangle as a result of any changes such that the member no longer meets the initial qualifications for membership.</p>
 </ol>
 
-</ol>
-#### Para. 2 - Recruitment and Pledging
+
+2. Para. 2 - Recruitment and Pledging
 
 <ol type="a">
 <li><p>Any member of TRIANGLE may suggest the name of a man for
@@ -126,7 +126,7 @@ days following the date of pledging.
 </p>
 </ol>
 
-#### Para. 3 - Education and Probation Period
+3. Para. 3 - Education and Probation Period
 
 <ol type="a">
 <li><p>During the probation period, each pledge should be made to
@@ -192,7 +192,7 @@ programs such as how to study and time management.
 </ol>
 
 
-#### Para. 4 - Initiation
+4. Para. 4 - Initiation
 
 <ol type="a">
 
@@ -269,7 +269,7 @@ organization.
 </ol>
 </ol>
 
-#### Para. 5 - Posthumous Initiation
+5. Para. 5 - Posthumous Initiation
 
 <ol type="a">
 <li><p>National Council, upon request from a chapter, may approve the posthumous initiation of a pledge.  Such approval shall require a two-thirds (2/3) vote of National Council.
@@ -282,7 +282,7 @@ organization.
 </p>
 </ol>
 
-#### Para. 6 - Affiliation
+6. Para. 6 - Affiliation
 
 <ol type="a">
 <li><p>When an active member withdraws from one technical
@@ -303,7 +303,7 @@ Secretary shall revise the membership records of the Fraternity.
 </p>
 </ol>
 
-#### Para. 7 - Graduate student active members
+7. Para. 7 - Graduate student active members
 
 <ol type="a">
 <li><p>An alumni member enrolled in a graduate course of study at a
@@ -325,7 +325,7 @@ immediately.
 </p>
 </ol>
 
-#### Para. 8 - Cooperative Education Programs
+8. Para. 8 - Cooperative Education Programs
 
 <p>
 <ol type="a">
