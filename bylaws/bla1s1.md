@@ -14,8 +14,7 @@ As in effect on January 8, 2023.
 
 1. Para. 1 - Qualifications for Membership
 
-
-    1. Active members shall be chosen from undergraduate or graduate
+	1. Active members shall be chosen from undergraduate or graduate
 students whose curriculum leads to a baccalaureate or higher
 degree in engineering, architecture or  science and whose
 curriculum has been:
@@ -25,16 +24,16 @@ requested for approval by the member's chapter, and
 approved by the Approved Courses Committee.
 
 
-    2. No man shall be pledged until he has matriculated for full-time study.
+	2. No man shall be pledged until he has matriculated for full-time study.
 
-    3. A man may be pledged only if his cumulative grade point average is at least 2.5 on a 4.00 scale or, if he has not completed the first term of the freshman year, if his high school cumulative grade point average is at least 2.5 on a 4.00 scale or equivalent. The scholastic requirements above shall be a minimum national standard; chapters may have more stringent standards.
-    
-    4. A man may be initiated only if his cumulative grade point average is at least that required for graduation in his curriculum and at least 2.5 on a 4.00 scale or equivalent. This requirement shall be waived if the man has not completed the first term of the freshman year. The scholastic requirements above shall be a minimum national standard; chapters may have more stringent standards.
-    
+	3. A man may be pledged only if his cumulative grade point average is at least 2.5 on a 4.00 scale or, if he has not completed the first term of the freshman year, if his high school cumulative grade point average is at least 2.5 on a 4.00 scale or equivalent. The scholastic requirements above shall be a minimum national standard; chapters may have more stringent standards.
+
+	4. A man may be initiated only if his cumulative grade point average is at least that required for graduation in his curriculum and at least 2.5 on a 4.00 scale or equivalent. This requirement shall be waived if the man has not completed the first term of the freshman year. The scholastic requirements above shall be a minimum national standard; chapters may have more stringent standards.
+
     5. Any man pledged or repledged after completing his first academic term shall, at the time of pledging, meet the minimum scholastic requirements for initiation and shall have a cumulative grade point average of at least 2.5 on a 4.00 scale or equivalent.
-    
+
     6. Membership is for life. Once he has been initiated, a member does not relinquish membership in Triangle as a result of any changes such that the member no longer meets the initial qualifications for membership.
-    
+
 
 
 2. Para. 2 - Recruitment and Pledging
