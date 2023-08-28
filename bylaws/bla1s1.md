@@ -64,11 +64,11 @@ spirit among the members.
 each initiate shall have no voting rights beyond those accorded
 pledges until he has satisfied the following requirements:
 
-        1.  First
+        i.  First
         
-            1. Next
+            A.  Next
             
-                1. Again
+                I.  Again
                 
         1.  Second
 
