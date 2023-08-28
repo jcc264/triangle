@@ -13,6 +13,8 @@ As in effect on January 8, 2023.
 
 1. Para. 1 - Qualifications for Membership
 
+    1. Subpara 1
+    2. Subpara 2
 
 2. Para. 2 - second paragraph
 
