@@ -70,8 +70,8 @@ spirit among the members.
 each initiate shall have no voting rights beyond those accorded
 pledges until he has satisfied the following requirements:
 
-        i.  First
-        ii.  Second
+        1.  First
+        1.  Second
 
 5. Para. 5 - Posthumous Initiation
 
