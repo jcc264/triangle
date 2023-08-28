@@ -4,12 +4,6 @@ layout: default
 parent: National Bylaws
 ---
 
-<style type="text/css">
-    ol { list-style-type: lower-roman; }
-    ol ol { list-style-type: lower-roman; } 
-    ol ol ol { list-style-type: lower-roman; }
-</style>
-
 # Triangle Fraternity National Bylaws
 
 As in effect on January 8, 2023.
