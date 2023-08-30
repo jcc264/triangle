@@ -18,7 +18,7 @@ Para. 1 - Qualifications for Membership
 <li>Active members shall be chosen from undergraduate or graduate
 students whose curriculum leads to a baccalaureate or higher
 degree in engineering, architecture or  science and whose
-curriculum has been:</li>
+curriculum has been:
 
     <ol type="i">
     <li>requested for approval by the member's chapter, and</li>
