@@ -1,5 +1,5 @@
 ---
-title: Art. 1, Sec. 0 - Membership
+title: Art 1, Sec 0 - Membership
 layout: default
 parent: National Bylaws
 ---
