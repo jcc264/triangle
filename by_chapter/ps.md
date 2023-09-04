@@ -8,10 +8,8 @@ parent: Awards by Chapter
 
 ## Individual Honors
 
-| National Council/**National President:**  | **William H. Smith** ps28 (1935-40)<br>Raymond O. Bell ps34 (1941-42)<br>Raymond L. Lantz ps51 (1970-72)<br>Charles S. Barbour ps43 (1978-86)<br>Gifford H. Albright ps52 (1982-85)<br>Robert N. Bowman ps87 (2000-02)<br>David H. Yick ps63 (2013-17)<br>**John C. Cottage, Jr.** ps04 (2014- ) |
-
-<table style="border-collapse: collapse" border="1" bordercolor="#990033" cellpadding="2" cellspacing="0">
-	<tbody>
+<table style="border-collapse: collapse; border-radius: 10px" border="1" bordercolor="#990033" cellpadding="2" cellspacing="0">
+<tbody>
 
 <tr>
 <td colspan=2 align="center">Individual Honors</td>
