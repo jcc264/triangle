@@ -1,7 +1,7 @@
 ---
 title: National Bylaws
 layout: default
-nav_order: 3_
+nav_order: 3
 has_children: true
 ---
 
