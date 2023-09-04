@@ -4,16 +4,14 @@ layout: default
 parent: Awards by Chapter
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
+
 # Penn State Chapter Awards
 
 ## Individual Honors
 
-<table style="border-collapse: collapse; border-radius: 10px" border="1" bordercolor="#990033" cellpadding="2" cellspacing="0">
+<table>
 <tbody>
-
-<tr>
-<td colspan=2 align="center">Individual Honors</td>
-</tr>
 
 <tr>
 <td>National Council/<b>National President</b>:</td>
@@ -146,11 +144,13 @@ parent: Awards by Chapter
 <td>Compass of Character Award:</td>
 <td>
 </td></tr>
+</tbody>
+</table>
 
-<tr>
-<td colspan=2 align="center">Chapter Honors</td>
-</tr>
+## Chapter Honors
 
+<table>
+<tbody>
 <tr>
 <td>General:</td>
 <td>1962 - 3rd Place CPA
@@ -228,9 +228,7 @@ parent: Awards by Chapter
 <br>2022 - TBHC Property Improvement Contest - 2nd place
 
 </td></tr>
-
 </tbody>
-
 </table>
 
 <hr>
