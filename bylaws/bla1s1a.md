@@ -1,8 +1,15 @@
 ---
-title: Art 1, Sec 0 - Membership
+title: Art 1, Sec 1a - Active Members
 layout: default
 parent: National Bylaws
 ---
+
+<style type="text/css">
+    ol { list-style-type: lower-alpha; }
+    ol ol { list-style-type: lower-roman; } 
+    ol ol ol { list-style-type: upper-alpha; }
+</style>
+
 
 # Triangle Fraternity National Bylaws
 
@@ -14,28 +21,24 @@ As in effect on January 8, 2023.
 
 Para. 1 - Qualifications for Membership
 
-<ol type="a">
-<li>Active members shall be chosen from undergraduate or graduate
+1. Active members shall be chosen from undergraduate or graduate
 students whose curriculum leads to a baccalaureate or higher
 degree in engineering, architecture or  science and whose
 curriculum has been:
 
-    <ol type="i">
-    <li>requested for approval by the member's chapter, and</li>
-    <li>approved by the Approved Courses Committee.</li>
-    </ol>
+    1. requested for approval by the member's chapter, and
+    1. approved by the Approved Courses Committee.
 
-<li>No man shall be pledged until he has matriculated for
+1. No man shall be pledged until he has matriculated for
 full-time study.
 
-<li>A man may be pledged only if his cumulative grade point average is at least 2.5 on a 4.00 scale or, if he has not completed the first term of the freshman year, if his high school cumulative grade point average is at least 2.5 on a 4.00 scale or equivalent. The scholastic requirements above shall be a minimum national standard; chapters may have more stringent standards.</li>
+1. A man may be pledged only if his cumulative grade point average is at least 2.5 on a 4.00 scale or, if he has not completed the first term of the freshman year, if his high school cumulative grade point average is at least 2.5 on a 4.00 scale or equivalent. The scholastic requirements above shall be a minimum national standard; chapters may have more stringent standards.
 
-<li>A man may be initiated only if his cumulative grade point average is at least that required for graduation in his curriculum and at least 2.5 on a 4.00 scale or equivalent. This requirement shall be waived if the man has not completed the first term of the freshman year. The scholastic requirements above shall be a minimum national standard; chapters may have more stringent standards.</li>
+1. A man may be initiated only if his cumulative grade point average is at least that required for graduation in his curriculum and at least 2.5 on a 4.00 scale or equivalent. This requirement shall be waived if the man has not completed the first term of the freshman year. The scholastic requirements above shall be a minimum national standard; chapters may have more stringent standards.
 
-<li>Any man pledged or repledged after completing his first academic term shall, at the time of pledging, meet the minimum scholastic requirements for initiation and shall have a cumulative grade point average of at least 2.5 on a 4.00 scale or equivalent.</li>
+1. Any man pledged or repledged after completing his first academic term shall, at the time of pledging, meet the minimum scholastic requirements for initiation and shall have a cumulative grade point average of at least 2.5 on a 4.00 scale or equivalent.
 
-<li>Membership is for life. Once he has been initiated, a member does not relinquish membership in Triangle as a result of any changes such that the member no longer meets the initial qualifications for membership.</li>
-</ol>
+1. Membership is for life. Once he has been initiated, a member does not relinquish membership in Triangle as a result of any changes such that the member no longer meets the initial qualifications for membership.
 
 Para. 2 - Recruitment and Pledging
 
@@ -89,23 +92,23 @@ the pledge oath before two or more members of the chapter.  The
 president of the active organization or his designee shall
 administer the pledge oath as follows:
 
-<blockquote>
-
-"Mr. __________(state full name), please raise your
-right hand and repeat these words after me:
-
-<br><br>
-
-I solemnly swear (or affirm) upon my word and honor as a
-gentleman that I will become a member of ____________ Chapter of
-TRIANGLE at such time as it may prescribe, and that I will follow
-to the best of my ability any directions regarding my actions
-which TRIANGLE may offer, and that I will so conduct myself as to
-warrant the respect and esteem of my fellow men. I promise to in
-no way make intelligible to others any of the secrets of TRIANGLE
-that may become known to me."
-
-</blockquote>
+    <blockquote>
+    
+    "Mr. __________(state full name), please raise your
+    right hand and repeat these words after me:
+    
+    <br><br>
+    
+    I solemnly swear (or affirm) upon my word and honor as a
+    gentleman that I will become a member of ____________ Chapter of
+    TRIANGLE at such time as it may prescribe, and that I will follow
+    to the best of my ability any directions regarding my actions
+    which TRIANGLE may offer, and that I will so conduct myself as to
+    warrant the respect and esteem of my fellow men. I promise to in
+    no way make intelligible to others any of the secrets of TRIANGLE
+    that may become known to me."
+    
+    </blockquote>
 
 1. The president or his designee shall then affix the pledge pin to the coat lapel or shirt or sweater of the pledge, telling him that he is expected to wear it in an appropriate manner until initiated.
 
