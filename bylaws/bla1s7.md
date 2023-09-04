@@ -1,7 +1,8 @@
 ---
-title: A1, S7 - Chapter Eternal Ceremony
+title: Section 7 - Chapter Eternal Ceremony
 layout: default
-parent: National Bylaws
+parent: Article 1 - Membership
+grand_parent: National Bylaws
 ---
 
 <style type="text/css">

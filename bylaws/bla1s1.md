@@ -1,7 +1,8 @@
 ---
-title: A1, S1 - Active Members
+title: Section 1 - Active Members
 layout: default
-parent: National Bylaws
+parent: Article 1 - Membership
+grand_parent: National Bylaws
 ---
 
 As in effect on January 8, 2023.

@@ -1,7 +1,8 @@
 ---
-title: A1, S3 - Associate Members
+title: Section 3 - Associate Members
 layout: default
-parent: National Bylaws
+parent: Article 1 - Membership
+grand_parent: National Bylaws
 ---
 
 <style type="text/css">

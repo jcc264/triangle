@@ -1,7 +1,8 @@
 ---
-title: A1, S2 - Alumni Members
+title: Section 2 - Alumni Members
 layout: default
-parent: National Bylaws
+parent: Article 1 - Membership
+grand_parent: National Bylaws
 ---
 
 <style type="text/css">

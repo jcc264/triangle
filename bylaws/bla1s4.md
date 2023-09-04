@@ -1,7 +1,8 @@
 ---
-title: A1, S4 - Honorary Members
+title: Section 4 - Honorary Members
 layout: default
-parent: National Bylaws
+parent: Article 1 - Membership
+grand_parent: National Bylaws
 ---
 
 <style type="text/css">

@@ -1,7 +1,8 @@
 ---
-title: A1, S6 - Release of Pledges and Members
+title: Section 6 - Release of Pledges and Members
 layout: default
-parent: National Bylaws
+parent: Article 1 - Membership
+grand_parent: National Bylaws
 ---
 
 <style type="text/css">

@@ -1,7 +1,8 @@
 ---
-title: A1, S5 - Distinguished Fellows
+title: Section 5 - Distinguished Fellows
 layout: default
-parent: National Bylaws
+parent: Article 1 - Membership
+grand_parent: National Bylaws
 ---
 
 <style type="text/css">

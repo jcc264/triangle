@@ -2,6 +2,7 @@
 title: Art 1, Sec 1a - Active Members
 layout: default
 parent: National Bylaws
+nav_exclude: true
 ---
 
 <style type="text/css">
