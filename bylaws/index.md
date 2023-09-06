@@ -7,5 +7,5 @@ has_children: true
 
 # Triangle Fraternity National Bylaws
 
-As in effect on January 8, 2023.
+{%- include bl_effective.html -%}
 

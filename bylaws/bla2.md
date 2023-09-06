@@ -1,5 +1,5 @@
 ---
-title: Article 1 - Membership
+title: Article 2 - Organization
 layout: default
 parent: National Bylaws
 has_children: true
@@ -12,5 +12,5 @@ has_children: true
 
 {%- include bl_effective.html -%}
 
-# ARTICLE 1 - MEMBERSHIP
+# ARTICLE 2 - ORGANIZATION
 

@@ -5,13 +5,9 @@ parent: Article 1 - Membership
 grand_parent: National Bylaws
 ---
 
-<style type="text/css">
-    ol { list-style-type: lower-roman; }
-    ol ol { list-style-type: upper-alpha; } 
-</style>
+{%- include list_styles.html -%}
 
-
-As in effect on January 8, 2023.
+{%- include bl_effective.html -%}
 
 # ARTICLE 1 - MEMBERSHIP
 

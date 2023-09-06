@@ -5,7 +5,9 @@ parent: Article 1 - Membership
 grand_parent: National Bylaws
 ---
 
-As in effect on January 8, 2023.
+{%- include list_styles.html -%}
+
+{%- include bl_effective.html -%}
 
 # ARTICLE 1 - MEMBERSHIP
 
