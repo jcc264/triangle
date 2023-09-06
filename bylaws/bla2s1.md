@@ -5,7 +5,7 @@ parent: Article 2 - Organization
 grand_parent: National Bylaws
 ---
 
-{%- include bl_effective.html -%}
+{%- include bl_effective_date.html -%}
 
 # ARTICLE 2 - ORGANIZATION
 

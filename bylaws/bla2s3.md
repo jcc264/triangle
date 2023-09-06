@@ -7,7 +7,7 @@ grand_parent: National Bylaws
 
 {%- include list_styles.html -%}
 
-{%- include bl_effective.html -%}
+{%- include bl_effective_date.html -%}
 
 # ARTICLE 2 - ORGANIZATION
 

@@ -1,5 +1,5 @@
 ---
-title: Article 1 - Membership
+title: Article 5 - Emblems and Motto
 layout: default
 parent: National Bylaws
 has_children: true
@@ -12,5 +12,5 @@ has_children: true
 
 {%- include bl_effective_date.html -%}
 
-# ARTICLE 1 - MEMBERSHIP
+# ARTICLE 5 - EMBLEMS AND MOTTO
 

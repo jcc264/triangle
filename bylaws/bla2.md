@@ -10,7 +10,7 @@ has_children: true
     ol ol { list-style-type: lower-roman; } 
 </style>
 
-{%- include bl_effective.html -%}
+{%- include bl_effective_date.html -%}
 
 # ARTICLE 2 - ORGANIZATION
 

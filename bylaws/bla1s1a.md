@@ -14,7 +14,7 @@ nav_exclude: true
 
 # Triangle Fraternity National Bylaws
 
-{%- include bl_effective.html -%}
+{%- include bl_effective_date.html -%}
 
 ## ARTICLE 1 - MEMBERSHIP
 
