@@ -2,15 +2,11 @@
 title: 3.8 - Chapter Sanctions
 layout: default
 parent: Fraternity Regulations
+nav_order: 308
 ---
+{%- include list_styles.html -%}
 
-<style type="text/css">
-    ol { list-style-type: lower-alpha; }
-    ol ol { list-style-type: lower-roman; } 
-    ol ol ol { list-style-type: upper-alpha; } 
-</style>
-
-As in effect on August 13, 2023.
+{%- include regs_effective_date.html -%}
 
 # Fraternity Regulation 3.8 (Revised)
 
@@ -210,3 +206,4 @@ Any suspension or lesser sanction by National Council may be appealed by the cha
 <li>A chapter that seeks immediate and appropriate medical assistance for a person in need related to the use or consumption of alcohol, drugs, or to another medical emergency, may be eligible for mitigation of sanction(s) related to failure(s) to abide by organizational guidelines. To be eligible for this potential mitigation, the chapter will be required to meet in person or by phone with a national staff member or an alumni volunteer designated by the fraternity. A chapter may benefit from this policy more than once, though repeated use of the policy may receive stricter scrutiny.</li>
 </ol>
 
+---

@@ -6,7 +6,7 @@ nav_order: 1
 For now, this is a To Do List Page
 
 - [x] Constitution
-- [ ] Bylaws
+- [x] Bylaws
 - [ ] Regulations
 - [x] Chronology
 - [ ] Coat of Arms History
