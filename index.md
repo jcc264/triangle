@@ -7,7 +7,10 @@ For now, this is a To Do List Page
 
 - [x] Constitution
 - [x] Bylaws
-- [ ] Regulations
+- [ ] Bylaw Revision History
+- [x] Regulations
+- [ ] Regulation Revision History
+- [ ] Regulation internal links
 - [x] Chronology
 - [ ] Coat of Arms History
 - [x] Executive Directors
