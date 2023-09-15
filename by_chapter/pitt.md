@@ -1,20 +1,22 @@
 ---
-title: UCLA
+title: Pitt
 layout: default
 parent: Awards by Chapter
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
 
-# UCLA Chapter Awards
+# Pitt Chapter Awards
 
 ## Individual Honors
 
 <table>
 <tbody>
+
 <tr>
 <td>National Council/<b>National President</b>:</td>
-<td>Kevin Y. Fong ucla84 (1997-2016, 2021- )
+<td><b>Kurt W. Over</b>  pitt83 (1995-2001, 2003-07)
+<br><b>John C. Gargani</b> pitt82 (2004-13)
 </td></tr>
 
 <tr>
@@ -24,13 +26,14 @@ parent: Awards by Chapter
 
 <tr>
 <td>Service Key:</td>
-<td>Kevin Y. Fong ucla84 (2003)
+<td>
 </td></tr>
 
 <tr>
 <td>Certificate of Service:</td>
-<td>Edward F. Sowell ucla61 (1976)
-<br>Kevin Y. Fong ucla84 (1993, 2016)
+<td>Kurt W. Over pitt83 (2001 and 2007)
+<br>John C. Gargani pitt82 (2013)
+<br>Joseph V. Salvucci pitt76 (2022)
 </td></tr>
 
 <tr>
@@ -40,17 +43,18 @@ parent: Awards by Chapter
 
 <tr>
 <td>Wall of Fame:</td>
-<td>Michael S. Morhaime ucla85 (2012)
+<td>
 </td></tr>
 
 <tr>
 <td>Distinguished Alumnus Citation:</td>
-<td>George M. Kunkel ucla60 (2007)
+<td>John C. Gargani pitt82 (2011)
+<br>Joseph V. Salvucci pitt76 (2011)
 </td></tr>
 
 <tr>
 <td>Onizuka Young Alumnus Award:</td>
-<td>Michael S. Morhaime ucla85 (2006)
+<td>
 </td></tr>
 
 <tr>
@@ -70,12 +74,13 @@ parent: Awards by Chapter
 
 <tr>
 <td>Order of the Transit:</td>
-<td>
+<td>Robert M. Petrick pitt83 (2012)
 </td></tr>
 
 <tr>
 <td>Outstanding Alumnus Award:</td>
-<td>
+<td>Dale A. Lieb pitt71 (1986)
+<br>Kurt W. Over pitt83 (1995)
 </td></tr>
 
 <tr>
@@ -85,7 +90,10 @@ parent: Awards by Chapter
 
 <tr>
 <td>Chapter Leadership Award:</td>
-<td>
+<td>David Petrone pitt08 (2011)
+<br>Samuel M. Scalzo pitt08 (2012)
+<br>Christopher A. Dechmerowski pitt09 (2013)
+<br>Daniel Chilutti pitt12 (2015)
 </td></tr>
 
 <tr>
@@ -122,6 +130,7 @@ parent: Awards by Chapter
 <td>Compass of Character Award:</td>
 <td>
 </td></tr>
+
 </tbody>
 </table>
 
@@ -132,43 +141,53 @@ parent: Awards by Chapter
 
 <tr>
 <td>General:</td>
-<td>1962 - 4th Place CPA
-<br>1963 - 8th Place CPA
-<br>1964 - 6th Place CPA
-<br>1967 - 7th Place CPA
-<br>1974 - 10th Place CPA
-<br>1976 - 10th Place CPA
-<br>1988 - 6th Place CPA
-<br>1988 - Most Improved CPA
-<br>2000 - 4th Place CPA
-<br>2001 - 8th Place CPA
-<br>2003 - 8th Place CPA
-<br>2006 - 10th Place CPA
+<td>1982 - 6th Place CPA
+<br>1982 - Most Improved CPA
+<br>1983 - 7th Place CPA
+<br>1984 - 6th Place CPA
+<br>1985 - 3rd Place CPA
+<br>1986 - 4th Place CPA
+<br>1996 - 2nd Place CPA
+<br>1996 - Most Improved CPA
+<br>1997 - 8th Place CPA
+<br>1998 - 2nd Place CPA
 </td></tr>
 
 <tr>
 <td>Scholarship:</td>
-<td>1961 - Scholarship Cup
+<td>1982 - Scholarship Cup
+<br>2000 - Scholarship Plaque
+<br>2012 - GPA > 3.0
 <br>2015 - GPA > 3.0
+<br>2021 - Outstanding Academic Excellence - 3rd place
+<br>2022 - Outstanding Academic Excellence - 1st place
+<br>2023 - Outstanding Academic Excellence - 1st place (tie)
+
 </td></tr>
 
 <tr>
 <td>Growth and Retention:</td>
-<td>2000 - Growth Award
-<br>2007 - Growth Award
-<br>2009 - Growth Award
+<td>2007 - Growth Award
+<br>2007 - New Member Retention Award
+<br>2010 - New Member Retention Award
+<br>2011 - Growth Award
 <br>2011 - New Member Retention Award
-<br>2013 - Growth Award
-<br>2014 - Growth Award
-<br>2014 - New Member Retention Award
+<br>2012 - Growth Award
+<br>2012 - New Member Retention Award
 <br>2016 - Growth Award
 <br>2016 - New Member Retention Award
 </td></tr>
 
 <tr>
 <td>Involvement and Communication:</td>
-<td>1987 - Publications Award
-<br>1988 - Publications Award
+<td>1992 - Publications Award
+<br>1996 - Publications Award
+<br>2011 - Campus Involvement Award
+<br>2011 - Community Service Award
+<br>2012 - Campus Involvement Award
+<br>2012 - Community Service Award
+<br>2013 - Campus Involvement Award
+<br>2013 - Community Service Award
 </td></tr>
 
 <tr>
@@ -177,7 +196,6 @@ parent: Awards by Chapter
 </td></tr>
 
 </tbody>
-
 </table>
 
 ---

@@ -1,20 +1,23 @@
 ---
-title: UCLA
+title: Missouri Mines
 layout: default
 parent: Awards by Chapter
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
 
-# UCLA Chapter Awards
+# Missouri Mines Chapter Awards
 
 ## Individual Honors
 
 <table>
 <tbody>
+
 <tr>
 <td>National Council/<b>National President</b>:</td>
-<td>Kevin Y. Fong ucla84 (1997-2016, 2021- )
+<td><b>Robert A. Vogt</b> mom43 (1954-59)
+<br><b>Randy G. Kerns</b> mom71 (1978-84, 1987-90)
+<br><b>Steven M. Heitert</b> mom81 (1990-96)
 </td></tr>
 
 <tr>
@@ -24,13 +27,14 @@ parent: Awards by Chapter
 
 <tr>
 <td>Service Key:</td>
-<td>Kevin Y. Fong ucla84 (2003)
-</td></tr>
+<td>Randy G. Kerns mom71 (1995)</td>
+</tr>
 
 <tr>
 <td>Certificate of Service:</td>
-<td>Edward F. Sowell ucla61 (1976)
-<br>Kevin Y. Fong ucla84 (1993, 2016)
+<td>Randy G. Kerns mom71 (1984, 1990, 2002, and 2017)
+<br>Steven M. Heitert mom81 (1997 and 2002)
+<br>Michael Knittel mom96 (2001)
 </td></tr>
 
 <tr>
@@ -38,24 +42,26 @@ parent: Awards by Chapter
 <td>
 </td></tr>
 
-<tr>
-<td>Wall of Fame:</td>
-<td>Michael S. Morhaime ucla85 (2012)
+<tr><td>Wall of Fame:</td>
+<td>Robert C. Perry mom43 (2004)
+<br>Gregory A. Lang mom74 (2010)
+<br>Stephen A. Lang mom77 (2010)
+<br>Paul A. Lang mom80 (2010)
 </td></tr>
 
 <tr>
 <td>Distinguished Alumnus Citation:</td>
-<td>George M. Kunkel ucla60 (2007)
+<td>Randy G. Kerns mom71 (2012)
 </td></tr>
 
 <tr>
 <td>Onizuka Young Alumnus Award:</td>
-<td>Michael S. Morhaime ucla85 (2006)
+<td>
 </td></tr>
 
 <tr>
 <td>Engineer/Architect/Scientist of the Year:</td>
-<td>
+<td>Brian M. Jameson mom16 (2017)
 </td></tr>
 
 <tr>
@@ -75,7 +81,13 @@ parent: Awards by Chapter
 
 <tr>
 <td>Outstanding Alumnus Award:</td>
-<td>
+<td>John D. Powell mom44 (1961)
+<br>Oscar M. Olsen mom44 (1963)
+<br>Ernest W. Carlton mom31ch (1965)
+<br>David E. Carpenter mom69 (1974)
+<br>Floyd M. Cunningham mom70asc (1974)
+<br>Paul T. Dowling mom37 (1974)
+<br>Robert A. Vogt mom43 (1974)
 </td></tr>
 
 <tr>
@@ -90,7 +102,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Chapter President of the Year:</td>
-<td>
+<td>Kristian K. Dehaan mom14 (2017)
 </td></tr>
 
 <tr>
@@ -105,7 +117,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Senior of the Year:</td>
-<td>
+<td>Aidan Stone mom19 (2022)
 </td></tr>
 
 <tr>
@@ -122,6 +134,7 @@ parent: Awards by Chapter
 <td>Compass of Character Award:</td>
 <td>
 </td></tr>
+
 </tbody>
 </table>
 
@@ -132,52 +145,45 @@ parent: Awards by Chapter
 
 <tr>
 <td>General:</td>
-<td>1962 - 4th Place CPA
-<br>1963 - 8th Place CPA
-<br>1964 - 6th Place CPA
-<br>1967 - 7th Place CPA
-<br>1974 - 10th Place CPA
-<br>1976 - 10th Place CPA
-<br>1988 - 6th Place CPA
-<br>1988 - Most Improved CPA
-<br>2000 - 4th Place CPA
-<br>2001 - 8th Place CPA
-<br>2003 - 8th Place CPA
-<br>2006 - 10th Place CPA
+<td>1962 - 8th Place CPA
+<br>1970 - 4th Place CPA
+<br>1972 - 6th Place CPA
+<br>1973 - 4th Place CPA
+<br>1974 - 3rd Place CPA
+<br>1975 - 4th Place CPA
+<br>1976 - 4th Place CPA
+<br>1977 - 9th Place CPA
+<br>1980 - 6th Place CPA
+<br>1981 - 10th Place CPA
+<br>1982 - 5th Place CPA
+<br>1992 - 5th Place CPA
+<br>1996 - 3rd Place CPA
 </td></tr>
 
 <tr>
 <td>Scholarship:</td>
-<td>1961 - Scholarship Cup
-<br>2015 - GPA > 3.0
+<td>1952 - Scholarship Plaque
+<br>1986 - Scholarship Plaque
 </td></tr>
 
 <tr>
 <td>Growth and Retention:</td>
-<td>2000 - Growth Award
-<br>2007 - Growth Award
-<br>2009 - Growth Award
-<br>2011 - New Member Retention Award
-<br>2013 - Growth Award
-<br>2014 - Growth Award
-<br>2014 - New Member Retention Award
-<br>2016 - Growth Award
-<br>2016 - New Member Retention Award
+<td>
 </td></tr>
 
 <tr>
 <td>Involvement and Communication:</td>
-<td>1987 - Publications Award
-<br>1988 - Publications Award
+<td>1932 - Alumni Relations Plaque
+<br>1938 - Alumni Relations Plaque
+<br>1974 - Publications Award
 </td></tr>
 
 <tr>
 <td>Other:</td>
-<td>
+<td>2013 - TBHC Property Improvement Contest - interior
 </td></tr>
 
 </tbody>
-
 </table>
 
 ---

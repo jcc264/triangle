@@ -80,17 +80,17 @@ For now, this is a To Do List Page
 - [ ] 
 - [ ] Awards and Council Members Listed by Chapter
 - [ ] akr
-- [ ] ar
-- [ ] cpp
-- [ ] cal
-- [ ] char
-- [ ] cin
+- [x] ar
+- [x] cpp
+- [x] cal
+- [x] char
+- [x] cin
 - [ ] cl
-- [ ] clem
-- [ ] colo
-- [ ] csu
-- [ ] conn
-- [ ] cor
+- [x] clem
+- [x] colo
+- [x] csu
+- [x] conn
+- [x] cor
 - [ ] fau
 - [ ] gt
 - [ ] hou

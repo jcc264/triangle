@@ -1,20 +1,22 @@
 ---
-title: UCLA
+title: Nebraska
 layout: default
 parent: Awards by Chapter
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
 
-# UCLA Chapter Awards
+# Nebraska Chapter Awards
 
 ## Individual Honors
 
 <table>
 <tbody>
+
 <tr>
 <td>National Council/<b>National President</b>:</td>
-<td>Kevin Y. Fong ucla84 (1997-2016, 2021- )
+<td>Bradley N. Keller neb69 (1979-81, 1992-94, 2017-23)
+<br>Leo J. Glass neb03 (2013-14)
 </td></tr>
 
 <tr>
@@ -24,33 +26,32 @@ parent: Awards by Chapter
 
 <tr>
 <td>Service Key:</td>
-<td>Kevin Y. Fong ucla84 (2003)
+<td>Bradley N. Keller neb69 (2008)
 </td></tr>
 
 <tr>
 <td>Certificate of Service:</td>
-<td>Edward F. Sowell ucla61 (1976)
-<br>Kevin Y. Fong ucla84 (1993, 2016)
+<td>Bradley N. Keller neb69 (1981, 1990, 1994, 2023)
 </td></tr>
 
 <tr>
 <td>Certificate of Appreciation:</td>
-<td>
+<td>Bradley N. Keller neb69 (2007)
 </td></tr>
 
 <tr>
 <td>Wall of Fame:</td>
-<td>Michael S. Morhaime ucla85 (2012)
+<td>Robert W. Brightfelt neb63 (2017)
 </td></tr>
 
 <tr>
 <td>Distinguished Alumnus Citation:</td>
-<td>George M. Kunkel ucla60 (2007)
+<td>
 </td></tr>
 
 <tr>
 <td>Onizuka Young Alumnus Award:</td>
-<td>Michael S. Morhaime ucla85 (2006)
+<td>
 </td></tr>
 
 <tr>
@@ -75,7 +76,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Outstanding Alumnus Award:</td>
-<td>
+<td>Bradley N. Keller neb69 (1982)
 </td></tr>
 
 <tr>
@@ -105,7 +106,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Senior of the Year:</td>
-<td>
+<td>Joshua C. Wortman neb19 (2023)
 </td></tr>
 
 <tr>
@@ -115,13 +116,14 @@ parent: Awards by Chapter
 
 <tr>
 <td>Living Your Values Award:</td>
-<td>
+<td>Leo J. Glass neb03 (2017)
 </td></tr>
 
 <tr>
 <td>Compass of Character Award:</td>
 <td>
 </td></tr>
+
 </tbody>
 </table>
 
@@ -132,43 +134,44 @@ parent: Awards by Chapter
 
 <tr>
 <td>General:</td>
-<td>1962 - 4th Place CPA
-<br>1963 - 8th Place CPA
-<br>1964 - 6th Place CPA
-<br>1967 - 7th Place CPA
-<br>1974 - 10th Place CPA
-<br>1976 - 10th Place CPA
-<br>1988 - 6th Place CPA
-<br>1988 - Most Improved CPA
-<br>2000 - 4th Place CPA
-<br>2001 - 8th Place CPA
-<br>2003 - 8th Place CPA
-<br>2006 - 10th Place CPA
+<td>1965 - 10th Place CPA
+<br>1966 - 3rd Place CPA
+<br>1967 - 3rd Place CPA
+<br>1968 - 7th Place CPA
+<br>1978 - 8th Place CPA
+<br>1981 - 5th Place CPA
+<br>1982 - 10th Place CPA
+<br>1989 - 9th Place CPA
+<br>1991 - 3rd Place CPA
+<br>1991 - Most Improved CPA
+<br>1992 - 3rd Place CPA
+<br>1993 - 3rd Place CPA
+<br>1994 - 10th Place CPA
+<br>1995 - 4th Place CPA
+<br>1997 - 1st Place CPA
+<br>2000 - 10th Place CPA
 </td></tr>
 
 <tr>
 <td>Scholarship:</td>
-<td>1961 - Scholarship Cup
-<br>2015 - GPA > 3.0
+<td>1988 - Scholarship Plaque
+<br>1995 - Scholarship Cup
+<br>2004 - Scholarship Cup
 </td></tr>
 
 <tr>
 <td>Growth and Retention:</td>
-<td>2000 - Growth Award
-<br>2007 - Growth Award
-<br>2009 - Growth Award
-<br>2011 - New Member Retention Award
-<br>2013 - Growth Award
-<br>2014 - Growth Award
-<br>2014 - New Member Retention Award
-<br>2016 - Growth Award
-<br>2016 - New Member Retention Award
+<td>1993 - Growth Award
 </td></tr>
 
 <tr>
 <td>Involvement and Communication:</td>
-<td>1987 - Publications Award
-<br>1988 - Publications Award
+<td>1991 - Alumni Relations Plaque
+<br>1991 - Publications Award
+<br>1993 - Publications Award
+<br>1995 - Publications Award
+<br>1997 - Publications Award
+<br>1999 - Publications Award
 </td></tr>
 
 <tr>
@@ -177,7 +180,6 @@ parent: Awards by Chapter
 </td></tr>
 
 </tbody>
-
 </table>
 
 ---

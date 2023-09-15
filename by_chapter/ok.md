@@ -1,56 +1,59 @@
 ---
-title: UCLA
+title: Oklahoma
 layout: default
 parent: Awards by Chapter
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
 
-# UCLA Chapter Awards
+# Oklahoma Chapter Awards
 
 ## Individual Honors
 
 <table>
 <tbody>
+
 <tr>
 <td>National Council/<b>National President</b>:</td>
-<td>Kevin Y. Fong ucla84 (1997-2016, 2021- )
+<td>Mark W. Wheatley ok90 (2004-06)
+<br>Marcos D. Stocco ok93 (2010-16)
+<br>Brandon W. Bagwell ok04 (2013-14)
 </td></tr>
 
 <tr>
 <td>Active Advisor/Active Councilman:</td>
-<td>
+<td>Shawn M. McCarroll ok04 (2005-06)
 </td></tr>
 
 <tr>
 <td>Service Key:</td>
-<td>Kevin Y. Fong ucla84 (2003)
-</td></tr>
-
-<tr>
-<td>Certificate of Service:</td>
-<td>Edward F. Sowell ucla61 (1976)
-<br>Kevin Y. Fong ucla84 (1993, 2016)
-</td></tr>
-
-<tr>
-<td>Certificate of Appreciation:</td>
 <td>
 </td></tr>
 
 <tr>
+<td>Certificate of Service:</td>
+<td>Shawn M. McCarroll ok04 (2006)
+<br>Marcos D. Stocco ok93 (2016)
+</td></tr>
+
+<tr>
+<td>Certificate of Appreciation:</td>
+<td>Mark W. Wheatley ok90 (2006)
+</td></tr>
+
+<tr>
 <td>Wall of Fame:</td>
-<td>Michael S. Morhaime ucla85 (2012)
+<td>
 </td></tr>
 
 <tr>
 <td>Distinguished Alumnus Citation:</td>
-<td>George M. Kunkel ucla60 (2007)
+<td>
 </td></tr>
 
 <tr>
 <td>Onizuka Young Alumnus Award:</td>
-<td>Michael S. Morhaime ucla85 (2006)
+<td>
 </td></tr>
 
 <tr>
@@ -70,12 +73,12 @@ parent: Awards by Chapter
 
 <tr>
 <td>Order of the Transit:</td>
-<td>
+<td>George R. Griffin ok78 (2006)
 </td></tr>
 
 <tr>
 <td>Outstanding Alumnus Award:</td>
-<td>
+<td>Charles A. Rice ok79 (1999)
 </td></tr>
 
 <tr>
@@ -95,7 +98,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Executive Board Member of the Year:</td>
-<td>
+<td>Trevor D. Cooper ok16 (2017)
 </td></tr>
 
 <tr>
@@ -110,7 +113,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Founders Award:</td>
-<td>
+<td>Marcos D. Stocco ok93 (2017)
 </td></tr>
 
 <tr>
@@ -122,6 +125,7 @@ parent: Awards by Chapter
 <td>Compass of Character Award:</td>
 <td>
 </td></tr>
+
 </tbody>
 </table>
 
@@ -132,43 +136,52 @@ parent: Awards by Chapter
 
 <tr>
 <td>General:</td>
-<td>1962 - 4th Place CPA
-<br>1963 - 8th Place CPA
-<br>1964 - 6th Place CPA
-<br>1967 - 7th Place CPA
-<br>1974 - 10th Place CPA
-<br>1976 - 10th Place CPA
-<br>1988 - 6th Place CPA
-<br>1988 - Most Improved CPA
-<br>2000 - 4th Place CPA
-<br>2001 - 8th Place CPA
-<br>2003 - 8th Place CPA
-<br>2006 - 10th Place CPA
+<td>1989 - 9th Place CPA
+<br>1989 - Most Improved CPA
+<br>1994 - 8th Place CPA
+<br>1994 - Most Improved CPA
+<br>1997 - 10th Place CPA
+<br>1998 - 5th Place CPA
+<br>2002 - 9th Place CPA
+<br>2003 - 5th Place CPA
 </td></tr>
 
 <tr>
 <td>Scholarship:</td>
-<td>1961 - Scholarship Cup
-<br>2015 - GPA > 3.0
+<td>1980 - Scholarship Plaque
+<br>1985 - Scholarship Plaque
+<br>1989 - Scholarship Plaque
+<br>1990 - Scholarship Plaque
+<br>1994 - Highest Pledge GPA
+<br>1997 - Scholarship Cup
+<br>1998 - Scholarship Cup
+<br>2000 - Highest Pledge GPA
+<br>2001 - Scholarship Cup
+<br>2008 - GPA > 3.0
+<br>2008 - Increased GPA by .2 or More
+<br>2008 - Scholarship Plaque
 </td></tr>
 
 <tr>
 <td>Growth and Retention:</td>
-<td>2000 - Growth Award
-<br>2007 - Growth Award
-<br>2009 - Growth Award
+<td>2007 - New Member Retention Award
 <br>2011 - New Member Retention Award
+<br>2012 - Growth Award
 <br>2013 - Growth Award
+<br>2013 - New Member Retention Award
 <br>2014 - Growth Award
 <br>2014 - New Member Retention Award
 <br>2016 - Growth Award
-<br>2016 - New Member Retention Award
 </td></tr>
 
 <tr>
 <td>Involvement and Communication:</td>
-<td>1987 - Publications Award
-<br>1988 - Publications Award
+<td>1998 - Publications Award
+<br>1999 - Publications Award
+<br>2000 - Publications Award
+<br>2005 - Publications Award
+<br>2017 - Campus Involvement Award
+<br>2017 - Community Service Award
 </td></tr>
 
 <tr>
@@ -177,7 +190,6 @@ parent: Awards by Chapter
 </td></tr>
 
 </tbody>
-
 </table>
 
 ---

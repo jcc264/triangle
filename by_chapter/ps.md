@@ -231,4 +231,4 @@ parent: Awards by Chapter
 </tbody>
 </table>
 
-<hr>
+---

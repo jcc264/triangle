@@ -1,21 +1,24 @@
 ---
-title: UCLA
+title: Cornell
 layout: default
 parent: Awards by Chapter
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
 
-# UCLA Chapter Awards
+# Cornell Chapter Awards
 
 ## Individual Honors
 
 <table>
 <tbody>
+
 <tr>
 <td>National Council/<b>National President</b>:</td>
-<td>Kevin Y. Fong ucla84 (1997-2016, 2021- )
-</td></tr>
+<td><b>William J. Kingston</b> cor48 (1954-63)
+<br><b>Frank Caplan, Jr.</b> cor42 (1956-61)
+<br><b>Daniel P. Rathmann</b> cor53 (1966-71)</td>
+</tr>
 
 <tr>
 <td>Active Advisor/Active Councilman:</td>
@@ -24,33 +27,32 @@ parent: Awards by Chapter
 
 <tr>
 <td>Service Key:</td>
-<td>Kevin Y. Fong ucla84 (2003)
-</td></tr>
+<td>Frank Caplan, Jr. cor42 (1968)</td>
+</tr>
 
 <tr>
 <td>Certificate of Service:</td>
-<td>Edward F. Sowell ucla61 (1976)
-<br>Kevin Y. Fong ucla84 (1993, 2016)
-</td></tr>
+<td>William J. Kingston cor48 (1973)</td>
+</tr>
 
 <tr>
 <td>Certificate of Appreciation:</td>
-<td>
-</td></tr>
+<td>Frank Caplan, Jr. cor42 (2007)</td>
+</tr>
 
 <tr>
 <td>Wall of Fame:</td>
-<td>Michael S. Morhaime ucla85 (2012)
+<td>Theodore W.J. Wong cor50 (2010)
 </td></tr>
 
 <tr>
 <td>Distinguished Alumnus Citation:</td>
-<td>George M. Kunkel ucla60 (2007)
+<td>
 </td></tr>
 
 <tr>
 <td>Onizuka Young Alumnus Award:</td>
-<td>Michael S. Morhaime ucla85 (2006)
+<td>
 </td></tr>
 
 <tr>
@@ -75,8 +77,9 @@ parent: Awards by Chapter
 
 <tr>
 <td>Outstanding Alumnus Award:</td>
-<td>
-</td></tr>
+<td>Frank Caplan, Jr. cor42 (1961)
+<br>William J. Kingston cor48 (1970)</td>
+</tr>
 
 <tr>
 <td>Outstanding Advisor Award/Chapter Advisor of the Year:</td>
@@ -122,6 +125,7 @@ parent: Awards by Chapter
 <td>Compass of Character Award:</td>
 <td>
 </td></tr>
+
 </tbody>
 </table>
 
@@ -132,43 +136,31 @@ parent: Awards by Chapter
 
 <tr>
 <td>General:</td>
-<td>1962 - 4th Place CPA
-<br>1963 - 8th Place CPA
-<br>1964 - 6th Place CPA
-<br>1967 - 7th Place CPA
-<br>1974 - 10th Place CPA
-<br>1976 - 10th Place CPA
-<br>1988 - 6th Place CPA
-<br>1988 - Most Improved CPA
-<br>2000 - 4th Place CPA
-<br>2001 - 8th Place CPA
-<br>2003 - 8th Place CPA
-<br>2006 - 10th Place CPA
+<td>1971 - 4th Place CPA
+<br>1974 - 8th Place CPA
+<br>1975 - 9th Place CPA
+<br>1976 - 2nd Place CPA
+<br>1977 - 6th Place CPA
 </td></tr>
 
 <tr>
 <td>Scholarship:</td>
-<td>1961 - Scholarship Cup
-<br>2015 - GPA > 3.0
+<td>1976 - Scholarship Cup
+<br>1976 - Scholarship Plaque
+<br>1977 - Scholarship Cup
+<br>1983 - Scholarship Cup
 </td></tr>
 
 <tr>
 <td>Growth and Retention:</td>
-<td>2000 - Growth Award
-<br>2007 - Growth Award
-<br>2009 - Growth Award
-<br>2011 - New Member Retention Award
-<br>2013 - Growth Award
-<br>2014 - Growth Award
-<br>2014 - New Member Retention Award
-<br>2016 - Growth Award
-<br>2016 - New Member Retention Award
+<td>
 </td></tr>
 
 <tr>
 <td>Involvement and Communication:</td>
-<td>1987 - Publications Award
-<br>1988 - Publications Award
+<td>1952 - Alumni Relations Plaque
+<br>1959 - Alumni Relations Plaque
+<br>1977 - Publications Award
 </td></tr>
 
 <tr>
@@ -177,7 +169,6 @@ parent: Awards by Chapter
 </td></tr>
 
 </tbody>
-
 </table>
 
 ---
