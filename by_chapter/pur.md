@@ -108,6 +108,27 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>Jeffrey C. Beehler pur87
+<br>Mark Bowman pur71
+<br>Melvin H. Chiogioji pur58
+<br>Norris R. Crump pur27
+<br>Robert M. Davidson pur61
+<br>Robinson E. Duff pur15
+<br>John E. Halkyard pur65
+<br>Randall L. Herrel pur70
+<br>Charles V. Jakowatz, Jr. pur70
+<br>Jack R. Kelble pur63
+<br>Donald E. Knebel pur65
+<br>James W. Mayer pur50
+<br>Robert A. Oakley pur65
+<br>James H. Rust pur56
+<br>Elias M. Sabbagh pur35
+<br>Robert D. Shadley pur62
+<br>John M. Storm pur73
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>
 </td></tr>

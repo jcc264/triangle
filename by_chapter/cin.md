@@ -63,6 +63,12 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>Richard C. Messinger cin51
+<br>Gary A. Myers cin56
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>Ronald E. Nikel cin88 (2008)
 </td></tr>

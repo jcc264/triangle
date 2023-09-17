@@ -66,6 +66,15 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>Gifford H. Albright ps52
+<br>Jesse F. Core ps34
+<br>Charles W. Eifler ps34
+<br>James M. Morgan ps67
+<br>Timothy J. Sosinski ps70
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>
 </td></tr>

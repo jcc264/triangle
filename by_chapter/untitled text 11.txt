@@ -1,0 +1,97 @@
+Richard C. Messinger cin51
+Gary A. Myers cin56
+Joseph C. Logue cor42
+Robert S. Stahr cor49
+Randy H. Katz cor74
+Steven Abt csu70
+L.L. Davis ill15
+Caspar F. Henning ill16
+John R. Hodge ill16
+Richard L. Conklin ill42
+Norman B. Smith ill50
+Preston A. Henne ill67
+Mark E. Tolliver ill70
+Theodore A. Takasaki ill77
+John P. Pritchard is82
+Christopher A. Moe is92
+Russell H. Gray ky30
+Earnest O. Robbins II ky65
+Darrell G. Messer II lou03
+Thomas C. Graham lou45
+Harry B. O'Donnell III lou49
+James F. Lindle lou80
+Bret T. Feger lou86
+John J. Viera marq51
+J.Kenneth Driessen marq53
+James A. Bonin marq54
+William R. McGovern III marq55
+Patrick J. Kelly marq56
+Kevin J. McGarity marq66
+Stanley V. Jaskolski marq68
+Michael J. Wallace marq68
+Paul A. Flaherty marq84
+Kevin P. Robertson marq92
+Elmer L. Littell mich27
+Pierre E. Leroy mich67
+Earl Ewald minn29
+Russell C. Powers minn38
+Gordon T. Ersted minn41
+James J. Craig, Jr. minn69
+Timothy L. Eiler minn87
+Mark A. Snyder minn91
+Paul T. Dowling mom37
+Thomas E. Whitecotton III mom57
+Eugene D. Miscione mom64
+James D. Connelly msoe03
+Howard J. Stears msu63
+Ned E. Mitchell nu43
+Eugene M. Cummings nu59
+George H. Sollman nu60
+Kenneth P. Balin nu70
+Jack R. Lohmann oks72
+Clarence Keller os27
+Larry L. Hench os57
+Paul H. Lambert os72
+Humberto Vainieri pitt70
+Kurt W. Over pitt83
+Jesse F. Core ps34
+Charles W. Eifler ps34
+Gifford H. Albright ps52
+James M. Morgan ps67
+Timothy J. Sosinski ps70
+Robinson E. Duff pur15
+Norris R. Crump pur27
+Elias M. Sabbagh pur35
+James W. Mayer pur50
+James H. Rust pur56
+Melvin H. Chiogioji pur58
+Robert M. Davidson pur61
+Robert D. Shadley pur62
+Jack R. Kelble pur63
+John E. Halkyard pur65
+Donald E. Knebel pur65
+Robert A. Oakley pur65
+Randall L. Herrel pur70
+Charles V. Jakowatz, Jr. pur70
+Mark Bowman pur71
+John M. Storm pur73
+Jeffrey C. Beehler pur87
+Guy E. March sdm30
+Neil G. Simpson sdm32
+Thomas F. Malone sdm37
+Wallace D. Ward sdm42
+John W. Goth sdm47
+John D. Erickson sdm52
+Jay A. Brink sdm53
+George F. Dunham sdm53
+Neil J. Isto sdm53
+Dean M. Peterson sdm53
+Wayne F. Echelberger, Jr. sdm54
+Alva L. Addy sdm56
+Roger E. Kiel sdm56
+Dale S. Bryson sdm57
+Paul F. Gnirk sdm68
+Monte S. Dirks sdm71
+Stephen D. Newlin sdm73
+
+  

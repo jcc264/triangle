@@ -56,6 +56,12 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>Christopher A. Moe is92
+<br>John P. Pritchard is82
+ </td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>Matthew T. Ostanik is97 (2014)
 <br>Kyle R. Robertson is01 (2016)

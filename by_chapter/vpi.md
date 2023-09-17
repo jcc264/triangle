@@ -1,25 +1,26 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-        "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head><title>Washington Colony Awards</title></head>
-<body bgcolor="#FFFFFF">
-<h1>Washington Colony Awards</h1>
+---
+title: VPI
+layout: default
+parent: Awards by Chapter
+---
 
-<table style="border-collapse: collapse" border="1" bordercolor="#990033" cellpadding="2" cellspacing="0">
-	<tbody>
+<link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
 
-<tr>
-<td colspan=2 align="center">Individual Honors</td>
-</tr>
+# VPI Chapter Awards
+
+## Individual Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>National Council/<b>National President</b>:</td>
-<td>Nicholas Armstrong uw18 (2019-20) 
+<td>John R. Serpa vpi78pitt (1988-90) 
 </td></tr>
 
 <tr>
 <td>Active Advisor/Active Councilman:</td>
-<td>Nicholas Armstrong uw18 (2019-20) 
+<td>
 </td></tr>
 
 <tr>
@@ -29,7 +30,7 @@
 
 <tr>
 <td>Certificate of Service:</td>
-<td>
+<td>John R. Serpa vpi78pitt (1990) 
 </td></tr>
 
 <tr>
@@ -45,6 +46,11 @@
 <tr>
 <td>Distinguished Alumnus Citation:</td>
 <td>
+</td></tr>
+
+<tr>
+<td>Men of the Century Award:</td>
+<td> 
 </td></tr>
 
 <tr>
@@ -122,30 +128,42 @@
 <td>
 </td></tr>
 
-<tr>
-<td colspan=2 align="center">Chapter Honors</td>
-</tr>
+</tbody>
+</table>
+
+## Chapter Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>General:</td>
-<td>2019 - Building Better Men Award - Rattle Award
-<br>2020 - Building Better Men Award - Rattle Award
-<br>2021 - Building Better Men Award - Rattle Award
+<td>1980 - 5th Place CPA
+<br>1981 - 3rd Place CPA
+<br>1982 - 2nd Place CPA
+<br>1987 - 5th Place CPA
+<br>2022 - Most Improved Chapter
+<br>2022 - Building Better Men Award - Rattle Award
+<br>2023 - Building Better Men Award - Rattle Award
 </td></tr>
 
 <tr>
 <td>Scholarship:</td>
-<td>2020 - Outstanding Academic Excellence - 1st place
+<td>1993 - Scholarship Cup
+<br>1993 - Scholarship Plaque
+<br>2019 - Outstanding Academic Excellence - 3rd place
 </td></tr>
 
 <tr>
 <td>Growth and Retention:</td>
-<td>
+<td>2016 - Growth Award
+<br>2016 - New Member Retention Award
+<br>2022 - Recruitment and Retention Award
 </td></tr>
 
 <tr>
 <td>Involvement and Communication:</td>
-<td>
+<td>1985 - Publications Award
 </td></tr>
 
 <tr>
@@ -154,11 +172,6 @@
 </td></tr>
 
 </tbody>
-
 </table>
 
-<hr>
-<div align=right>
-<a href="../index.html">Back to Triangle Web Pages</a>
-</div>
-</body></html>
+---

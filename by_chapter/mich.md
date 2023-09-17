@@ -59,6 +59,12 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>Pierre E. Leroy mich67
+<br>Elmer L. Littell mich27
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>
 </td></tr>

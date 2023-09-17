@@ -50,6 +50,12 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>Bradley N. Keller neb69
+<br>Frank R. Opal neb02
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>
 </td></tr>

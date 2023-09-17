@@ -1,25 +1,26 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-        "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head><title>UC Irvine Chapter Awards</title></head>
-<body bgcolor="#FFFFFF">
-<h1>UC Irvine Chapter Awards</h1>
+---
+title: RIT
+layout: default
+parent: Awards by Chapter
+---
 
-<table style="border-collapse: collapse" border="1" bordercolor="#990033" cellpadding="2" cellspacing="0">
-	<tbody>
+<link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
 
-<tr>
-<td colspan=2 align="center">Individual Honors</td>
-</tr>
+# RIT Chapter Awards
+
+## Individual Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>National Council/<b>National President</b>:</td>
-<td>Stuart J. Masuda uci07 (2015-)
+<td>
 </td></tr>
 
 <tr>
 <td>Active Advisor/Active Councilman:</td>
-<td>
+<td>Robert F. Dixon rit05 (2008)
 </td></tr>
 
 <tr>
@@ -45,6 +46,11 @@
 <tr>
 <td>Distinguished Alumnus Citation:</td>
 <td>
+</td></tr>
+
+<tr>
+<td>Men of the Century Award:</td>
+<td> 
 </td></tr>
 
 <tr>
@@ -84,10 +90,7 @@
 
 <tr>
 <td>Chapter Leadership Award:</td>
-<td>V. Alexander Lopez uci07 (2011)
-<br>Benjamin C. Cacanindin uci11 (2012)
-<br>Long John Nguyen uci11 (2013)
-<br>Ryan S. Williams uci12 (2015)
+<td>Aleksandr Demko rit05 (2008)
 </td></tr>
 
 <tr>
@@ -125,35 +128,49 @@
 <td>
 </td></tr>
 
-<tr>
-<td colspan=2 align="center">Chapter Honors</td>
-</tr>
+</tbody>
+</table>
+
+## Chapter Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>General:</td>
-<td>
+<td>1982 - 9th Place CPA
+<br>1983 - 6th Place CPA
+<br>1984 - 9th Place CPA
+<br>1985 - 9th Place CPA
+<br>1986 - 10th Place CPA
+<br>1991 - 7th Place CPA
+<br>1992 - 7th Place CPA
+<br>1995 - 7th Place CPA
+<br>2002 - 6th Place CPA
+<br>2002 - Most Improved CPA
 </td></tr>
 
 <tr>
 <td>Scholarship:</td>
-<td>2011 - Highest Pledge GPA
-<br>2012 - GPA > 3.0
+<td>
 </td></tr>
 
 <tr>
 <td>Growth and Retention:</td>
-<td>2011 - Growth Award
-<br>2011 - New Member Retention Award
-<br>2012 - Growth Award
-<br>2012 - New Member Retention Award
-<br>2013 - Growth Award
-<br>2013 - New Member Retention Award
-<br>2016 - Growth Award
+<td>1992 - Growth Award
+<br>2000 - Growth Award
+<br>2004 - Growth Award
+<br>2008 - Growth Award
+<br>2010 - Growth Award
 </td></tr>
 
 <tr>
 <td>Involvement and Communication:</td>
-<td>2015 - Community Service Award
+<td>1982 - Publications Award
+<br>2007 - Community Service Award
+<br>2008 - Campus Involvement Award
+<br>2008 - Community Service Award
+<br>2010 - Community Service Award
 </td></tr>
 
 <tr>
@@ -162,11 +179,6 @@
 </td></tr>
 
 </tbody>
-
 </table>
 
-<hr>
-<div align=right>
-<a href="../index.html">Back to Triangle Web Pages</a>
-</div>
-</body></html>
+---

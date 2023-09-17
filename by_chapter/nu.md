@@ -56,6 +56,14 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>Kenneth P. Balin nu70
+<br>Eugene M. Cummings nu59
+<br>Ned E. Mitchell nu43
+<br>George H. Sollman nu60
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>
 </td></tr>

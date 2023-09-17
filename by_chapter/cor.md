@@ -51,6 +51,13 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>Randy H. Katz cor74
+<br>Joseph C. Logue cor42
+<br>Robert S. Stahr cor49
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>
 </td></tr>

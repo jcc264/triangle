@@ -1,16 +1,17 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-        "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head><title>UMBC Chapter Awards</title></head>
-<body bgcolor="#FFFFFF">
-<h1>UMBC Chapter Awards</h1>
+---
+title: Texas A&M
+layout: default
+parent: Awards by Chapter
+---
 
-<table style="border-collapse: collapse" border="1" bordercolor="#990033" cellpadding="2" cellspacing="0">
-	<tbody>
+<link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
 
-<tr>
-<td colspan=2 align="center">Individual Honors</td>
-</tr>
+# Texas A&M Chapter Awards
+
+## Individual Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>National Council/<b>National President</b>:</td>
@@ -45,6 +46,11 @@
 <tr>
 <td>Distinguished Alumnus Citation:</td>
 <td>
+</td></tr>
+
+<tr>
+<td>Men of the Century Award:</td>
+<td>Steinar Svalesen tamu88
 </td></tr>
 
 <tr>
@@ -122,39 +128,32 @@
 <td>
 </td></tr>
 
-<tr>
-<td colspan=2 align="center">Chapter Honors</td>
-</tr>
+</tbody>
+</table>
+
+## Chapter Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>General:</td>
-<td>2006 - 9th Place CPA
+<td>
 </td></tr>
 
 <tr>
 <td>Scholarship:</td>
-<td>2007 - Top 20% on Campus
-<br>2009 - GPA > 3.0
-<br>2009 - Scholarship Cup
-<br>2010 - GPA > 3.0
-<br>2012 - GPA > 3.0
-<br>2015 - GPA > 3.0
+<td>1994 - Scholarship Cup
 </td></tr>
 
 <tr>
 <td>Growth and Retention:</td>
-<td>2007 - Growth Award
-<br>2008 - Growth Award
-<br>2009 - Growth Award
-<br>2009 - New Member Retention Award
-<br>2012 - New Member Retention Award
-<br>2015 - New Member Retention Award
-<br>2016 - New Member Retention Award
+<td>
 </td></tr>
 
 <tr>
 <td>Involvement and Communication:</td>
-<td>2010 - Administration Award
+<td>
 </td></tr>
 
 <tr>
@@ -163,11 +162,6 @@
 </td></tr>
 
 </tbody>
-
 </table>
 
-<hr>
-<div align=right>
-<a href="../index.html">Back to Triangle Web Pages</a>
-</div>
-</body></html>
+---

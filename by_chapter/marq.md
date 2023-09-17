@@ -74,6 +74,20 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>James A. Bonin marq54
+<br>J.Kenneth Driessen marq53
+<br>Paul A. Flaherty marq84
+<br>Stanley V. Jaskolski marq68
+<br>Patrick J. Kelly marq56
+<br>Kevin J. McGarity marq66
+<br>William R. McGovern III marq55
+<br>Kevin P. Robertson marq92
+<br>John J. Viera marq51
+<br>Michael J. Wallace marq68
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>Michael S. Butler marq93 (2009)
 </td></tr>

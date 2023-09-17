@@ -53,6 +53,11 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>Steven Abt csu70 
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>Darshan P. Shah csu89 (2011)
 </td></tr>

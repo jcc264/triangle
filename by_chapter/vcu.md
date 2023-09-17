@@ -1,16 +1,17 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-        "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head><title>UTA Chapter Awards</title></head>
-<body bgcolor="#FFFFFF">
-<h1>UTA Chapter Awards</h1>
+---
+title: Virginia Commonwealth
+layout: default
+parent: Awards by Chapter
+---
 
-<table style="border-collapse: collapse" border="1" bordercolor="#990033" cellpadding="2" cellspacing="0">
-	<tbody>
+<link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
 
-<tr>
-<td colspan=2 align="center">Individual Honors</td>
-</tr>
+# Virginia Commonwealth Chapter Awards
+
+## Individual Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>National Council/<b>National President</b>:</td>
@@ -45,6 +46,11 @@
 <tr>
 <td>Distinguished Alumnus Citation:</td>
 <td>
+</td></tr>
+
+<tr>
+<td>Men of the Century Award:</td>
+<td> 
 </td></tr>
 
 <tr>
@@ -84,7 +90,8 @@
 
 <tr>
 <td>Chapter Leadership Award:</td>
-<td>
+<td>Mackenzie J. Hicks vcu13 (2013)
+<br>Matthew E. Mason vcu13 (2014)
 </td></tr>
 
 <tr>
@@ -122,30 +129,37 @@
 <td>
 </td></tr>
 
-<tr>
-<td colspan=2 align="center">Chapter Honors</td>
-</tr>
+</tbody>
+</table>
+
+## Chapter Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>General:</td>
-<td>1987 - 3rd Place CPA
-<br>1995 - Most Improved CPA
+<td>
 </td></tr>
 
 <tr>
 <td>Scholarship:</td>
-<td>1996 - Scholarship Plaque
-<br>1997 - Scholarship Plaque
+<td>
 </td></tr>
 
 <tr>
 <td>Growth and Retention:</td>
-<td>
+<td>2013 - Growth Award
+<br>2016 - Growth Award
+<br>2016 - New Member Retention Award
 </td></tr>
 
 <tr>
 <td>Involvement and Communication:</td>
-<td>
+<td>2013 - Campus Involvement Award
+<br>2013 - Community Service Award
+<br>2014 - Campus Involvement Award
+<br>2014 - Community Service Award
 </td></tr>
 
 <tr>
@@ -154,11 +168,6 @@
 </td></tr>
 
 </tbody>
-
 </table>
 
-<hr>
-<div align=right>
-<a href="../index.html">Back to Triangle Web Pages</a>
-</div>
-</body></html>
+---

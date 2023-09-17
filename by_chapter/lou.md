@@ -59,6 +59,15 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>Bret T. Feger lou86
+<br>Thomas C. Graham lou45
+<br>James F. Lindle lou80
+<br>Darrell G. Messer II lou03
+<br>Harry B. O'Donnell III lou49
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>
 </td></tr>

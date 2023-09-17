@@ -68,6 +68,16 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>James J. Craig, Jr. minn69
+<br>Timothy L. Eiler minn87
+<br>Gordon T. Ersted minn41
+<br>Earl Ewald minn29
+<br>Russell C. Powers minn38
+<br>Mark A. Snyder minn91
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>
 </td></tr>

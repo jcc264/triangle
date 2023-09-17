@@ -1,21 +1,21 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-        "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head><title>UWM Chapter Awards</title></head>
-<body bgcolor="#FFFFFF">
-<h1>UWM Chapter Awards</h1>
+---
+title: UTA
+layout: default
+parent: Awards by Chapter
+---
 
-<table style="border-collapse: collapse" border="1" bordercolor="#990033" cellpadding="2" cellspacing="0">
-	<tbody>
+<link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
 
-<tr>
-<td colspan=2 align="center">Individual Honors</td>
-</tr>
+# UTA Chapter Awards
+
+## Individual Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>National Council/<b>National President</b>:</td>
-<td>Richard F. Lindstrom uwm71 (1987-89) 
-<br>Daniel J. Guido uwm96 (2002-06)
+<td>
 </td></tr>
 
 <tr>
@@ -30,13 +30,12 @@
 
 <tr>
 <td>Certificate of Service:</td>
-<td>T.J. Oman uwm86 (1987)
-<br>Daniel J. Guido uwm96 (2006)
+<td>
 </td></tr>
 
 <tr>
 <td>Certificate of Appreciation:</td>
-<td>Daniel J. Guido uwm96 (2000) 
+<td>
 </td></tr>
 
 <tr>
@@ -47,6 +46,11 @@
 <tr>
 <td>Distinguished Alumnus Citation:</td>
 <td>
+</td></tr>
+
+<tr>
+<td>Men of the Century Award:</td>
+<td> 
 </td></tr>
 
 <tr>
@@ -86,7 +90,7 @@
 
 <tr>
 <td>Chapter Leadership Award:</td>
-<td>William Washkuhn msoe10 (2012)
+<td>
 </td></tr>
 
 <tr>
@@ -124,51 +128,42 @@
 <td>
 </td></tr>
 
-<tr>
-<td colspan=2 align="center">Chapter Honors</td>
-</tr>
+</tbody>
+</table>
+
+## Chapter Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>General:</td>
-<td>1970 - 6th Place CPA
-<br>1979 - 6th Place CPA
-<br>1994 - 7th Place CPA
-<br>1996 - 10th Place CPA
-<br>2002 - 5th Place CPA
-<br>2005 - 5th Place CPA
+<td>1987 - 3rd Place CPA
+<br>1995 - Most Improved CPA
 </td></tr>
 
 <tr>
 <td>Scholarship:</td>
-<td>1971 - Scholarship Plaque
-<br>2006 - Highest Pledge GPA
-<br>2011 - Scholarship Plaque
+<td>1996 - Scholarship Plaque
+<br>1997 - Scholarship Plaque
 </td></tr>
 
 <tr>
 <td>Growth and Retention:</td>
-<td>2003 - Growth Award
-<br>2011 - New Member Retention Award
-<br>2014 - New Member Retention Award
+<td>
 </td></tr>
 
 <tr>
 <td>Involvement and Communication:</td>
-<td>1970 - Publications Award
-<br>1987 - Alumni Relations Plaque
+<td>
 </td></tr>
 
 <tr>
 <td>Other:</td>
-<td>2015 - TBHC Property Improvement Contest - green
+<td>
 </td></tr>
 
 </tbody>
-
 </table>
 
-<hr>
-<div align=right>
-<a href="../index.html">Back to Triangle Web Pages</a>
-</div>
-</body></html>
+---

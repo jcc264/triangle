@@ -1,20 +1,21 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-        "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head><title>Utah Chapter Awards</title></head>
-<body bgcolor="#FFFFFF">
-<h1>Utah Chapter Awards</h1>
+---
+title: UCSD
+layout: default
+parent: Awards by Chapter
+---
 
-<table style="border-collapse: collapse" border="1" bordercolor="#990033" cellpadding="2" cellspacing="0">
-	<tbody>
+<link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
 
-<tr>
-<td colspan=2 align="center">Individual Honors</td>
-</tr>
+# UCSD Chapter Awards
+
+## Individual Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>National Council/<b>National President</b>:</td>
-<td>
+<td>Fareed J. Dibazar ucsd12 (2023- )
 </td></tr>
 
 <tr>
@@ -48,6 +49,11 @@
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td> 
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>
 </td></tr>
@@ -64,7 +70,7 @@
 
 <tr>
 <td>Outstanding Philanthropy and Service by an Individual:</td>
-<td>
+<td>Darwin Yu ucsd22 (2023)
 </td></tr>
 
 <tr>
@@ -84,12 +90,12 @@
 
 <tr>
 <td>Chapter Leadership Award:</td>
-<td>
+<td>Robert Andrade ucsd15 (2015)
 </td></tr>
 
 <tr>
 <td>Chapter President of the Year:</td>
-<td>
+<td>Shane W. C. Jost ucsd22 (2022)
 </td></tr>
 
 <tr>
@@ -119,12 +125,16 @@
 
 <tr>
 <td>Compass of Character Award:</td>
-<td>Carter W. Salbego utah21 (2023)
+<td>
 </td></tr>
 
-<tr>
-<td colspan=2 align="center">Chapter Honors</td>
-</tr>
+</tbody>
+</table>
+
+## Chapter Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>General:</td>
@@ -138,9 +148,9 @@
 
 <tr>
 <td>Growth and Retention:</td>
-<td>2015 - New Member Retention Award
-<br>2016 - Growth Award
-<br>2016 - New Member Retention Award
+<td>2011 - Growth Award
+<br>2014 - Growth Award
+<br>2014 - New Member Retention Award
 </td></tr>
 
 <tr>
@@ -154,11 +164,6 @@
 </td></tr>
 
 </tbody>
-
 </table>
 
-<hr>
-<div align=right>
-<a href="../index.html">Back to Triangle Web Pages</a>
-</div>
-</body></html>
+---

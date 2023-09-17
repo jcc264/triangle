@@ -55,6 +55,13 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>Paul T. Dowling mom37
+<br>Eugene D. Miscione mom64
+<br>Thomas E. Whitecotton III mom57
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>
 </td></tr>

@@ -80,6 +80,18 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td> Richard L. Conklin ill42
+<br>L.L. Davis ill15
+<br>Preston A. Henne ill67
+<br>Caspar F. Henning ill16
+<br>John R. Hodge ill16
+<br>Norman B. Smith ill50
+<br>Theodore A. Takasaki ill77
+<br>Mark E. Tolliver ill70
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>Kevin R. Manley ill88 (2006) 
 </td></tr>

@@ -49,6 +49,12 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>John R. Arne niu94
+<br>David C. Vemmer niu90
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>Isabelo B. Aala niu90 (2011)
 </td></tr>

@@ -1,20 +1,21 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-        "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head><title>UCSD Chapter Awards</title></head>
-<body bgcolor="#FFFFFF">
-<h1>UCSD Chapter Awards</h1>
+---
+title: UC Irvine
+layout: default
+parent: Awards by Chapter
+---
 
-<table style="border-collapse: collapse" border="1" bordercolor="#990033" cellpadding="2" cellspacing="0">
-	<tbody>
+<link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
 
-<tr>
-<td colspan=2 align="center">Individual Honors</td>
-</tr>
+# UC Irvine Chapter Awards
+
+## Individual Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>National Council/<b>National President</b>:</td>
-<td>Fareed J. Dibazar ucsd12 (2023- )
+<td>Stuart J. Masuda uci07 (2015-)
 </td></tr>
 
 <tr>
@@ -48,6 +49,11 @@
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td> 
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>
 </td></tr>
@@ -64,7 +70,7 @@
 
 <tr>
 <td>Outstanding Philanthropy and Service by an Individual:</td>
-<td>Darwin Yu ucsd22 (2023)
+<td>
 </td></tr>
 
 <tr>
@@ -84,12 +90,15 @@
 
 <tr>
 <td>Chapter Leadership Award:</td>
-<td>Robert Andrade ucsd15 (2015)
+<td>V. Alexander Lopez uci07 (2011)
+<br>Benjamin C. Cacanindin uci11 (2012)
+<br>Long John Nguyen uci11 (2013)
+<br>Ryan S. Williams uci12 (2015)
 </td></tr>
 
 <tr>
 <td>Chapter President of the Year:</td>
-<td>Shane W. C. Jost ucsd22 (2022)
+<td>
 </td></tr>
 
 <tr>
@@ -122,9 +131,13 @@
 <td>
 </td></tr>
 
-<tr>
-<td colspan=2 align="center">Chapter Honors</td>
-</tr>
+</tbody>
+</table>
+
+## Chapter Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>General:</td>
@@ -133,19 +146,24 @@
 
 <tr>
 <td>Scholarship:</td>
-<td>
+<td>2011 - Highest Pledge GPA
+<br>2012 - GPA > 3.0
 </td></tr>
 
 <tr>
 <td>Growth and Retention:</td>
 <td>2011 - Growth Award
-<br>2014 - Growth Award
-<br>2014 - New Member Retention Award
+<br>2011 - New Member Retention Award
+<br>2012 - Growth Award
+<br>2012 - New Member Retention Award
+<br>2013 - Growth Award
+<br>2013 - New Member Retention Award
+<br>2016 - Growth Award
 </td></tr>
 
 <tr>
 <td>Involvement and Communication:</td>
-<td>
+<td>2015 - Community Service Award
 </td></tr>
 
 <tr>
@@ -154,11 +172,6 @@
 </td></tr>
 
 </tbody>
-
 </table>
 
-<hr>
-<div align=right>
-<a href="../index.html">Back to Triangle Web Pages</a>
-</div>
-</body></html>
+---

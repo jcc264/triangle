@@ -1,16 +1,17 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-        "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head><title>South Dakota Mines Chapter Awards</title></head>
-<body bgcolor="#FFFFFF">
-<h1>South Dakota Mines Chapter Awards</h1>
+---
+title: South Dakota Mines
+layout: default
+parent: Awards by Chapter
+---
 
-<table style="border-collapse: collapse" border="1" bordercolor="#990033" cellpadding="2" cellspacing="0">
-	<tbody>
+<link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
 
-<tr>
-<td colspan=2 align="center">Individual Honors</td>
-</tr>
+# South Dakota Mines Chapter Awards
+
+## Individual Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>National Council/<b>National President</b>:</td>
@@ -54,8 +55,29 @@
 </td></tr>
 
 <tr>
-<td>Outstanding Alumnus Award:</td>
-<td>Robert J. Cash sdm57 (1969) 
+<td>Men of the Century Award:</td>
+<td>Alva L. Addy sdm56
+<br>Jay A. Brink sdm53
+<br>Dale S. Bryson sdm57
+<br>Monte S. Dirks sdm71
+<br>George F. Dunham sdm53
+<br>Wayne F. Echelberger, Jr. sdm54
+<br>John D. Erickson sdm52
+<br>Paul F. Gnirk sdm68
+<br>John W. Goth sdm47
+<br>Neil J. Isto sdm53
+<br>Roger E. Kiel sdm56
+<br>Thomas F. Malone sdm37
+<br>Guy E. March sdm30
+<br>Stephen D. Newlin sdm73
+<br>Dean M. Peterson sdm53
+<br>Neil G. Simpson sdm32
+<br>Wallace D. Ward sdm42
+</td></tr>
+
+<tr>
+<td>Onizuka Young Alumnus Award:</td>
+<td>
 </td></tr>
 
 <tr>
@@ -80,7 +102,7 @@
 
 <tr>
 <td>Outstanding Alumnus Award:</td>
-<td>
+<td>Robert J. Cash sdm57 (1969) 
 </td></tr>
 
 <tr>
@@ -132,9 +154,13 @@
 <td>
 </td></tr>
 
-<tr>
-<td colspan=2 align="center">Chapter Honors</td>
-</tr>
+</tbody>
+</table>
+
+## Chapter Honors
+
+<table>
+<tbody>
 
 <tr>
 <td>General:</td>
@@ -196,11 +222,6 @@
 </td></tr>
 
 </tbody>
-
 </table>
 
-<hr>
-<div align=right>
-<a href="../index.html">Back to Triangle Web Pages</a>
-</div>
-</body></html>
+---

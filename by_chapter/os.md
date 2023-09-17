@@ -73,6 +73,13 @@ parent: Awards by Chapter
 </td></tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>Larry L. Hench os57
+<br>Clarence Keller os27
+<br>Paul H. Lambert os72
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>Stephen Wu os16 (2020)
 </td></tr>

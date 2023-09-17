@@ -67,6 +67,14 @@ parent: Awards by Chapter
 </tr>
 
 <tr>
+<td>Men of the Century Award:</td>
+<td>Stephen  Dickerson ar59
+<br>Albert J. Evon ar88
+<br>Edwin J. Loutzenheiser ar37
+<br>Arthur W. Oberbeck ar30
+</td></tr>
+
+<tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td> 
 </td></tr>
