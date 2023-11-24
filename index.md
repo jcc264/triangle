@@ -3,22 +3,33 @@ title: Home
 layout: default
 nav_order: 1
 ---
-For now, this is a To Do List Page
 
-- [x] Constitution
-- [x] Bylaws
+Chapter Status
+==============
+<b>Chapters (28):</b> Armour, Cincinnati, Clemson, Illinois, Iowa State, Kansas, Kentucky, Louisville, Michigan, Michigan State, Michigan Tech, Minnesota, Missouri Mines, MSOE, Ohio State, Penn State, Penn State Behrend, Pitt, Purdue, Rose Tech, South Dakota Mines, Toledo, UC Irvine, Utah, UWM, VPI, Washington, Wisconsin
+
+<b>Colonies (5):</b> Colorado State, Marquette, Nebraska, UCSD, Washington State
+
+<b>Interest Groups (1):</b> Colorado
+
+<b>Former Groups (37):</b> Akron (1997), Arizona (1977), Cal Poly Pomona (2023), California (2017), Charlotte (2021), Clarkson (1970), Colorado (1970), Colorado State (2023), Connecticut (1998), Cornell (1985), Florida Atlantic (2019), Georgia Tech (2018), Houston (2019), Iowa (1948), Kansas State Fomer (2018), Mankato State (1993), Marquette (2019), Maryland (2000), Mississippi State (1987), Missouri (1933), Nebraska (2010), Northern Illinois (2008), Northwestern (1987), Oklahoma (2023), Oklahoma State (1995), Oregon State (2014), RIT (2010), Southern Illinois (1979), Tennessee Tech (1993), Texas A&M (1999), Tri-State (2009), UCLA (2023?), UCSD (?), UMBC (2018), UTA (2000), VCU (2023), Wright State (1994)
+
+<b>Expansions:</b> Colorado (Fall 2023), Grand Valley State (Spring 2024), Cal Poly Pomona/UCLA (Fall 2024), Denver (Spring 2025), North Carolina State (Fall 2026)
+
+
+
+
+
+
+
+To Do:
+
 - [ ] Bylaw Revision History
-- [x] Regulations
 - [ ] Regulation Revision History
 - [ ] Regulation internal links
-- [x] Chronology
-- [ ] Coat of Arms History
-- [x] Executive Directors
 - [ ] National Councilmen
 - [ ] National Council Minutes
 - [ ] National Headquarters
-- [x] National Meetings and Conventions
-- [x] National Presidents
 - [ ] REVIEW Editors
 - [ ] Awards Given to Individuals
 - [ ] National Service
@@ -78,66 +89,77 @@ For now, this is a To Do List Page
 - [ ] Other
 - [ ] BLF/TBHC Property Improvement Contest
 - [ ] 
-- [ ] Awards and Council Members Listed by Chapter
-- [ ] akr
+
+** Verify
+- [x] Constitution
+- [x] Bylaws
+- [x] Regulations
+- [x] Chronology
+- [x] Executive Directors
+- [x] National Meetings and Conventions
+- [x] National Presidents
+- [ ] Coat of Arms History
+
+- [x] Awards and Council Members Listed by Chapter
+- [x] akr
 - [x] ar
 - [x] cpp
 - [x] cal
 - [x] char
 - [x] cin
-- [ ] cl
+- [x] cl
 - [x] clem
 - [x] colo
 - [x] csu
 - [x] conn
 - [x] cor
-- [ ] fau
-- [ ] gt
-- [ ] hou
-- [ ] ill
-- [ ] ia
-- [ ] is
-- [ ] kan
-- [ ] ks
-- [ ] ky
-- [ ] lou
-- [ ] marq
-- [ ] mich
-- [ ] msu
-- [ ] mtu
-- [ ] msoe
-- [ ] minn
-- [ ] miss
-- [ ] mo
-- [ ] mom
-- [ ] neb
-- [ ] niu
-- [ ] nu
-- [ ] os
-- [ ] ok
-- [ ] oks
-- [ ] orst
-- [ ] ps
-- [ ] psb
-- [ ] pitt
-- [ ] pur
-- [ ] rit
-- [ ] rose
-- [ ] sdm
-- [ ] tamu
-- [ ] tol
-- [ ] tsu
-- [ ] uci
-- [ ] ucla
-- [ ] ucsd
-- [ ] umbc
-- [ ] uta
-- [ ] utah
-- [ ] uw
-- [ ] uwm
-- [ ] vcu
-- [ ] vpi
-- [ ] wis
+- [x] fau
+- [x] gt
+- [x] hou
+- [x] ill
+- [x] ia
+- [x] is
+- [x] kan
+- [x] ks
+- [x] ky
+- [x] lou
+- [x] marq
+- [x] mich
+- [x] msu
+- [x] mtu
+- [x] msoe
+- [x] minn
+- [x] miss
+- [x] mo
+- [x] mom
+- [x] neb
+- [x] niu
+- [x] nu
+- [x] os
+- [x] ok
+- [x] oks
+- [x] orst
+- [x] ps
+- [x] psb
+- [x] pitt
+- [x] pur
+- [x] rit
+- [x] rose
+- [x] sdm
+- [x] tamu
+- [x] tol
+- [x] tsu
+- [x] uci
+- [x] ucla
+- [x] ucsd
+- [x] umbc
+- [x] uta
+- [x] utah
+- [x] uw
+- [x] uwm
+- [x] vcu
+- [x] vpi
+- [x] wis
 
 
 

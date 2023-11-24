@@ -749,7 +749,7 @@ recognition of his 25 years of service to the Armour Chapter.</dd>
 <dt><strong>July 19, 2009</strong></dt>
 <dd>The Texas A&amp;M Active Organization is suspended at its own request.</dd>
 <dt><strong>April 24, 2010</strong></dt>
-<dd>The UC Berkeley Chapter is installed at the University of California, Berkeley.</dd>
+<dd>The California Chapter is installed at the University of California, Berkeley.</dd>
 <dt><strong>June 27, 2010</strong></dt>
 <dd>The Nebraska Active Organization is suspended at its own request.</dd>
 <dt><strong>July 8-11, 2010</strong></dt>
@@ -800,24 +800,35 @@ recognition of his 25 years of service to the Armour Chapter.</dd>
 <dd>Tom Pennington takes office as Triangle's Executive Director.</dd>
 <dt><strong>April 8, 2017</strong></dt>
 <dd>The Clemson Chapter is installed at Clemson University, Clemson, South Carolina.</dd>
+<dt><strong>May 7, 2017</strong></dt>
+<dd>The California Chapter is suspended by National Council.</dd>
 <dt><strong>July 19-22, 2017</strong></dt>
 <dd>National Convention takes place in Litchfield Park, Arizona. The Service Key is presented to James A. McShane marq65 and Alex P. Ver ar65 for their work on the Triangle Education Foundation board.</dd>
 <dt><strong>March 24, 2018</strong></dt>
 <dd>The Iowa State Chapter is rechartered following a successful expansion effort.</dd>
+<dt><strong>May 13, 2018</strong></dt>
+<dd>The UMBC Chapter is suspended at the chapter's request.
 <dt><strong>July 26-29, 2018</strong></dt>
 <dd>Herbert F. Scobie Leadership School is held in Terre Haute, Indiana.</dd>
+<dt><strong>July 14, 2019</strong></dt>
+<dd>The Houston Chapter is suspended by National Council.</dd>
 <dt><strong>July 17-20, 2019</strong></dt>
 <dd>National Convention takes place in Indianapolis, Indiana.</dd>
 <dt><strong>July 23-26, 2020</strong></dt>
 <dd>Herbert F. Scobie Leadership School, originally planned for Indianapolis, is not held due to the COVID-19 pandemic.</dd>
+<dt><strong>June 13, 2021</strong></dt>
+<dd>The Charlotte Chapter is suspended by National Council.</dd>
 <dt><strong>June 26-27, 2021</strong></dt>
 <dd>Due to the ongoing COVID-19 pandemic, Triangle holds a virtual convention via Zoom. The National Education Fee is adopted, allowing chapters to pay a portion of their national fees using tax-exempt funds.</dd>
 <dt><strong>May 21, 2022</strong></dt>
 <dd>The Washington Chapter is installed at the University of Washington in Seattle.</dd>
 <dt><strong>July 7-9, 2022</strong></dt>
 <dd>At National Convention in Orlando, Florida, delegates vote to remove the gender restrictions regarding who can wear a member's badge.</dd>
+<dt><strong>January 4, 2023</strong></dt>
+<dd>The Oklahoma Active Organization is suspended by National Council.</dd>
 <dt><strong>April 22, 2023</strong></dt>
 <dd>The VPI Chapter is rechartered following a successful expansion effort.</dd>
+<dt><strong>May 21, 2023</strong></dt>
+<dd>The Cal Poly Pomona, Colorado State, and VCU Active Organizations are suspended by National Council.</dd>
 <dt><strong>July 27-30, 2023</strong></dt>
 <dd>Herbert F. Scobie Leadership School is held in Dayton, Ohio.</dd>
-</dl> 
