@@ -41,6 +41,7 @@ parent: Awards by Chapter
 <br>C. Matthew Pulley lou04 (2008)
 <br>H. Andrew Goss lou00 (2012)
 <br>W. Jason Hines lou08 (2013)
+<br>Ryan A. Burt lou15 (2018)
 </td></tr>
 
 <tr>
@@ -69,7 +70,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Onizuka Young Alumnus Award:</td>
-<td>
+<td>C. Matthew Pulley lou04 (2022)
 </td></tr>
 
 <tr>

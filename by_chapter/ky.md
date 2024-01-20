@@ -40,7 +40,7 @@ parent: Awards by Chapter
 <br>Robert C. Deen ky48 (1974)
 <br>Joseph A. Boyd ky39 (1983)
 <br>Ryan E. Newman ky04 (2013)
-<br>Bryley K. Murphy ky12 (2021)
+<br>Bryley K. Murphy ky12 (2019 and 2021)
 </td></tr>
 
 <tr>
@@ -92,7 +92,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Outstanding Alumnus Award:</td>
-<td>Robert C. Deen ky48 (1965 and1982)
+<td>Robert C. Deen ky48 (1965 and 1982)
 <br>Clinton K. Hoffman ky24 (1968)
 <br>Thomas L. McReynolds ky44 (1974)
 </td></tr>

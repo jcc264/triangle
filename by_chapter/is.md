@@ -89,7 +89,8 @@ parent: Awards by Chapter
 
 <tr>
 <td>Outstanding Alumnus Award:</td>
-<td>Christopher A. Moe is92 (2021)
+<td>John P. Pritchard is82 (2018)
+<br>Christopher A. Moe is92 (2021)
 <br>John R. Gould is66 (2021)
 </td></tr>
 

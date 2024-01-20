@@ -73,6 +73,7 @@ parent: Awards by Chapter
 <br>Brian K. Jarman pur01 (2004 and 2021)
 <br>James Behmer pur09 (2013)
 <br>Gary N. Bodnar pur76 (2017)
+<br>Donald E. Knebel pur65 (2019)
 </td></tr>
 
 <tr>
@@ -102,6 +103,7 @@ parent: Awards by Chapter
 <br>James H. Rust pu56 (2009)
 <br>Robert T. Henson pur33 (2009)
 <br>Robert B. Nagel pur57 (2009)
+<br>Roman A. Jamrogiewicz pur71 (2010)
 <br>Donald E. Knebel pur65 (2010)
 <br>John M. Storm pur73 (2010)
 <br>Robert D. Hostetler pur62 (2019)
@@ -130,7 +132,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Onizuka Young Alumnus Award:</td>
-<td>
+<td>Zarrell T. Gray pur86 (2017)
 </td></tr>
 
 <tr>
@@ -162,6 +164,8 @@ parent: Awards by Chapter
 <br>Elias M. Sabbagh pur35asc (1968)
 <br>James R. Marshall pur65 (1983)
 <br>Robert L. Folz pur81 (1998) (nominated by Cincinnati Chapter)
+<br>Mark D. Bowman pur71 (2017)
+<br>Richard A. Rezek pur78 (2017)
 </td></tr>
 
 <tr>

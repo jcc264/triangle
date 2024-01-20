@@ -89,7 +89,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Cap Henning ill16 Altruism Award:</td>
-<td>
+<td>William E. Kahlert minn46 (2022)
 </td></tr>
 
 <tr>

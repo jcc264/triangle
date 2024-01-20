@@ -71,6 +71,7 @@ parent: Awards by Chapter
 <br>Edward T. Shonsey marq64 (2011)
 <br>John D. Santi marq50 (2013)
 <br>Michael H. O'Connor marq74 (2021)
+<br>Ronald E. Barr marq67 (2022)
 </td></tr>
 
 <tr>
@@ -90,6 +91,7 @@ parent: Awards by Chapter
 <tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>Michael S. Butler marq93 (2009)
+<br>Matthew J. Sharritt marq99 (2018)
 </td></tr>
 
 <tr>
@@ -99,7 +101,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Cap Henning ill16 Altruism Award:</td>
-<td>
+<td>James A. McShane marq65 (2018)
 </td></tr>
 
 <tr>
@@ -122,6 +124,7 @@ parent: Awards by Chapter
 <br>Thomas R. Schoenauer marq56 (1975)
 <br>Dennis J. McNally marq62 (1977)
 <br>Leonard J. Staab marq50 (1993)
+<br>Robert L. Boehler marq75 (2023)
 </td></tr>
 
 <tr>

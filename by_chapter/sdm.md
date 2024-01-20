@@ -35,6 +35,7 @@ parent: Awards by Chapter
 <td>E. Harlan Gellhaus sdm57 (1968)
 <br>Jerald C. Thompson sdm58 (1976)
 <br>Harry V. Rossander sdm78pur (2010)
+<br>Monte S. Dirks sdm71 (2018)
 </td></tr>
 
 <tr>
@@ -51,7 +52,8 @@ parent: Awards by Chapter
 
 <tr>
 <td>Distinguished Alumnus Citation:</td>
-<td>Wayne F. Echelberger sdm54 (2013)
+<td>Bernard L. Hoogestraat sdm53 (2010)
+<br>Wayne F. Echelberger sdm54 (2013)
 </td></tr>
 
 <tr>

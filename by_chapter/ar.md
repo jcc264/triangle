@@ -63,8 +63,9 @@ parent: Awards by Chapter
 <td>Distinguished Alumnus Citation:</td>
 <td>Maynard P. Venema ar29 (1963)
 <br>Stothe P. Kezios ar58hon (1968)
-<br>Robert B. Rosenberg ar55 (2009)</td>
-</tr>
+<br>Robert B. Rosenberg ar55 (2009)
+<br>John K. Kerin ar81 (2018)
+</td></tr>
 
 <tr>
 <td>Men of the Century Award:</td>

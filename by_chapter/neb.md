@@ -46,7 +46,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Distinguished Alumnus Citation:</td>
-<td>
+<td>John G. Vondras neb66 (2010)
 </td></tr>
 
 <tr>

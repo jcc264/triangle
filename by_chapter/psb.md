@@ -30,7 +30,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Certificate of Service:</td>
-<td>
+<td>Kyle A. Godfrey psb16 (2019)
 </td></tr>
 
 <tr>

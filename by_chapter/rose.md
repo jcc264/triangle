@@ -34,6 +34,8 @@ parent: Awards by Chapter
 <td>Certificate of Service:</td>
 <td>David C. Jordan rose69 (1987)
 <br>Dylan J. Lambert rose11 (2014)
+<br>J. Steven Flannigan rose67 (2018)
+<br>Randall E. Drew rose67 (2019)
 </td></tr>
 
 <tr>
@@ -62,6 +64,8 @@ parent: Awards by Chapter
 <tr>
 <td>Onizuka Young Alumnus Award:</td>
 <td>Joseph Wendel rose92 (2010)
+<br>David S. Fisher rose98 (2017)
+<br>Gabriel J. Ferland rose93 (2017)
 </td></tr>
 
 <tr>
@@ -92,7 +96,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Outstanding Advisor Award/Chapter Advisor of the Year:</td>
-<td>
+<td>Cary Laxer rose88asc (2017)
 </td></tr>
 
 <tr>

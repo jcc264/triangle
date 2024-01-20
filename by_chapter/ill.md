@@ -56,6 +56,7 @@ parent: Awards by Chapter
 <td>Walter Hanson ill49asc (1982)
 <br>Mark Handzel ill80 (1982)
 <br>Patrick W. Lindley ill05 (2007)
+<br>Robert A. Benziger ill61 (2018)
 </td></tr>
 
 <tr>
@@ -119,6 +120,8 @@ parent: Awards by Chapter
 <tr>
 <td>Outstanding Alumnus Award:</td>
 <td>Frank W. Vogt ill17 (1963)
+<br>Edward W. Hand ill92 (2022)
+<br>Keith B. Lewitzke ill76 (2022)
 </td></tr>
 
 <tr>

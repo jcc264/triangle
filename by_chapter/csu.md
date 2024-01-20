@@ -35,6 +35,7 @@ parent: Awards by Chapter
 <td>James M. Kincaid III csu70 (1986)
 <br>Kenneth M. Quayle III csu71 (1988)
 <br>Stephen W. Scott csu74 (1994)
+<br>Nathan D. Nash csu13 (2018)
 </td></tr>
 
 <tr>
