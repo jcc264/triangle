@@ -102,9 +102,9 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1922-23__||
 |President              |Frank W. Vogt  ill17|
 |Vice President         |Luster R. Kleinknight  pur16|
-|Secretary/Treasurer     C. Alfred Campbell  os14|
+|Secretary/Treasurer    |C. Alfred Campbell  os14|
 |Member                 |C. Carl Cunningham  pur12|
-|Member                 |Frank A. Kaiser  wis18 / Sholto M. Spears  ky20
+|Member                 |Frank A. Kaiser  wis18 / Sholto M. Spears  ky20|
 ||Note: In late 1922, Kaiser resigned from Council and was replaced by Spears.|
 | | |
 |__1923-24__||
@@ -157,7 +157,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Irwin D. Mayer  pur14|
 | | |
 
-|<a name="1930">__1930-31__</a>||
+|<a name="1930"></a>__1930-31__||
 |President              |Arthur Schwerin  ill07|
 |Vice President         |C. Norman Beggs  ill18|
 |Secretary/Treasurer     Chris A. Wiepking  wis18|
