@@ -66,7 +66,7 @@ nav_order: 6
 |Fay, James E.| Iowa State|1970|1994-97|
 |Feger, Bret T.|Louisville|1986|1996-2005|
 |Fong, Kevin Y.|UCLA|1984|1997-2016, 2021-|
-|Fullenwider, Charles V.R. Purdue|1909|1909-12|
+|Fullenwider, Charles V.R.|Purdue|1909|1909-12|
 |Gargani, John C.|Pittsburgh|1982|2004-13|
 |Gaston, Lindon S.| Purdue|1917|1934-41|
 |Gellhaus, E. Harlan| South Dakota Mines|1957|1964-68|
@@ -79,7 +79,7 @@ nav_order: 6
 |Guido, Daniel J.|UWM| 1996|2002-06|
 |Haggard, George W.|Ohio State|1960|1972-75, 1976-77|
 |Halgren, Robert G.|Michigan|2005|2015-17|
-|Hamlett, Robert M.|Kansas State/Armour 1961|1991-96|
+|Hamlett, Robert M.|Kansas State/Armour|1961|1991-96|
 |Handley, Thomas L.|Kansas|1968|1972-75|
 |Harris, Richard P.|Kansas State|1982|1993-95|
 |Harvey, George H.| Ohio State|1911|1918-19|
