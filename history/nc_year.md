@@ -550,7 +550,6 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Randy G. Kerns  mom71|
 |Immediate Past Pres    |Robert J. Mosborg  ill45|
 | | |
-
 |<a name="1980"></a>__1980-81__||
 |President              |William R. McGovern  marq55|
 |Vice President         |Gerald S. Jakubowski  tol74|
@@ -561,7 +560,6 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Randy G. Kerns  mom71|
 |Immediate Past Pres    |James R. Marshall  pur65|
 | | |
-|
 |__1981-82__||
 |President              |Gerald S. Jakubowski  tol74|
 |Vice President         |Randy G. Kerns  mom71|
@@ -733,32 +731,18 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Immediate Past Pres    |Omar G. Hernandez  nu75|
 | | |
 |__1996-97__||
-|President              |Robert G. Sharp  pur51/
-                           Timothy L. Eiler minn87|
-|Vice President         |Timothy L. Eiler  minn87/
-                           Jeffrey P. Scott  wis87|
-|Treasurer              |Robert M. Hamlett  ks61ar/
-                           Albert J. Evon ar88|
+|President              |Robert G. Sharp  pur51 / Timothy L. Eiler minn87|
+|Vice President         |Timothy L. Eiler  minn87 / Jeffrey P. Scott  wis87|
+|Treasurer              |Robert M. Hamlett  ks61ar / Albert J. Evon ar88|
 |Secretary              |Albert J. Evon  ar88|
 |Member                 |Matthew A. Czyzewski  tol89|
 |Member                 |James E. Fay  is70|
 |Member                 |Kurt W. Over  pitt83|
 |Member                 |Michael F. Rogers ar79|
-|Member                 |Jeffrey P. Scott  wis87/
-                           Bret T. Feger lou86|
-|Member                 |James A. Thorp  rose88/
-                           Shawn G. Diedtrich  minn90|
-|Immediate Past Pres    |Steven M. Heitert  mom81/
-                           Robert G. Sharp  pur51
-   |__Note:__|| In August 1996, Heitert resigned as Past President.
-   The vacancy was not filled. In November 1996, Hamlett resigned as
-   Treasurer and was replaced by Evon. In December 1996, Sharp resigned
-   as President and became Past President, with Eiler succeeding to the 
-   Presidency. National Council appointed Councilman Scott as Vice
-   President and Feger to replace Scott on Council. In February 1997, 
-   Thorp resigned and Council appointed Diedtrich to replace him. In 
-   August 1997, Rogers resigned and the position was eliminated at the
-   subsequent National Convention.|
+|Member                 |Jeffrey P. Scott  wis87 / Bret T. Feger lou86|
+|Member                 |James A. Thorp  rose88 / Shawn G. Diedtrich  minn90|
+|Immediate Past Pres    |Steven M. Heitert  mom81 / Robert G. Sharp  pur51|
+||Note: In August 1996, Heitert resigned as Past President. The vacancy was not filled. In November 1996, Hamlett resigned as Treasurer and was replaced by Evon. In December 1996, Sharp resigned as President and became Past President, with Eiler succeeding to the Presidency. National Council appointed Councilman Scott as Vice President and Feger to replace Scott on Council. In February 1997, Thorp resigned and Council appointed Diedtrich to replace him. In    August 1997, Rogers resigned and the position was eliminated at the subsequent National Convention.|
 | | |
 |__1997-98__||
 |President              |Timothy L. Eiler minn87|
@@ -791,14 +775,12 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Secretary              |Kevin Y. Fong ucla84|
 |Member                 |Shawn G. Diedtrich  minn90|
 |Member                 |Bret T. Feger lou86|
-|Member                 |Kevin Y. Fong  ucla84/
-                           Matthew A. Czyzewski  tol89|
+|Member                 |Kevin Y. Fong  ucla84 / Matthew A. Czyzewski  tol89|
 |Member                 |Kurt W. Over  pitt83|
-|Immediate Past Pres    |Timothy L. Eiler minn87
-   |__Note:__|| In October 1999, Councilman Fong was appointed to fill the 
-   vacant position of Secretary. Czyzewski was appointed by Council to fill 
-   the open Council seat.|
+|Immediate Past Pres    |Timothy L. Eiler minn87|
+||Note: In October 1999, Councilman Fong was appointed to fill the vacant position of Secretary. Czyzewski was appointed by Council to fill the open Council seat.|
 | | |
+
 |<a name="2000"></a>__2000-01__||
 |President              |Merle Newlon III  lou73|
 |Vice President         |Matthew A. Czyzewski  tol89/
