@@ -84,6 +84,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Treasurer              |Theodore Leonard, Jr.  os11|
 |Member                 |Rollin F. MacDowell  os11|
 | | |
+
 |__1920-21__||
 |President              |Frederick N. Schustedt  wis13|
 |Vice President         |R.E. Turley, Jr.  ill11/
