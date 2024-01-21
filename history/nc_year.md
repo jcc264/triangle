@@ -14,7 +14,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Secretary              |Louis W. Bruck  pur09|
 |Treasurer              |Harry H. Burgess  ill08|
 | | |
-|<a name="1910">__1910-11__</a>||
+|<a name="1910"></a>__1910-11__||
 |President              |Harry H. Burgess  ill08|
 |Vice President         |Ray V. Rosenbaum  pur09|
 |Secretary              |Louis W. Bruck  pur09|
@@ -84,7 +84,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Treasurer              |Theodore Leonard, Jr.  os11|
 |Member                 |Rollin F. MacDowell  os11|
 | | |
-|<a name="1920">__1920-21__</a>||
+|<a name="1920"></a>__1920-21__||
 |President              |Frederick N. Schustedt  wis13|
 |Vice President         |R.E. Turley, Jr.  ill11 / Arthur Schwerin  ill07 / Frank W. Vogt  ill17|
 |Secretary              |Earl D. Dryfoose  pur18|
@@ -110,49 +110,49 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1923-24__||
 |President              |C. Carl Cunningham  pur12|
 |Vice President         |Eldred E. Cress  ill16|
-|Secretary/Treasurer     Sholto M. Spears  ky20|
+|Secretary/Treasurer    |Sholto M. Spears  ky20|
 |Member                 |Luster R. Kleinknight  pur16|
 |Member                 |Frank W. Vogt  ill17|
 | | |
 |__1924-25__||
 |President              |Eldred E. Cress  ill16|
 |Vice President         |Luster R. Kleinknight  pur16|
-|Secretary/Treasurer     Chris A. Wiepking  wis18|
+|Secretary/Treasurer    |Chris A. Wiepking  wis18|
 |Member                 |Early T. Cross  ky20|
 |Member                 |Alan C. Rockwood  ia22|
 | | |
 |__1925-26__||
 |President              |Luster R. Kleinknight  pur16|
 |Vice President         |Alan C. Rockwood  ia22|
-|Secretary/Treasurer     Chris A. Wiepking  wis18|
+|Secretary/Treasurer    |Chris A. Wiepking  wis18|
 |Member                 |Eldred E. Cress  ill16|
 |Member                 |Raymond A. Stoesser  ky21|
 | | |
 |__1926-27__||
 |President              |Raymond A. Stoesser  ky21|
 |Vice President         |Alan C. Rockwood  ia22|
-|Secretary/Treasurer     Chris A. Wiepking  wis18|
+|Secretary/Treasurer    |Chris A. Wiepking  wis18|
 |Member                 |C. Norman Beggs  ill18|
 |Member                 |Arthur Schwerin  ill07|
 | | |
 |__1927-28__||
 |President              |Raymond A. Stoesser  ky21|
 |Vice President         |Arthur Schwerin  ill07|
-|Secretary/Treasurer     Chris A. Wiepking  wis18|
+|Secretary/Treasurer    |Chris A. Wiepking  wis18|
 |Member                 |C. Norman Beggs  ill18|
 |Member                 |Bruce E. Maxon  cin21|
 | | |
 |__1928-29__||
 |President              |Arthur Schwerin  ill07|
 |Vice President         |C. Norman Beggs  ill18|
-|Secretary/Treasurer     Chris A. Wiepking  wis18|
+|Secretary/Treasurer    |Chris A. Wiepking  wis18|
 |Member                 |Edward E. Bauer  ill16|
 |Member                 |Bruce E. Maxon  cin21|
 | | |
 |__1929-30__||
 |President              |Arthur Schwerin  ill07|
 |Vice President         |C. Norman Beggs  ill18|
-|Secretary/Treasurer     Chris A. Wiepking  wis18|
+|Secretary/Treasurer    |Chris A. Wiepking  wis18|
 |Member                 |Harold H. Layritz  cin21|
 |Member                 |Irwin D. Mayer  pur14|
 | | |
@@ -160,56 +160,56 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |<a name="1930"></a>__1930-31__||
 |President              |Arthur Schwerin  ill07|
 |Vice President         |C. Norman Beggs  ill18|
-|Secretary/Treasurer     Chris A. Wiepking  wis18|
+|Secretary/Treasurer    |Chris A. Wiepking  wis18|
 |Member                 |Harold H. Layritz  cin21|
 |Member                 |Irwin D. Mayer  pur14|
 | | |
 |__1931-32__||
 |President              |Irwin D. Mayer  pur14|
 |Vice President         |C. Norman Beggs  ill18|
-|Secretary/Treasurer     Harold H. Layritz  cin21|
+|Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |Charles R. Little  pur23|
 |Member                 |Arthur Schwerin  ill07|
 | | |
 |__1932-33__||
 |President              |Irwin D. Mayer  pur14|
 |Vice President         |C. Norman Beggs  ill18|
-|Secretary/Treasurer     Harold H. Layritz  cin21|
+|Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |Charles R. Little  pur23|
 |Member                 |Arthur Schwerin  ill07|
 | | |
 |__1933-34__||
 |President              |Charles R. Little  pur23|
 |Vice President         |C. Norman Beggs  ill18|
-|Secretary/Treasurer     Harold H. Layritz  cin21|
+|Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |Irwin D. Mayer  pur14|
 |Member                 |Arthur Schwerin  ill07|
 | | |
 |__1934-35__||
 |President              |Lindon S. Gaston  pur17|
 |Vice President         |Ray W. Wakeland  pur09|
-|Secretary/Treasurer     Harold H. Layritz  cin21|
+|Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |Benjamin F. Morrison  ar23|
 |Member                 |Arthur Schwerin  ill07|
 | | |
 |__1935-36__||
 |President              |Lindon S. Gaston  pur17|
 |Vice President         |Arthur Schwerin  ill07|
-|Secretary/Treasurer     Harold H. Layritz  cin21|
+|Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |Charles E. Bischoff  os25|
 |Member                 |William H. Smith  ps28|
 | | |
 |__1936-37__||
 |President              |Lindon S. Gaston  pur17|
 |Vice President         |Arthur Schwerin  ill07|
-|Secretary/Treasurer     Harold H. Layritz  cin21|
+|Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |William H. Smith  ps28|
 |Member                 |Rolland W. Stoebe  minn27|
 | | |
 |__1937-38__||
 |President              |William H. Smith  ps28|
 |Vice President         |Arthur Schwerin  ill07|
-|Secretary/Treasurer     Harold H. Layritz  cin21|
+|Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |Charles E. Bischoff  os25|
 |Member                 |Lindon S. Gaston  pur17|
 |Member                 |E. Paul Reichard  cin23|
@@ -217,7 +217,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1938-39__||
 |President              |William H. Smith  ps28|
 |Vice President         |E. Paul Reichard  cin23|
-|Secretary/Treasurer     Harold H. Layritz  cin21|
+|Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |Charles E. Bischoff  os25|
 |Member                 |Lindon S. Gaston  pur17|
 |Member                 |Arthur Schwerin  ill07|
@@ -225,7 +225,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1939-40__||
 |President              |E. Paul Reichard  cin23|
 |Vice President         |William H. Smith  ps28|
-|Secretary/Treasurer     Harold H. Layritz  cin21|
+|Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |Lindon S. Gaston  pur17|
 |Member                 |John W. Mercer  os24|
 |Member                 |Arthur Schwerin  ill07|
@@ -233,7 +233,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1940-41__||
 |President              |E. Paul Reichard  cin23|
 |Vice President         |John W. Mercer  os24|
-|Secretary/Treasurer     Harold H. Layritz  cin21|
+|Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |Lindon S. Gaston  pur17|
 |Member                 |John J. Schlenk  minn22|
 |Member                 |Arthur Schwerin  ill07|
@@ -241,7 +241,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1941-42__||
 |President              |John W. Mercer  os24|
 |Vice President         |John J. Schlenk  minn22|
-|Secretary/Treasurer     Harold H. Layritz  cin21|
+|Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |Raymond O. Bell  ps34/
 			   Carl J. Reutter  ar24|
 |Member                 |E. Paul Reichard  cin23|
@@ -252,7 +252,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1942-43__||
 |President              |John W. Mercer  os24|
 |Vice President         |John J. Schlenk  minn22|
-|Secretary/Treasurer     Harold H. Layritz  cin21|
+|Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |E. Paul Reichard  cin23|
 |Member                 |Carl J. Reutter  ar24|
 |Member                 |Arthur Schwerin  ill07|
@@ -260,7 +260,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1943-44__||
 |President              |John W. Mercer  os24|
 |Vice President         |John J. Schlenk  minn22|
-|Secretary/Treasurer     Harold H. Layritz  cin21|
+|Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |E. Paul Reichard  cin23|
 |Member                 |Carl J. Reutter  ar24|
 |Member                 |Arthur Schwerin  ill07|
@@ -268,7 +268,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1944-45__||
 |President              |John W. Mercer  os24|
 |Vice President         |John J. Schlenk  minn22|
-|Secretary/Treasurer     Harold H. Layritz  cin21|
+|Secretary/Treasurer    |Harold H. Layritz  cin21|
 |Member                 |E. Paul Reichard  cin23|
 |Member                 |Carl J. Reutter  ar24|
 |Member                 |Arthur Schwerin  ill07|
@@ -276,7 +276,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1945-46__||
 |President              |John W. Mercer  os24|
 |Vice President         |John J. Schlenk  minn22|
-|Secretary/Treasurer     Harold H. Layritz  cin21/
+|Secretary/Treasurer    |Harold H. Layritz  cin21/
 			   Charles R. Little  pur23|
 |Member                 |E. Paul Reichard  cin23|
 |Member                 |Carl J. Reutter  ar24/
@@ -290,7 +290,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |President              |Harold H. Layritz  cin21|
 |Vice President         |John J. Schlenk  minn22/
 			   William F. Sikkema  ill42|
-|Secretary/Treasurer     Charles R. Little  pur23|
+|Secretary/Treasurer    |Charles R. Little  pur23|
 |Member                 |John W. Mercer  os24/
 			   Edward Larson  cin22|
 |Member                 |Arthur Schwerin  ill07|
@@ -302,7 +302,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1947-48__||
 |President              |Edward Larson  cin22|
 |Vice President         |John R. Adriansen  marq41|
-|Secretary/Treasurer     Charles R. Little  pur23|
+|Secretary/Treasurer    |Charles R. Little  pur23|
 |Member                 |Warner Ohman  pur39|
 |Member                 |Benjamin H. Sachs, Jr.  lou41|
 |Member                 |William F. Sikkema  ill42|
@@ -310,7 +310,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1948-49__||
 |President              |Edward Larson  cin22|
 |Vice President         |John R. Adriansen  marq41|
-|Secretary/Treasurer     Benjamin H. Sachs, Jr.  lou41|
+|Secretary/Treasurer    |Benjamin H. Sachs, Jr.  lou41|
 |Member                 |Ikel C. Benson  minn25|
 |Member                 |Ned E. Mitchell  nu43|
 |Member                 |Warner Ohman  pur39|
@@ -318,7 +318,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1949-50__||
 |President              |John R. Adriansen  marq41|
 |Vice President         |Ikel C. Benson  minn25|
-|Secretary/Treasurer     Benjamin H. Sachs, Jr.  lou41|
+|Secretary/Treasurer    |Benjamin H. Sachs, Jr.  lou41|
 |Member                 |Edward Larson  cin22|
 |Member                 |Ned E. Mitchell  nu43|
 |Member                 |William D. Renner  pur37|
@@ -326,7 +326,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1950-51__||
 |President              |John R. Adriansen  marq41|
 |Vice President         |Ikel C. Benson  minn25|
-|Secretary/Treasurer     Benjamin H. Sachs, Jr.  lou41/
+|Secretary/Treasurer    |Benjamin H. Sachs, Jr.  lou41/
 			   Harold Kennedy  marq43|
 |Member                 |Howard H. Darbo  wis29|
 |Member                 |Ned E. Mitchell  nu43|
@@ -340,7 +340,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1951-52__||
 |President              |Ikel C. Benson  minn25|
 |Vice President         |Howard H. Darbo  wis29|
-|Secretary/Treasurer     Harold Kennedy  marq43|
+|Secretary/Treasurer    |Harold Kennedy  marq43|
 |Member                 |William R. Brown  os33|
 |Member                 |William G. Deas  cin39|
 |Member                 |Warner Ohman  pur39|
@@ -348,7 +348,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1952-53__||
 |President              |Ikel C. Benson  minn25|
 |Vice President         |Howard H. Darbo  wis29|
-|Secretary/Treasurer     Harold Kennedy  marq43|
+|Secretary/Treasurer    |Harold Kennedy  marq43|
 |Member                 |William R. Brown  os33|
 |Member                 |William G. Deas  cin39|
 |Member                 |Harry E. Lenz  cin47|
@@ -356,7 +356,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1953-54__||
 |President              |Howard H. Darbo  wis29|
 |Vice President         |William R. Brown  os33|
-|Secretary/Treasurer     Harold Kennedy  marq43|
+|Secretary/Treasurer    |Harold Kennedy  marq43|
 |Member                 |Ikel C. Benson  minn25|
 |Member                 |Harry E. Lenz  cin47/
 			   William G. Deas  cin39
@@ -366,7 +366,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1954-55__||
 |President              |Howard H. Darbo  wis29|
 |Vice President         |Harold Kennedy  marq43|
-|Secretary/Treasurer     Douglas P. Jenkins  nu42|
+|Secretary/Treasurer    |Douglas P. Jenkins  nu42|
 |Member                 |William J. Kingston  cor48|
 |Member                 |Robert A. Vogt  mom43
    |__Note:__|| In July 1955, Kennedy resigned as Vice President and was
@@ -377,7 +377,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 			   Robert A. Vogt  mom43|
 |Vice President         |Robert A. Vogt  mom43/
 			   Frank Caplan, Jr.  cor42|
-|Secretary/Treasurer     Douglas P. Jenkins  nu42|
+|Secretary/Treasurer    |Douglas P. Jenkins  nu42|
 |Member                 |Charles E. Bischoff  os25|
 |Member                 |William J. Kingston  cor48
    |__Note:__|| In July 1956, Darbo resigned as President and was replaced
@@ -386,49 +386,49 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1957-59__||
 |President              |Robert A. Vogt  mom43|
 |Vice President         |Frank Caplan, Jr.  cor42|
-|Secretary/Treasurer     William J. Kingston  cor48|
+|Secretary/Treasurer    |William J. Kingston  cor48|
 |Member                 |Eugene J. Rezabeck  ar47|
 |Member                 |Frank W. Vogt ill17|
 | | |
 |__1959-61__||
 |President              |Frank Caplan, Jr.  cor42|
 |Vice President         |William J. Kingston  cor48|
-|Secretary/Treasurer     Eugene J. Rezabeck  ar47|
+|Secretary/Treasurer    |Eugene J. Rezabeck  ar47|
 |Member                 |William L. Swihart  pur45|
 |Member                 |Frank W. Vogt ill17|
 | | |
 |__1961-63__||
 |President              |William J. Kingston  cor48|
 |Vice President         |Eugene J. Rezabeck  ar47|
-|Secretary/Treasurer     Patrick J. Clark  marq54|
+|Secretary/Treasurer    |Patrick J. Clark  marq54|
 |Member                 |David H. Bulman  cl54cor|
 |Member                 |William L. Swihart  pur45|
 | | |
 |__1963-64__||
 |President              |Eugene J. Rezabeck  ar47|
 |Vice President         |David H. Bulman  cl54cor|
-|Secretary/Treasurer     William L. Swihart  pur45|
+|Secretary/Treasurer    |William L. Swihart  pur45|
 |Member                 |Patrick J. Clark  marq54|
 |Member                 |John Merrill Weed  os21|
 | | |
 |__1964-65__||
 |President              |Eugene J. Rezabeck  ar47|
 |Vice President         |William L. Swihart  pur45|
-|Secretary/Treasurer     David H. Bulman  cl54cor|
+|Secretary/Treasurer    |David H. Bulman  cl54cor|
 |Member                 |E. Harlan Gellhaus  sdm57|
 |Member                 |John Merrill Weed  os21|
 | | |
 |__1965-66__||
 |President              |William L. Swihart  pur45|
 |Vice President         |John Merrill Weed  os21|
-|Secretary/Treasurer     Robert C. Deen  ky48|
+|Secretary/Treasurer    |Robert C. Deen  ky48|
 |Member                 |E. Harlan Gellhaus  sdm57|
 |Member                 |Eugene J. Rezabeck  ar47|
 | | |
 |__1966-67__||
 |President              |John Merrill Weed  os21|
 |Vice President         |E. Harlan Gellhaus  sdm57|
-|Secretary/Treasurer     Robert C. Deen  ky48|
+|Secretary/Treasurer    |Robert C. Deen  ky48|
 |Member                 |Edward A. Bischoff  os53|
 |Member                 |Daniel P. Rathmann  cor53|
 |Immediate Past Pres     William L. Swihart  pur45|
@@ -437,7 +437,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |President              |Robert C. Deen  ky48|
 |Vice President         |E. Harlan Gellhaus  sdm57/
 (Member)                   John F. Berninger  ar55|
-|Secretary/Treasurer     Edward A. Bischoff  os53/
+|Secretary/Treasurer    |Edward A. Bischoff  os53/
 (Member)                   Franklin D. Duncan  ks64|
 |Member                 |Gordon T. Ersted  minn41|
 |Member                 |Daniel P. Rathmann  cor53|
@@ -451,7 +451,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1968-69__||
 |President              |Robert C. Deen  ky48|
 |Vice President         |Gordon T. Ersted  minn41|
-|Secretary/Treasurer     Daniel P. Rathmann  cor53|
+|Secretary/Treasurer    |Daniel P. Rathmann  cor53|
 |Member                 |John F. Berninger  ar55|
 |Member                 |Franklin D. Duncan  ks64|
 |Immediate Past Pres     John Merrill Weed  os21|
@@ -459,7 +459,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1969-70__||
 |President              |Daniel P. Rathmann  cor53|
 |Vice President         |John F. Berninger  ar55|
-|Secretary/Treasurer     Herbert F. Scobie  minn32|
+|Secretary/Treasurer    |Herbert F. Scobie  minn32|
 |Member                 |H. Jack Allison  oks64asc|
 |Member                 |Franklin D. Duncan  ks64|
 |Member                 |Gordon T. Ersted  minn41|
@@ -471,7 +471,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1970-71__||
 |President              |John F. Berninger  ar55|
 |Vice President         |Gordon T. Ersted  minn41|
-|Secretary/Treasurer     Herbert F. Scobie  minn32|
+|Secretary/Treasurer    |Herbert F. Scobie  minn32|
 |Member                 |H. Jack Allison  oks64asc|
 |Member                 |James V. Blazek  nu56|
 |Member                 |Franklin D. Duncan  ks64|
@@ -483,7 +483,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1971-72__||
 |President              |Gordon T. Ersted  minn41|
 |Vice President         |Robert J. Mosborg  ill45|
-|Secretary/Treasurer     Herbert F. Scobie  minn32|
+|Secretary/Treasurer    |Herbert F. Scobie  minn32|
 |Member                 |H. Jack Allison  oks64asc|
 |Member                 |Edward A. Bischoff  os53|
 |Member                 |James V. Blazek  nu56|
@@ -495,7 +495,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1972-73__||
 |President              |Robert J. Mosborg  ill45|
 |Vice President         |Edward A. Bischoff  os53|
-|Secretary/Treasurer     Herbert F. Scobie  minn32|
+|Secretary/Treasurer    |Herbert F. Scobie  minn32|
 |Member                 |Randall E. Drew  rose67|
 |Member                 |George W. Haggard  os60|
 |Member                 |Thomas L. Handley  kan68|
@@ -507,7 +507,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1973-74__||
 |President              |Edward A. Bischoff  os53|
 |Vice President         |Richard H. Sudheimer  minn52|
-|Secretary/Treasurer     Herbert F. Scobie  minn32|
+|Secretary/Treasurer    |Herbert F. Scobie  minn32|
 |Member                 |Randall E. Drew  rose67|
 |Member                 |George W. Haggard  os60|
 |Member                 |Thomas L. Handley  kan68|
@@ -519,7 +519,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1974-75__||
 |President              |Richard H. Sudheimer  minn52|
 |Vice President         |Randall E. Drew  rose67|
-|Secretary/Treasurer     Herbert F. Scobie  minn32|
+|Secretary/Treasurer    |Herbert F. Scobie  minn32|
 |Member                 |Richard F. Beaubien  mich64|
 |Member                 |William B. Fagerstrom  wis59|
 |Member                 |George W. Haggard  os60|
@@ -531,7 +531,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1975-76__||
 |President              |Randall E. Drew  rose67|
 |Vice President         |Robert N. Hettrick  cin49|
-|Secretary/Treasurer     Herbert F. Scobie  minn32|
+|Secretary/Treasurer    |Herbert F. Scobie  minn32|
 |Member                 |Richard F. Beaubien  mich64|
 |Member                 |William B. Fagerstrom  wis59|
 |Member                 |William R. McGovern  marq55|
@@ -541,7 +541,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1976-77__||
 |President              |Robert N. Hettrick  cin49|
 |Vice President         |Richard F. Beaubien  mich64|
-|Secretary/Treasurer     Herbert F. Scobie  minn32|
+|Secretary/Treasurer    |Herbert F. Scobie  minn32|
 |Member                 |George W. Haggard  os60|
 |Member                 |Gerald S. Jakubowski  tol74|
 |Member                 |James R. Marshall  pur65|
@@ -551,7 +551,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1977-78__||
 |President              |Richard F. Beaubien  mich64|
 |Vice President         |Robert J. Mosborg  ill45|
-|Secretary/Treasurer     Herbert F. Scobie  minn32|
+|Secretary/Treasurer    |Herbert F. Scobie  minn32|
 |Member                 |Gerald S. Jakubowski  tol74|
 |Member                 |Jerry L. Kennedy  lou71|
 |Member                 |James R. Marshall  pur65|
@@ -561,7 +561,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1978-79__||
 |President              |Robert J. Mosborg  ill45|
 |Vice President         |James R. Marshall  pur65|
-|Secretary/Treasurer     Charles S. Barbour  ps43|
+|Secretary/Treasurer    |Charles S. Barbour  ps43|
 |Member                 |Gerald S. Jakubowski  tol74|
 |Member                 |Jerry L. Kennedy  lou71|
 |Member                 |Randy G. Kerns  mom71|
@@ -571,7 +571,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1979-80__||
 |President              |James R. Marshall  pur65|
 |Vice President         |William R. McGovern  marq55|
-|Secretary/Treasurer     Charles S. Barbour  ps43|
+|Secretary/Treasurer    |Charles S. Barbour  ps43|
 |Member                 |Rufus A. Brown  miss71|
 |Member                 |Gerald S. Jakubowski  tol74|
 |Member                 |Bradley N. Keller  neb69|
@@ -581,7 +581,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1980-81__||
 |President              |William R. McGovern  marq55|
 |Vice President         |Gerald S. Jakubowski  tol74|
-|Secretary/Treasurer     Charles S. Barbour  ps43|
+|Secretary/Treasurer    |Charles S. Barbour  ps43|
 |Member                 |Rufus A. Brown  miss71|
 |Member                 |John W. Greene  is73|
 |Member                 |Bradley N. Keller  neb69|
@@ -592,7 +592,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1981-82__||
 |President              |Gerald S. Jakubowski  tol74|
 |Vice President         |Randy G. Kerns  mom71|
-|Secretary/Treasurer     Charles S. Barbour  ps43|
+|Secretary/Treasurer    |Charles S. Barbour  ps43|
 |Member                 |Rufus A. Brown  miss71|
 |Member                 |John W. Greene  is73|
 |Member                 |David C. Jordan  rose69|
@@ -602,7 +602,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1982-83__||
 |President              |Randy G. Kerns  mom71|
 |Vice President         |Rufus A. Brown  miss71|
-|Secretary/Treasurer     Charles S. Barbour  ps43|
+|Secretary/Treasurer    |Charles S. Barbour  ps43|
 |Member                 |Gifford H. Albright  ps52|
 |Member                 |John W. Greene  is73|
 |Member                 |David C. Jordan  rose69|
@@ -612,7 +612,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1983-84__||
 |President              |Rufus A. Brown  miss71|
 |Vice President         |Gerald S. Jakubowski  tol74|
-|Secretary/Treasurer     Charles S. Barbour  ps43|
+|Secretary/Treasurer    |Charles S. Barbour  ps43|
 |Member                 |Gifford H. Albright  ps52|
 |Member                 |H. Samuel Bruner kan76|
 |Member                 |David C. Jordan  rose69|
@@ -622,7 +622,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1984-85__||
 |President              |Gerald S. Jakubowski  tol74|
 |Vice President         |David C. Jordan  rose69|
-|Secretary/Treasurer     Charles S. Barbour  ps43|
+|Secretary/Treasurer    |Charles S. Barbour  ps43|
 |Member                 |Gifford H. Albright  ps52|
 |Member                 |H. Samuel Bruner kan76|
 |Member                 |James M. Kincaid III  csu70|
@@ -632,7 +632,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1985-86__||
 |President              |David C. Jordan  rose69|
 |Vice President         |Kenneth W. Quayle III  csu71|
-|Secretary/Treasurer     Charles S. Barbour  ps43|
+|Secretary/Treasurer    |Charles S. Barbour  ps43|
 |Member                 |H. Samuel Bruner kan76|
 |Member                 |Charles L. Hett  ks64|
 |Member                 |James M. Kincaid III  csu70|
@@ -642,7 +642,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1986-87__||
 |President              |Kenneth W. Quayle III  csu71|
 |Vice President         |James R. Marshall  pur65|
-|Secretary/Treasurer     H. Jack Sargent  pur55|
+|Secretary/Treasurer    |H. Jack Sargent  pur55|
 |Member                 |H. Samuel Bruner kan76|
 |Member                 |Charles L. Hett  ks64|
 |Member                 |Carl P. Meglan  os56|
@@ -652,7 +652,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1987-88__||
 |President              |James R. Marshall  pur65|
 |Vice President         |Randy G. Kerns  mom71|
-|Secretary/Treasurer     H. Jack Sargent  pur55|
+|Secretary/Treasurer    |H. Jack Sargent  pur55|
 |Member                 |Charles L. Hett  ks64|
 |Member                 |Richard F. Lindstrom  uwm71|
 |Member                 |Carl P. Meglan  os56|
@@ -662,7 +662,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1988-89__||
 |President              |Randy G. Kerns  mom71|
 |Vice President         |Charles L. Hett  ks64|
-|Secretary/Treasurer     H. Jack Sargent  pur55|
+|Secretary/Treasurer    |H. Jack Sargent  pur55|
 |Member                 |Michael D. Hicks  ks76|
 |Member                 |Robert D. Hoel  ar67|
 |Member                 |Richard F. Lindstrom  uwm71|
@@ -674,7 +674,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1989-90__||
 |President              |Charles L. Hett  ks64|
 |Vice President         |John R. Wyatt  mich76|
-|Secretary/Treasurer     H. Jack Sargent  pur55|
+|Secretary/Treasurer    |H. Jack Sargent  pur55|
 |Member                 |Omar G. Hernandez  nu75|
 |Member                 |Michael D. Hicks  ks76|
 |Member                 |Robert D. Hoel  ar67|
@@ -686,7 +686,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1990-91__||
 |President              |John R. Wyatt  mich76|
 |Vice President         |Robert D. Hoel  ar67|
-|Secretary/Treasurer     H. Jack Sargent  pur55|
+|Secretary/Treasurer    |H. Jack Sargent  pur55|
 |Member                 |Steven M. Heitert  mom81|
 |Member                 |Wesley C. Herbol  ar52|
 |Member                 |Omar G. Hernandez  nu75|
@@ -750,7 +750,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1995-96__||
 |President              |Steven M. Heitert  mom81|
 |Vice President         |Robert G. Sharp  pur51|
-|Secretary/Treasurer     Robert M. Hamlett  ks61ar|
+|Secretary/Treasurer    |Robert M. Hamlett  ks61ar|
 |Member                 |Matthew A. Czyzewski  tol89|
 |Member                 |Timothy L. Eiler  minn87|
 |Member                 |James E. Fay  is70|
