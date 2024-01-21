@@ -6,17 +6,15 @@ nav_order: 7
 ---
 # Triangle National Council members by year (1909-present)
 
-|Year|Office|Member|
-|---|---|---|
-|1909-10|President<br>
-Vice President<br>
-Secretary<br>
-Treasurer<br>
-|Milton H. McCoy  ill07<br>
-Oliver G. Taylor  pur09<br>
-Louis W. Bruck  pur09<br>
-Harry H. Burgess  ill08<br>
-|
+##1909-10
+|President|Milton H. McCoy  ill07|
+|Vice President|Oliver G. Taylor  pur09|
+|Secretary|Louis W. Bruck  pur09|
+|Treasurer|Harry H. Burgess  ill08|
+
+##1910-11
+
+
 
 
 
