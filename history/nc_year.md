@@ -90,6 +90,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Secretary              |Earl D. Dryfoose  pur18|
 |Treasurer              |Karl A. Borntrager  os13|
 |Member                 |George E. Lommel  pur12asc|
+
 |Note: In early 1920, Turley resigned as Vice President and was
    replaced by Schwerin.  In November 1920, Schwerin resigned and was
    replaced by Vogt.||
