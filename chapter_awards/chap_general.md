@@ -1,7 +1,7 @@
 ---
 title: General
-parent: Chapter Awards
 layout: default
+parent: Chapter Awards
 nav_order: 1
 has_children: true
 ---
