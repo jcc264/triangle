@@ -8,6 +8,6 @@ nav_order: 6
 
 |Name|Chapter|Year Initiated|Years Served|
 |---|---|---|---|
-|Albright|MSOE|1952|1982-85|
+|Albright|MSOE|1952|1982|
 
 
