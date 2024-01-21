@@ -780,21 +780,16 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Immediate Past Pres    |Timothy L. Eiler minn87|
 ||Note: In October 1999, Councilman Fong was appointed to fill the vacant position of Secretary. Czyzewski was appointed by Council to fill the open Council seat.|
 | | |
-
 |<a name="2000"></a>__2000-01__||
 |President              |Merle Newlon III  lou73|
-|Vice President         |Matthew A. Czyzewski  tol89/
-                           Kurt W. Over pitt83|
+|Vice President         |Matthew A. Czyzewski  tol89 / Kurt W. Over pitt83|
 |Secretary              |Kevin Y. Fong  ucla84|
 |Member                 |Robert N. Bowman ps87|
 |Member                 |Bret T. Feger lou86|
 |Member                 |Donald S. Hatfield msu88|
-|Member                 |Kurt W. Over  pitt83/
-                           Christopher A. Moe is92|
-|Immediate Past Pres    |Jeffrey P. Scott  wis87
-   |__Note:__|| In May 2001, Czyzewski resigned as Vice President. 
-   National Council appointed Councilman Over as Vice President and
-   Moe to replace Over on Council.|
+|Member                 |Kurt W. Over  pitt83 / Christopher A. Moe is92|
+|Immediate Past Pres    |Jeffrey P. Scott  wis87|
+||Note: In May 2001, Czyzewski resigned as Vice President. National Council appointed Councilman Over as Vice President and Moe to replace Over on Council.|
 | | |
 |__2001-02__||
 |President              |Merle Newlon III lou73|
@@ -810,14 +805,12 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |President              |Bret T. Feger lou86|
 |Vice President         |Albert J. Evon ar88|
 |Secretary              |Kevin Y. Fong ucla84|
-|Member                 |Daniel J. Amerman mtu95/
-                           Kurt W. Over pitt83|
+|Member                 |Daniel J. Amerman mtu95 / Kurt W. Over pitt83|
 |Member                 |Daniel J. Guido uwm96|
 |Member                 |Donald S. Hatfield msu88|
 |Member                 |Christopher A. Moe is92|
-|Immediate Past Pres    |Merle Newlon III lou73
-   |__Note:__|| In July 2003, Amerman resigned as Councilman and Over
-   was appointed to his position.|
+|Immediate Past Pres    |Merle Newlon III lou73|
+||Note: In July 2003, Amerman resigned as Councilman and Over was appointed to his position.|
 | | |
 |__2003-04__||
 |President              |Bret T. Feger lou86|
@@ -825,12 +818,10 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Secretary              |Kevin Y. Fong ucla84|
 |Member                 |Daniel J. Guido uwm96|
 |Member                 |Donald S. Hatfield msu88|
-|Member                 |Christopher A. Moe is92/
-                           John C. Gargani pitt82|
+|Member                 |Christopher A. Moe is92 / John C. Gargani pitt82|
 |Member                 |Kurt W. Over pitt83|
-|Immediate Past Pres    |Merle Newlon III lou73
-   |__Note:__|| In June 2004, Moe resigned as Councilman and Gargani
-   was appointed to his position.|
+|Immediate Past Pres    |Merle Newlon III lou73|
+||Note: In June 2004, Moe resigned as Councilman and Gargani was appointed to his position.|
 | | |
 |__2004-05__||
 |President              |Kurt W. Over pitt83|
@@ -843,23 +834,16 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Immediate Past Pres    |Bret T. Feger lou86|
 | | |
 |__2005-06__||
-|President              |Kurt W. Over pitt83/
-                           Donald S. Hatfield msu88|
-|Vice President         |Donald S. Hatfield msu88/
-                           Kevin P. Robertson marq92|
+|President              |Kurt W. Over pitt83 / Donald S. Hatfield msu88|
+|Vice President         |Donald S. Hatfield msu88 / Kevin P. Robertson marq92|
 |Secretary              |Kevin Y. Fong ucla84|
 |Treasurer              |Michael A. Pereira marq75|
 |Member                 |John C. Gargani pitt82|
 |Member                 |Daniel J. Guido uwm96|
-|Member                 |Kevin P. Robertson marq92/
-                           Paul D. Boyle tsu87|
+|Member                 |Kevin P. Robertson marq92 / Paul D. Boyle tsu87|
 |Member                 |Mark W. Wheatley ok90|
-|Immediate Past Pres    |Bret T. Feger lou86/
-                           Kurt W. Over pitt83
-   |__Note:__|| In July 2005, Over resigned as President. Vice President 
-   Hatfield succeeded to the position and National Council appointed 
-   Councilman Robertson as Vice President. In October 2005, Council 
-   appointed Paul Boyle to fill the Council vacancy.|
+|Immediate Past Pres    |Bret T. Feger lou86 / Kurt W. Over pitt83|
+||Note: In July 2005, Over resigned as President. Vice President Hatfield succeeded to the position and National Council appointed Councilman Robertson as Vice President. In October 2005, Council appointed Paul Boyle to fill the Council vacancy.|
 | | |
 |__2006-07__||
 |President              |Donald S. Hatfield msu88|
@@ -869,10 +853,9 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Paul D. Boyle tsu87|
 |Member                 |John C. Gargani pitt82|
 |Member                 |Harry V. Rossander sdm78pur|
-|Member                 |Mark W. Wheatley ok90/|
-|Immediate Past Pres    |Kurt W. Over pitt83
-   |__Note:__|| In September 2006, Wheatley resigned. Council did not 
-   appoint a replacement.|
+|Member                 |Mark W. Wheatley ok90 / |
+|Immediate Past Pres    |Kurt W. Over pitt83|
+||Note: In September 2006, Wheatley resigned. Council did not appoint a replacement.|
 | | |
 |__2007-08__||
 |President              |Kevin P. Robertson marq92|
@@ -883,9 +866,8 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Jeffrey D. Cottrell mtu94|
 |Member                 |H. Andrew Goss lou00|
 |Member                 |Harry V. Rossander sdm78pur|
-|Immediate Past Pres    |Donald S. Hatfield msu88
-   |__Note:__|| In January 2008, Pereira resigned. Council did not 
-appoint a replacement.|
+|Immediate Past Pres    |Donald S. Hatfield msu88|
+||Note: In January 2008, Pereira resigned. Council did not appoint a replacement.|
 | | |
 |__2008-09__||
 |President              |Kevin P. Robertson marq92|
@@ -945,16 +927,13 @@ appoint a replacement.|
 |President              |Jeffrey T. Weikinger tol97|
 |Vice President         |Randall E. Drew rose67|
 |Secretary              |Kevin Y. Fong ucla84|
-|Treasurer              |Brandon W. Bagwell ok04/
-                           Gary N. Bodnar pur76|
+|Treasurer              |Brandon W. Bagwell ok04 / Gary N. Bodnar pur76|
 |Member                 |Leo J. Glass neb03|
 |Member                 |Marcos D. Stocco ok93|
 |Member                 |Brian K. Jarman pur01|
 |Member                 |David H. Yick ps63|
-|Immediate Past Pres    |Jeffrey D. Cottrell mtu94
-   |__Note:__|| In May 2014, Bagwell resigned as Treasurer and Bodnar
-   was appointed to replace him. In June 2014, Glass resigned as Councilman
-   and was replaced by Cerrato at the start of the 2014-15 term.|
+|Immediate Past Pres    |Jeffrey D. Cottrell mtu94|
+||Note: In May 2014, Bagwell resigned as Treasurer and Bodnar was appointed to replace him. In June 2014, Glass resigned as Councilman and Council appointed Cerrato to replace him at the start of the 2014-15 term.|
 | | |
 |__2014-15__||
 |President              |Jeffrey T. Weikinger tol97|
@@ -966,8 +945,8 @@ appoint a replacement.|
 |Member                 |Kevin Y. Fong ucla84|
 |Member                 |Brian K. Jarman pur01|
 |Member                 |David H. Yick ps63|
-|Immediate Past Pres    |Jeffrey D. Cottrell mtu94
-Active Advisor          Alexander J. Ott mtu11|
+|Active Advisor         |Alexander J. Ott mtu11|
+|Immediate Past Pres    |Jeffrey D. Cottrell mtu94|
 | | |
 |__2015-16__||
 |President              |Randall E. Drew rose67|
@@ -980,8 +959,8 @@ Active Advisor          Alexander J. Ott mtu11|
 |Member                 |Robert G. Halgren mich05|
 |Member                 |Marcos D. Stocco ok93|
 |Member                 |David H. Yick ps63|
-|Immediate Past Pres    |Jeffrey T. Weikinger tol97
-Active Member           Culin A. Thompson kan13|
+|Active Member          |Culin A. Thompson kan13|
+|Immediate Past Pres    |Jeffrey T. Weikinger tol97|
 | | |
 |__2016-17__||
 |President              |Randall E. Drew rose67|
@@ -994,8 +973,8 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Robert G. Halgren mich05|
 |Member                 |Ryan M. Sunyak tol10|
 |Member                 |David H. Yick ps63|
+|Active Councilman      |James A. Coller mich13|
 |Immediate Past Pres    |Jeffrey T. Weikinger tol97|
-|Active Councilman       James A. Coller mich13|
 | | |
 |__2017-18__||
 |President              |Brian K. Jarman pur01|
@@ -1008,8 +987,8 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Merle Newlon III lou73|
 |Member                 |Peter L. Satre os89|
 |Member                 |Ryan M. Sunyak tol10|
+|Active Councilman      |Ryan A. Burt lou15|
 |Immediate Past Pres    |Randall E. Drew rose67|
-|Active Councilman       Ryan A. Burt lou15|
 | | |
 |__2018-19__||
 |President              |Brian K. Jarman pur01|
@@ -1022,8 +1001,8 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Merle Newlon III lou73|
 |Member                 |Peter L. Satre os89|
 |Member                 |Ryan M. Sunyak tol10|
+|Active Councilman      |Kyle A. Godfrey psb16|
 |Immediate Past Pres    |Randall E. Drew rose67|
-|Active Councilman       Kyle A. Godfrey psb16|
 | | |
 |__2019-20__||
 |President              |Joseph M. Cerrato os05|
@@ -1036,8 +1015,8 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Merle Newlon III lou73|
 |Member                 |Peter L. Satre os89|
 |Member                 |Ryan M. Sunyak tol10|
+|Active Councilman      |Nicholas Armstrong uw18|
 |Immediate Past Pres    |Brian K. Jarman pur01|
-|Active Councilman       Nicholas Armstrong uw18|
 | | |
 |<a name="2020"></a>__2020-21__||
 |President              |Joseph M. Cerrato os05|
@@ -1051,12 +1030,9 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Merle Newlon III lou73|
 |Member                 |Peter L. Satre os89|
 |Member                 |Ryan M. Sunyak tol10|
+|Active Councilman      |Marcus Mullins tol19|
 |Immediate Past Pres    |Brian K. Jarman pur01|
-|Active Councilman       Marcus Mullins tol19
-   |__Note:__|| In March 2021, Murphy resigned and Fong was appointed
-   to replace him.|
-| | |
-|
+||Note: In March 2021, Murphy resigned and Fong was appointed to replace him.|
 | | |
 |__2021-22__||
 |President              |John C. Cottage, Jr. ps04|
@@ -1069,8 +1045,8 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Kevin Y. Fong ucla84|
 |Member                 |Merle Newlon III lou73|
 |Member                 |Peter L. Satre os89|
+|Active Councilman      |Seth H. Pierre is19|
 |Immediate Past Pres    |Joseph M. Cerrato os05|
-|Active Councilman       Seth H. Pierre is19|
 | | |
 |__2022-23__||
 |President              |John C. Cottage, Jr. ps04|
@@ -1083,8 +1059,8 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Kevin Y. Fong ucla84|
 |Member                 |Merle Newlon III lou73|
 |Member                 |Peter L. Satre os89|
+|Active Councilman      |Connor R. Grossnickle wis19|
 |Immediate Past Pres    |Joseph M. Cerrato os05|
-|Active Councilman       Connor R. Grossnickle wis19|
 | | |
 |__2023-24__||
 |President              |Ryan M. Sunyak tol10|
@@ -1097,7 +1073,7 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Jake J. Hoppert msu10|
 |Member                 |Neel Kumar minn14|
 |Member                 |Lucas Wallace kan11|
+|Active Councilman      |Deepansh Agarwal msoe19
 |Immediate Past Pres    |John C. Cottage, Jr. ps04|
-|Active Councilman       Deepansh Agarwal msoe19
 
 Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [1960](#1960) [1970](#1970) [1980](#1980) [1990](#1990) [2000](#2000) [2010](#2010) [2020](#2020)
