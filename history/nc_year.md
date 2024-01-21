@@ -156,7 +156,6 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Harold H. Layritz  cin21|
 |Member                 |Irwin D. Mayer  pur14|
 | | |
-
 |<a name="1930"></a>__1930-31__||
 |President              |Arthur Schwerin  ill07|
 |Vice President         |C. Norman Beggs  ill18|
@@ -230,7 +229,8 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |John W. Mercer  os24|
 |Member                 |Arthur Schwerin  ill07|
 | | |
-|__1940-41__||
+
+|<a name="1940"></a>__1940-41__||
 |President              |E. Paul Reichard  cin23|
 |Vice President         |John W. Mercer  os24|
 |Secretary/Treasurer    |Harold H. Layritz  cin21|
@@ -323,7 +323,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Ned E. Mitchell  nu43|
 |Member                 |William D. Renner  pur37|
 | | |
-|__1950-51__||
+|<a name="1950"></a>__1950-51__||
 |President              |John R. Adriansen  marq41|
 |Vice President         |Ikel C. Benson  minn25|
 |Secretary/Treasurer    |Benjamin H. Sachs, Jr.  lou41/
@@ -397,7 +397,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |William L. Swihart  pur45|
 |Member                 |Frank W. Vogt ill17|
 | | |
-|__1961-63__||
+|<a name="1960"></a>__1961-63__||
 |President              |William J. Kingston  cor48|
 |Vice President         |Eugene J. Rezabeck  ar47|
 |Secretary/Treasurer    |Patrick J. Clark  marq54|
@@ -468,7 +468,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Rodney R. Smith  lou61|
 |Immediate Past Pres     Robert C. Deen  ky48|
 | | |
-|__1970-71__||
+|<a name="1970"></a>__1970-71__||
 |President              |John F. Berninger  ar55|
 |Vice President         |Gordon T. Ersted  minn41|
 |Secretary/Treasurer    |Herbert F. Scobie  minn32|
@@ -578,7 +578,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Randy G. Kerns  mom71|
 |Immediate Past Pres     Robert J. Mosborg  ill45|
 | | |
-|__1980-81__||
+|<a name="1980"></a>__1980-81__||
 |President              |William R. McGovern  marq55|
 |Vice President         |Gerald S. Jakubowski  tol74|
 |Secretary/Treasurer    |Charles S. Barbour  ps43|
@@ -683,7 +683,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Allen L. Stamp  sdm83|
 |Immediate Past Pres     Randy G. Kerns  mom71|
 | | |
-|__1990-91__||
+|<a name="1990"></a>__1990-91__||
 |President              |John R. Wyatt  mich76|
 |Vice President         |Robert D. Hoel  ar67|
 |Secretary/Treasurer    |H. Jack Sargent  pur55|
@@ -826,7 +826,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
    vacant position of Secretary. Czyzewski was appointed by Council to fill 
    the open Council seat.|
 | | |
-|__2000-01__||
+|<a name="2000"></a>__2000-01__||
 |President              |Merle Newlon III  lou73|
 |Vice President         |Matthew A. Czyzewski  tol89/
                            Kurt W. Over pitt83|
@@ -953,7 +953,7 @@ appoint a replacement.|
 |Member                 |Harry V. Rossander sdm78pur|
 |Immediate Past Pres     Kevin P. Robertson marq92|
 | | |
-|__2010-11__||
+|<a name="2010"></a>__2010-11__||
 |President              |John C. Gargani pitt82|
 |Vice President         |Jeffrey D. Cottrell mtu94|
 |Secretary              |Kevin Y. Fong ucla84|
@@ -1084,7 +1084,7 @@ Active Member           Culin A. Thompson kan13|
 |Immediate Past Pres     Brian K. Jarman pur01|
 |Active Councilman       Nicholas Armstrong uw18|
 | | |
-|__2020-21__||
+|<a name="2020"></a>__2020-21__||
 |President              |Joseph M. Cerrato os05|
 |Vice President         |John C. Cottage, Jr. ps04|
 |Secretary              |Stuart J. Masuda uci07|
