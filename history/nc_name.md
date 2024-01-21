@@ -12,14 +12,14 @@ nav_order: 6
 |Agarwal, Deepansh|MSOE|2019|2023-present|
 |Albright, Gifford H.|Penn State|1952|1982-1985|
 |Allison, H. Jack|Oklahoma State|1964 (Asc)|1969-1972|
-|Amerman, Daniel J.|Michigan Tech|1995|2001-03|
-|Armstrong, Nicholas|Washington|2018|2019-20|
-|Bagwell, Brandon W.|Oklahoma|2004|2013-14|
-|Barbour, Charles S.|Penn State|1943|1978-86|
-|Bauer, Edward E.|Illinois|1916|1928-29|
-|Beaubien, Richard F.|Michigan|1964|1974-79|
-|Beggs, C. Norman|Illinois|1918|1926-34|
-|Bell, Raymond O.|Penn State|1934|1941-42|
+|Amerman, Daniel J.|Michigan Tech|1995|2001-2003|
+|Armstrong, Nicholas|Washington|2018|2019-2020|
+|Bagwell, Brandon W.|Oklahoma|2004|2013-2014|
+|Barbour, Charles S.|Penn State|1943|1978-1986|
+|Bauer, Edward E.|Illinois|1916|1928-1929|
+|Beaubien, Richard F.|Michigan|1964|1974-1979|
+|Beggs, C. Norman|Illinois|1918|1926-1934|
+|Bell, Raymond O.|Penn State|1934|1941-1942|
 |Benson, Ikel C.|Minnesota|1925|1948-55|
 |Berninger, John F.|Armour|1955|1967-72|
 |Berns, Max A.|Illinois|1908|1912-14|
