@@ -9,7 +9,7 @@ nav_order: 6
 |Name|Chapter|Year Initiated|Years Served|
 |---|---|---|---|
 |Adriansen, John R.|Marquette|1941|1947-51|
-|Agarwal, Deepansh|MSOE|2019|2023-|
+|Agarwal, Deepansh|MSOE|2019|2023 to |
 |Albright, Gifford H.|Penn State|1952|1982-85|
 
 
