@@ -928,7 +928,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Vice President         |Randall E. Drew rose67|
 |Secretary              |Kevin Y. Fong ucla84|
 |Treasurer              |Brandon W. Bagwell ok04 / Gary N. Bodnar pur76|
-|Member                 |Leo J. Glass neb03|
+|Member                 |Leo J. Glass neb03 / |
 |Member                 |Marcos D. Stocco ok93|
 |Member                 |Brian K. Jarman pur01|
 |Member                 |David H. Yick ps63|
@@ -1025,8 +1025,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Treasurer              |Tyler J. Moore tol09|
 |Member                 |Robert L. Goehring is76|
 |Member                 |Bradley N. Keller neb69|
-|Member                 |Bryley K. Murphy ky12/
-                           Kevin Y. Fong ucla84|
+|Member                 |Bryley K. Murphy ky12 / Kevin Y. Fong ucla84|
 |Member                 |Merle Newlon III lou73|
 |Member                 |Peter L. Satre os89|
 |Member                 |Ryan M. Sunyak tol10|
