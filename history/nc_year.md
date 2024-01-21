@@ -368,7 +368,6 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Eugene J. Rezabeck  ar47|
 |Member                 |Frank W. Vogt ill17|
 | | |
-
 |<a name="1960"></a>__1959-61__||
 |President              |Frank Caplan, Jr.  cor42|
 |Vice President         |William J. Kingston  cor48|
@@ -410,22 +409,16 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Secretary/Treasurer    |Robert C. Deen  ky48|
 |Member                 |Edward A. Bischoff  os53|
 |Member                 |Daniel P. Rathmann  cor53|
-|Immediate Past Pres     William L. Swihart  pur45|
+|Immediate Past Pres    |William L. Swihart  pur45|
 | | |
 |__1967-68__||
 |President              |Robert C. Deen  ky48|
-|Vice President         |E. Harlan Gellhaus  sdm57/
-(Member)                   John F. Berninger  ar55|
-|Secretary/Treasurer    |Edward A. Bischoff  os53/
-(Member)                   Franklin D. Duncan  ks64|
+|Vice President         |E. Harlan Gellhaus  sdm57 / John F. Berninger  ar55 (Member) |
+|Secretary/Treasurer    |Edward A. Bischoff  os53 / Franklin D. Duncan  ks64 (Member) |
 |Member                 |Gordon T. Ersted  minn41|
 |Member                 |Daniel P. Rathmann  cor53|
-|Immediate Past Pres     John Merrill Weed  os21
-   |__Note:__|| In March 1968, Gellhaus resigned as Vice President.
-   Berninger was appointed to fill the vacant Council seat but the office
-   of Vice President was not filled.  In July 1968, Bischoff resigned and
-   was replaced on Council by Duncan.  The office of Secretary/Treasurer
-   was not filled.|
+|Immediate Past Pres    |John Merrill Weed  os21|
+||Note: In March 1968, Gellhaus resigned as Vice President. Berninger was appointed to fill the vacant Council seat but the office of Vice President was not filled.  In July 1968, Bischoff resigned and was replaced on Council by Duncan.  The office of Secretary/Treasurer was not filled.|
 | | |
 |__1968-69__||
 |President              |Robert C. Deen  ky48|
@@ -433,7 +426,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Secretary/Treasurer    |Daniel P. Rathmann  cor53|
 |Member                 |John F. Berninger  ar55|
 |Member                 |Franklin D. Duncan  ks64|
-|Immediate Past Pres     John Merrill Weed  os21|
+|Immediate Past Pres    |John Merrill Weed  os21|
 | | |
 |__1969-70__||
 |President              |Daniel P. Rathmann  cor53|
@@ -445,7 +438,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Michael D. McDonnell  mich64|
 |Member                 |Robert J. Mosborg  ill45|
 |Member                 |Rodney R. Smith  lou61|
-|Immediate Past Pres     Robert C. Deen  ky48|
+|Immediate Past Pres    |Robert C. Deen  ky48|
 | | |
 |<a name="1970"></a>__1970-71__||
 |President              |John F. Berninger  ar55|
@@ -457,7 +450,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Robert N. Hettrick  cin49|
 |Member                 |Raymond L. Lantz  ps51|
 |Member                 |Robert J. Mosborg  ill45|
-|Immediate Past Pres     Daniel P. Rathmann  cor53|
+|Immediate Past Pres    |Daniel P. Rathmann  cor53|
 | | |
 |__1971-72__||
 |President              |Gordon T. Ersted  minn41|
@@ -469,7 +462,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Randall E. Drew  rose67|
 |Member                 |Robert N. Hettrick  cin49|
 |Member                 |Raymond L. Lantz  ps51|
-|Immediate Past Pres     John F. Berninger  ar55|
+|Immediate Past Pres    |John F. Berninger  ar55|
 | | |
 |__1972-73__||
 |President              |Robert J. Mosborg  ill45|
@@ -481,7 +474,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Robert N. Hettrick  cin49|
 |Member                 |Glenn W. Snagel  pur45|
 |Member                 |Richard H. Sudheimer  minn52|
-|Immediate Past Pres     Gordon T. Ersted  minn41|
+|Immediate Past Pres    |Gordon T. Ersted  minn41|
 | | |
 |__1973-74__||
 |President              |Edward A. Bischoff  os53|
@@ -493,7 +486,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Robert N. Hettrick  cin49|
 |Member                 |William C. Martin  ky46|
 |Member                 |Glenn W. Snagel  pur45|
-|Immediate Past Pres     Robert J. Mosborg  ill45|
+|Immediate Past Pres    |Robert J. Mosborg  ill45|
 | | |
 |__1974-75__||
 |President              |Richard H. Sudheimer  minn52|
@@ -505,7 +498,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Thomas L. Handley  kan68|
 |Member                 |William C. Martin  ky46|
 |Member                 |Randy J. Snider  oks64|
-|Immediate Past Pres     Edward A. Bischoff  os53|
+|Immediate Past Pres    |Edward A. Bischoff  os53|
 | | |
 |__1975-76__||
 |President              |Randall E. Drew  rose67|
@@ -515,7 +508,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |William B. Fagerstrom  wis59|
 |Member                 |William R. McGovern  marq55|
 |Member                 |Randy J. Snider  oks64|
-|Immediate Past Pres     Richard H. Sudheimer  minn52|
+|Immediate Past Pres    |Richard H. Sudheimer  minn52|
 | | |
 |__1976-77__||
 |President              |Robert N. Hettrick  cin49|
@@ -525,7 +518,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Gerald S. Jakubowski  tol74|
 |Member                 |James R. Marshall  pur65|
 |Member                 |William R. McGovern  marq55|
-|Immediate Past Pres     Randall E. Drew  rose67|
+|Immediate Past Pres    |Randall E. Drew  rose67|
 | | |
 |__1977-78__||
 |President              |Richard F. Beaubien  mich64|
@@ -535,7 +528,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Jerry L. Kennedy  lou71|
 |Member                 |James R. Marshall  pur65|
 |Member                 |William R. McGovern  marq55|
-|Immediate Past Pres     Robert N. Hettrick  cin49|
+|Immediate Past Pres    |Robert N. Hettrick  cin49|
 | | |
 |__1978-79__||
 |President              |Robert J. Mosborg  ill45|
@@ -545,7 +538,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Jerry L. Kennedy  lou71|
 |Member                 |Randy G. Kerns  mom71|
 |Member                 |William R. McGovern  marq55|
-|Immediate Past Pres     Richard F. Beaubien  mich64|
+|Immediate Past Pres    |Richard F. Beaubien  mich64|
 | | |
 |__1979-80__||
 |President              |James R. Marshall  pur65|
@@ -555,8 +548,9 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Gerald S. Jakubowski  tol74|
 |Member                 |Bradley N. Keller  neb69|
 |Member                 |Randy G. Kerns  mom71|
-|Immediate Past Pres     Robert J. Mosborg  ill45|
+|Immediate Past Pres    |Robert J. Mosborg  ill45|
 | | |
+
 |<a name="1980"></a>__1980-81__||
 |President              |William R. McGovern  marq55|
 |Vice President         |Gerald S. Jakubowski  tol74|
@@ -565,7 +559,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |John W. Greene  is73|
 |Member                 |Bradley N. Keller  neb69|
 |Member                 |Randy G. Kerns  mom71|
-|Immediate Past Pres     James R. Marshall  pur65|
+|Immediate Past Pres    |James R. Marshall  pur65|
 | | |
 |
 |__1981-82__||
@@ -576,7 +570,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |John W. Greene  is73|
 |Member                 |David C. Jordan  rose69|
 |Member                 |Lewis J. McNaughton  mich63|
-|Immediate Past Pres     William R. McGovern  marq55|
+|Immediate Past Pres    |William R. McGovern  marq55|
 | | |
 |__1982-83__||
 |President              |Randy G. Kerns  mom71|
@@ -586,7 +580,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |John W. Greene  is73|
 |Member                 |David C. Jordan  rose69|
 |Member                 |Lewis J. McNaughton  mich63|
-|Immediate Past Pres     Gerald S. Jakubowski  tol74|
+|Immediate Past Pres    |Gerald S. Jakubowski  tol74|
 | | |
 |__1983-84__||
 |President              |Rufus A. Brown  miss71|
@@ -596,7 +590,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |H. Samuel Bruner kan76|
 |Member                 |David C. Jordan  rose69|
 |Member                 |Kenneth W. Quayle III  csu71|
-|Immediate Past Pres     Randy G. Kerns  mom71|
+|Immediate Past Pres    |Randy G. Kerns  mom71|
 | | |
 |__1984-85__||
 |President              |Gerald S. Jakubowski  tol74|
@@ -606,7 +600,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |H. Samuel Bruner kan76|
 |Member                 |James M. Kincaid III  csu70|
 |Member                 |Kenneth W. Quayle III  csu71|
-|Immediate Past Pres     Rufus A. Brown  miss71|
+|Immediate Past Pres    |Rufus A. Brown  miss71|
 | | |
 |__1985-86__||
 |President              |David C. Jordan  rose69|
@@ -616,7 +610,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Charles L. Hett  ks64|
 |Member                 |James M. Kincaid III  csu70|
 |Member                 |John R. Wyatt  mich76|
-|Immediate Past Pres     Gerald S. Jakubowski  tol74|
+|Immediate Past Pres    |Gerald S. Jakubowski  tol74|
 | | |
 |__1986-87__||
 |President              |Kenneth W. Quayle III  csu71|
@@ -626,7 +620,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Charles L. Hett  ks64|
 |Member                 |Carl P. Meglan  os56|
 |Member                 |John R. Wyatt  mich76|
-|Immediate Past Pres     David C. Jordan  rose69|
+|Immediate Past Pres    |David C. Jordan  rose69|
 | | |
 |__1987-88__||
 |President              |James R. Marshall  pur65|
@@ -636,7 +630,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Richard F. Lindstrom  uwm71|
 |Member                 |Carl P. Meglan  os56|
 |Member                 |John R. Wyatt  mich76|
-|Immediate Past Pres     Kenneth W. Quayle III  csu71|
+|Immediate Past Pres    |Kenneth W. Quayle III  csu71|
 | | |
 |__1988-89__||
 |President              |Randy G. Kerns  mom71|
@@ -648,7 +642,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Merle Newlon III  lou73|
 |Member                 |John R. Serpa  vpi78pitt|
 |Member                 |John R. Wyatt  mich76|
-|Immediate Past Pres     James R. Marshall  pur65|
+|Immediate Past Pres    |James R. Marshall  pur65|
 | | |
 |__1989-90__||
 |President              |Charles L. Hett  ks64|
@@ -660,7 +654,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Merle Newlon III  lou73|
 |Member                 |John R. Serpa  vpi78pitt|
 |Member                 |Allen L. Stamp  sdm83|
-|Immediate Past Pres     Randy G. Kerns  mom71|
+|Immediate Past Pres    |Randy G. Kerns  mom71|
 | | |
 |<a name="1990"></a>__1990-91__||
 |President              |John R. Wyatt  mich76|
@@ -672,7 +666,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Merle Newlon III  lou73|
 |Member                 |Harry V. Rossander  sdm78pur|
 |Member                 |Allen L. Stamp  sdm83|
-|Immediate Past Pres     Charles L. Hett  ks64|
+|Immediate Past Pres    |Charles L. Hett  ks64|
 | | |
 |__1991-92__||
 |President              |Robert D. Hoel  ar67|
@@ -685,7 +679,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Omar G. Hernandez  nu75|
 |Member                 |Richard L. Overman  pur65|
 |Member                 |Stephen W. Scott  csu74|
-|Immediate Past Pres     John R. Wyatt  mich76|
+|Immediate Past Pres    |John R. Wyatt  mich76|
 | | |
 |__1992-93__||
 |President              |Harry V. Rossander  sdm78pur|
@@ -698,7 +692,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Richard L. Overman  pur65|
 |Member                 |Stephen W. Scott  csu74|
 |Member                 |Robert G. Sharp  pur51|
-|Immediate Past Pres     Robert D. Hoel  ar67|
+|Immediate Past Pres    |Robert D. Hoel  ar67|
 | | |
 |__1993-94__||
 |President              |Omar G. Hernandez  nu75|
@@ -711,7 +705,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Paul S. King  tol77|
 |Member                 |Stephen W. Scott  csu74|
 |Member                 |Robert G. Sharp  pur51|
-|Immediate Past Pres     Harry V. Rossander  sdm78pur|
+|Immediate Past Pres    |Harry V. Rossander  sdm78pur|
 | | |
 |__1994-95__||
 |President              |Steven M. Heitert  mom81|
@@ -724,7 +718,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Paul S. King  tol77|
 |Member                 |James A. Sands  os80|
 |Member                 |Jeffrey P. Scott  wis87|
-|Immediate Past Pres     Omar G. Hernandez  nu75|
+|Immediate Past Pres    |Omar G. Hernandez  nu75|
 | | |
 |__1995-96__||
 |President              |Steven M. Heitert  mom81|
@@ -736,7 +730,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Kurt W. Over  pitt83|
 |Member                 |James A. Sands  os80|
 |Member                 |Jeffrey P. Scott  wis87|
-|Immediate Past Pres     Omar G. Hernandez  nu75|
+|Immediate Past Pres    |Omar G. Hernandez  nu75|
 | | |
 |__1996-97__||
 |President              |Robert G. Sharp  pur51/
@@ -754,7 +748,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
                            Bret T. Feger lou86|
 |Member                 |James A. Thorp  rose88/
                            Shawn G. Diedtrich  minn90|
-|Immediate Past Pres     Steven M. Heitert  mom81/
+|Immediate Past Pres    |Steven M. Heitert  mom81/
                            Robert G. Sharp  pur51
    |__Note:__|| In August 1996, Heitert resigned as Past President.
    The vacancy was not filled. In November 1996, Hamlett resigned as
@@ -776,7 +770,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Bret T. Feger lou86|
 |Member                 |Kevin Y. Fong  ucla84|
 |Member                 |Kurt W. Over  pitt83|
-|Immediate Past Pres     Robert G. Sharp  pur51|
+|Immediate Past Pres    |Robert G. Sharp  pur51|
 | | |
 |__1998-99__||
 |President              |Jeffrey P. Scott  wis87|
@@ -788,7 +782,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Bret T. Feger lou86|
 |Member                 |Kevin Y. Fong  ucla84|
 |Member                 |Kurt W. Over  pitt83|
-|Immediate Past Pres     Timothy L. Eiler minn87|
+|Immediate Past Pres    |Timothy L. Eiler minn87|
 | | |
 |__1999-2000__||
 |President              |Jeffrey P. Scott  wis87|
@@ -800,7 +794,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Kevin Y. Fong  ucla84/
                            Matthew A. Czyzewski  tol89|
 |Member                 |Kurt W. Over  pitt83|
-|Immediate Past Pres     Timothy L. Eiler minn87
+|Immediate Past Pres    |Timothy L. Eiler minn87
    |__Note:__|| In October 1999, Councilman Fong was appointed to fill the 
    vacant position of Secretary. Czyzewski was appointed by Council to fill 
    the open Council seat.|
@@ -815,7 +809,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Donald S. Hatfield msu88|
 |Member                 |Kurt W. Over  pitt83/
                            Christopher A. Moe is92|
-|Immediate Past Pres     Jeffrey P. Scott  wis87
+|Immediate Past Pres    |Jeffrey P. Scott  wis87
    |__Note:__|| In May 2001, Czyzewski resigned as Vice President. 
    National Council appointed Councilman Over as Vice President and
    Moe to replace Over on Council.|
@@ -828,7 +822,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Robert N. Bowman ps87|
 |Member                 |Donald S. Hatfield msu88|
 |Member                 |Christopher A. Moe is92|
-|Immediate Past Pres     Jeffrey P. Scott wis87|
+|Immediate Past Pres    |Jeffrey P. Scott wis87|
 | | |
 |__2002-03__||
 |President              |Bret T. Feger lou86|
@@ -839,7 +833,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Daniel J. Guido uwm96|
 |Member                 |Donald S. Hatfield msu88|
 |Member                 |Christopher A. Moe is92|
-|Immediate Past Pres     Merle Newlon III lou73
+|Immediate Past Pres    |Merle Newlon III lou73
    |__Note:__|| In July 2003, Amerman resigned as Councilman and Over
    was appointed to his position.|
 | | |
@@ -852,7 +846,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Christopher A. Moe is92/
                            John C. Gargani pitt82|
 |Member                 |Kurt W. Over pitt83|
-|Immediate Past Pres     Merle Newlon III lou73
+|Immediate Past Pres    |Merle Newlon III lou73
    |__Note:__|| In June 2004, Moe resigned as Councilman and Gargani
    was appointed to his position.|
 | | |
@@ -864,7 +858,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Daniel J. Guido uwm96|
 |Member                 |Kevin P. Robertson marq92|
 |Member                 |Mark W. Wheatley ok90|
-|Immediate Past Pres     Bret T. Feger lou86|
+|Immediate Past Pres    |Bret T. Feger lou86|
 | | |
 |__2005-06__||
 |President              |Kurt W. Over pitt83/
@@ -878,7 +872,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Kevin P. Robertson marq92/
                            Paul D. Boyle tsu87|
 |Member                 |Mark W. Wheatley ok90|
-|Immediate Past Pres     Bret T. Feger lou86/
+|Immediate Past Pres    |Bret T. Feger lou86/
                            Kurt W. Over pitt83
    |__Note:__|| In July 2005, Over resigned as President. Vice President 
    Hatfield succeeded to the position and National Council appointed 
@@ -894,7 +888,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |John C. Gargani pitt82|
 |Member                 |Harry V. Rossander sdm78pur|
 |Member                 |Mark W. Wheatley ok90/|
-|Immediate Past Pres     Kurt W. Over pitt83
+|Immediate Past Pres    |Kurt W. Over pitt83
    |__Note:__|| In September 2006, Wheatley resigned. Council did not 
    appoint a replacement.|
 | | |
@@ -907,7 +901,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Jeffrey D. Cottrell mtu94|
 |Member                 |H. Andrew Goss lou00|
 |Member                 |Harry V. Rossander sdm78pur|
-|Immediate Past Pres     Donald S. Hatfield msu88
+|Immediate Past Pres    |Donald S. Hatfield msu88
    |__Note:__|| In January 2008, Pereira resigned. Council did not 
 appoint a replacement.|
 | | |
@@ -919,7 +913,7 @@ appoint a replacement.|
 |Member                 |Jeffrey D. Cottrell mtu94|
 |Member                 |H. Andrew Goss lou00|
 |Member                 |Harry V. Rossander sdm78pur|
-|Immediate Past Pres     Donald S. Hatfield msu88|
+|Immediate Past Pres    |Donald S. Hatfield msu88|
 | | |
 |__2009-10__||
 |President              |John C. Gargani pitt82|
@@ -930,7 +924,7 @@ appoint a replacement.|
 |Member                 |H. Andrew Goss lou00|
 |Member                 |Timothy L. Eiler minn87|
 |Member                 |Harry V. Rossander sdm78pur|
-|Immediate Past Pres     Kevin P. Robertson marq92|
+|Immediate Past Pres    |Kevin P. Robertson marq92|
 | | |
 |<a name="2010"></a>__2010-11__||
 |President              |John C. Gargani pitt82|
@@ -941,7 +935,7 @@ appoint a replacement.|
 |Member                 |Timothy L. Eiler minn87|
 |Member                 |Marcos D. Stocco ok93|
 |Member                 |Jeffrey T. Weikinger tol97|
-|Immediate Past Pres     Kevin P. Robertson marq92|
+|Immediate Past Pres    |Kevin P. Robertson marq92|
 | | |
 |__2011-12__||
 |President              |Jeffrey D. Cottrell mtu94|
@@ -952,7 +946,7 @@ appoint a replacement.|
 |Member                 |Randall E. Drew rose67|
 |Member                 |Marcos D. Stocco ok93|
 |Member                 |Jeffrey T. Weikinger tol97|
-|Immediate Past Pres     John C. Gargani pitt82|
+|Immediate Past Pres    |John C. Gargani pitt82|
 | | |
 |__2012-13__||
 |President              |Jeffrey D. Cottrell mtu94|
@@ -963,7 +957,7 @@ appoint a replacement.|
 |Member                 |Randall E. Drew rose67|
 |Member                 |Marcos D. Stocco ok93|
 |Member                 |Brian K. Jarman pur01|
-|Immediate Past Pres     John C. Gargani pitt82|
+|Immediate Past Pres    |John C. Gargani pitt82|
 | | |
 |__2013-14__||
 |President              |Jeffrey T. Weikinger tol97|
@@ -975,7 +969,7 @@ appoint a replacement.|
 |Member                 |Marcos D. Stocco ok93|
 |Member                 |Brian K. Jarman pur01|
 |Member                 |David H. Yick ps63|
-|Immediate Past Pres     Jeffrey D. Cottrell mtu94
+|Immediate Past Pres    |Jeffrey D. Cottrell mtu94
    |__Note:__|| In May 2014, Bagwell resigned as Treasurer and Bodnar
    was appointed to replace him. In June 2014, Glass resigned as Councilman
    and was replaced by Cerrato at the start of the 2014-15 term.|
@@ -990,7 +984,7 @@ appoint a replacement.|
 |Member                 |Kevin Y. Fong ucla84|
 |Member                 |Brian K. Jarman pur01|
 |Member                 |David H. Yick ps63|
-|Immediate Past Pres     Jeffrey D. Cottrell mtu94
+|Immediate Past Pres    |Jeffrey D. Cottrell mtu94
 Active Advisor          Alexander J. Ott mtu11|
 | | |
 |__2015-16__||
@@ -1004,7 +998,7 @@ Active Advisor          Alexander J. Ott mtu11|
 |Member                 |Robert G. Halgren mich05|
 |Member                 |Marcos D. Stocco ok93|
 |Member                 |David H. Yick ps63|
-|Immediate Past Pres     Jeffrey T. Weikinger tol97
+|Immediate Past Pres    |Jeffrey T. Weikinger tol97
 Active Member           Culin A. Thompson kan13|
 | | |
 |__2016-17__||
@@ -1018,7 +1012,7 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Robert G. Halgren mich05|
 |Member                 |Ryan M. Sunyak tol10|
 |Member                 |David H. Yick ps63|
-|Immediate Past Pres     Jeffrey T. Weikinger tol97|
+|Immediate Past Pres    |Jeffrey T. Weikinger tol97|
 |Active Councilman       James A. Coller mich13|
 | | |
 |__2017-18__||
@@ -1032,7 +1026,7 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Merle Newlon III lou73|
 |Member                 |Peter L. Satre os89|
 |Member                 |Ryan M. Sunyak tol10|
-|Immediate Past Pres     Randall E. Drew rose67|
+|Immediate Past Pres    |Randall E. Drew rose67|
 |Active Councilman       Ryan A. Burt lou15|
 | | |
 |__2018-19__||
@@ -1046,7 +1040,7 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Merle Newlon III lou73|
 |Member                 |Peter L. Satre os89|
 |Member                 |Ryan M. Sunyak tol10|
-|Immediate Past Pres     Randall E. Drew rose67|
+|Immediate Past Pres    |Randall E. Drew rose67|
 |Active Councilman       Kyle A. Godfrey psb16|
 | | |
 |__2019-20__||
@@ -1060,7 +1054,7 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Merle Newlon III lou73|
 |Member                 |Peter L. Satre os89|
 |Member                 |Ryan M. Sunyak tol10|
-|Immediate Past Pres     Brian K. Jarman pur01|
+|Immediate Past Pres    |Brian K. Jarman pur01|
 |Active Councilman       Nicholas Armstrong uw18|
 | | |
 |<a name="2020"></a>__2020-21__||
@@ -1075,7 +1069,7 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Merle Newlon III lou73|
 |Member                 |Peter L. Satre os89|
 |Member                 |Ryan M. Sunyak tol10|
-|Immediate Past Pres     Brian K. Jarman pur01|
+|Immediate Past Pres    |Brian K. Jarman pur01|
 |Active Councilman       Marcus Mullins tol19
    |__Note:__|| In March 2021, Murphy resigned and Fong was appointed
    to replace him.|
@@ -1093,7 +1087,7 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Kevin Y. Fong ucla84|
 |Member                 |Merle Newlon III lou73|
 |Member                 |Peter L. Satre os89|
-|Immediate Past Pres     Joseph M. Cerrato os05|
+|Immediate Past Pres    |Joseph M. Cerrato os05|
 |Active Councilman       Seth H. Pierre is19|
 | | |
 |__2022-23__||
@@ -1107,7 +1101,7 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Kevin Y. Fong ucla84|
 |Member                 |Merle Newlon III lou73|
 |Member                 |Peter L. Satre os89|
-|Immediate Past Pres     Joseph M. Cerrato os05|
+|Immediate Past Pres    |Joseph M. Cerrato os05|
 |Active Councilman       Connor R. Grossnickle wis19|
 | | |
 |__2023-24__||
@@ -1121,7 +1115,7 @@ Active Member           Culin A. Thompson kan13|
 |Member                 |Jake J. Hoppert msu10|
 |Member                 |Neel Kumar minn14|
 |Member                 |Lucas Wallace kan11|
-|Immediate Past Pres     John C. Cottage, Jr. ps04|
+|Immediate Past Pres    |John C. Cottage, Jr. ps04|
 |Active Councilman       Deepansh Agarwal msoe19
 
 Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [1960](#1960) [1970](#1970) [1980](#1980) [1990](#1990) [2000](#2000) [2010](#2010) [2020](#2020)
