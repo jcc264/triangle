@@ -84,7 +84,6 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Treasurer              |Theodore Leonard, Jr.  os11|
 |Member                 |Rollin F. MacDowell  os11|
 | | |
-
 |__1920-21__||
 |President              |Frederick N. Schustedt  wis13|
 |Vice President         |R.E. Turley, Jr.  ill11/
@@ -93,9 +92,10 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Secretary              |Earl D. Dryfoose  pur18|
 |Treasurer              |Karl A. Borntrager  os13|
 |Member                 |George E. Lommel  pur12asc
-   |__Note:__|| In early 1920, Turley resigned as Vice President and was
+|Note: In early 1920, Turley resigned as Vice President and was
    replaced by Schwerin.  In November 1920, Schwerin resigned and was
    replaced by Vogt.|
+   
 | | |
 |__1921-22__||
 |President              |Frederick N. Schustedt  wis13|
@@ -163,6 +163,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Harold H. Layritz  cin21|
 |Member                 |Irwin D. Mayer  pur14|
 | | |
+
 |__1930-31__||
 |President              |Arthur Schwerin  ill07|
 |Vice President         |C. Norman Beggs  ill18|
