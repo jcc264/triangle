@@ -7,6 +7,7 @@ nav_order: 5
 # Triangle National Presidents
 
 |Years Served|Name|Chapter|Year Initiated|
+|---|---|---|---|
 |1909|Milton H. McCoy|Illinois|1907|
 |1910-11|Harry H. Burgess|Illinois|1908|
 |1911-13|Willard A. Knapp|Illinois|1908 (Associate)|
