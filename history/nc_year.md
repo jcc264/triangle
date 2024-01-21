@@ -91,7 +91,6 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Treasurer              |Karl A. Borntrager  os13|
 |Member                 |George E. Lommel  pur12asc|
 ||Note: In early 1920, Turley resigned as Vice President and was replaced by Schwerin.  In November 1920, Schwerin resigned and was replaced by Vogt.|
-
 | | |
 |__1921-22__||
 |President              |Frederick N. Schustedt  wis13|
@@ -105,10 +104,8 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Vice President         |Luster R. Kleinknight  pur16|
 |Secretary/Treasurer     C. Alfred Campbell  os14|
 |Member                 |C. Carl Cunningham  pur12|
-|Member                 |Frank A. Kaiser  wis18/
-			   Sholto M. Spears  ky20
-   |__Note:__|| In late 1922, Kaiser resigned from Council and was
-   replaced by Spears.|
+|Member                 |Frank A. Kaiser  wis18 / Sholto M. Spears  ky20
+||Note: In late 1922, Kaiser resigned from Council and was replaced by Spears.|
 | | |
 |__1923-24__||
 |President              |C. Carl Cunningham  pur12|
@@ -160,7 +157,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Irwin D. Mayer  pur14|
 | | |
 
-|__1930-31__||
+|<a name="1930">__1930-31__</a>||
 |President              |Arthur Schwerin  ill07|
 |Vice President         |C. Norman Beggs  ill18|
 |Secretary/Treasurer     Chris A. Wiepking  wis18|
