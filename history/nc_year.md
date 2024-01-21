@@ -8,7 +8,7 @@ nav_order: 7
 
 Jump to: [1909](#1909) 1911 1921 1931 1941 1951 1961 1971 1981 1991 2001 2011 2021
 
-|<a name="1909">**1909-10**</a>||
+|<a name="1909">__1909-10__</a>||
 |President|Milton H. McCoy  ill07|
 |Vice President|Oliver G. Taylor  pur09|
 |Secretary|Louis W. Bruck  pur09|
