@@ -229,7 +229,6 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |John W. Mercer  os24|
 |Member                 |Arthur Schwerin  ill07|
 | | |
-
 |<a name="1940"></a>__1940-41__||
 |President              |E. Paul Reichard  cin23|
 |Vice President         |John W. Mercer  os24|
@@ -242,12 +241,10 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |President              |John W. Mercer  os24|
 |Vice President         |John J. Schlenk  minn22|
 |Secretary/Treasurer    |Harold H. Layritz  cin21|
-|Member                 |Raymond O. Bell  ps34/
-			   Carl J. Reutter  ar24|
+|Member                 |Raymond O. Bell  ps34 / Carl J. Reutter  ar24|
 |Member                 |E. Paul Reichard  cin23|
-|Member                 |Arthur Schwerin  ill07
-   |__Note:__|| In 1942, Bell resigned from Council and was replaced by
-   Reutter.|
+|Member                 |Arthur Schwerin  ill07|
+||Note: In 1942, Bell resigned from Council and was replaced by Reutter.|
 | | |
 |__1942-43__||
 |President              |John W. Mercer  os24|
@@ -276,28 +273,20 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |__1945-46__||
 |President              |John W. Mercer  os24|
 |Vice President         |John J. Schlenk  minn22|
-|Secretary/Treasurer    |Harold H. Layritz  cin21/
-			   Charles R. Little  pur23|
+|Secretary/Treasurer    |Harold H. Layritz  cin21 / Charles R. Little  pur23|
 |Member                 |E. Paul Reichard  cin23|
-|Member                 |Carl J. Reutter  ar24/
-			   Harold H. Layritz  cin21|
-|Member                 |Arthur Schwerin  ill07
-   |__Note:__|| In July 1946, Reutter resigned from Council and Little was
-   elected to Council.  Then Layritz resigned as Secretary/Treasurer and
-   was replaced by Little.  Layritz remained on Council.|
+|Member                 |Carl J. Reutter  ar24 / Harold H. Layritz  cin21|
+|Member                 |Arthur Schwerin  ill07|
+||Note: In July 1946, Reutter resigned from Council and Little was elected to Council.  Then Layritz resigned as Secretary/Treasurer and was replaced by Little.  Layritz remained on Council.|
 | | |
 |__1946-47__||
 |President              |Harold H. Layritz  cin21|
-|Vice President         |John J. Schlenk  minn22/
-			   William F. Sikkema  ill42|
+|Vice President         |John J. Schlenk  minn22 / William F. Sikkema  ill42|
 |Secretary/Treasurer    |Charles R. Little  pur23|
-|Member                 |John W. Mercer  os24/
-			   Edward Larson  cin22|
+|Member                 |John W. Mercer  os24 / Edward Larson  cin22|
 |Member                 |Arthur Schwerin  ill07|
-|Member                 |Herbert F. Scobie  minn32
-   |__Note:__|| In January 1947, Mercer resigned from Council and was
-   replaced by Larson.  In July 1947, Schlenk resigned and was replaced by
-   Sikkema.|
+|Member                 |Herbert F. Scobie  minn32|
+||Note: In January 1947, Mercer resigned from Council and was replaced by Larson.  In July 1947, Schlenk resigned and was replaced by Sikkema.|
 | | |
 |__1947-48__||
 |President              |Edward Larson  cin22|
@@ -323,6 +312,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Ned E. Mitchell  nu43|
 |Member                 |William D. Renner  pur37|
 | | |
+
 |<a name="1950"></a>__1950-51__||
 |President              |John R. Adriansen  marq41|
 |Vice President         |Ikel C. Benson  minn25|
