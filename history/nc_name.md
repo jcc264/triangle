@@ -8,6 +8,6 @@ nav_order: 6
 
 |Name|Chapter|Year Initiated|Years Served|
 |---|---|---|---|
-|Albright, Gifford H.|Penn State|1952|1982-85|
+|Albright|Penn State|1952|1982-85|
 
 
