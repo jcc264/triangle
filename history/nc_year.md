@@ -49,6 +49,7 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Treasurer              |William B. Dunning  ill07|
 |Member                 |Louis W. Bruck  pur09|
 | | |
+
 |__1915-16__||
 |President              |Howard F. Schryver  os11|
 |Vice President         |Max F. Rather  wis13|
