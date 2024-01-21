@@ -312,20 +312,14 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Ned E. Mitchell  nu43|
 |Member                 |William D. Renner  pur37|
 | | |
-
 |<a name="1950"></a>__1950-51__||
 |President              |John R. Adriansen  marq41|
 |Vice President         |Ikel C. Benson  minn25|
-|Secretary/Treasurer    |Benjamin H. Sachs, Jr.  lou41/
-			   Harold Kennedy  marq43|
+|Secretary/Treasurer    |Benjamin H. Sachs, Jr.  lou41 / Harold Kennedy  marq43|
 |Member                 |Howard H. Darbo  wis29|
 |Member                 |Ned E. Mitchell  nu43|
-|Member                 |William D. Renner  pur37/
-			   Harold Kennedy  marq43
-   |__Note:__|| In March 1951, Renner resigned and was replaced by
-   Kennedy.  In July 1951, Sachs resigned and was replaced as
-   Secretary/Treasurer by Kennedy.  The open council seat was not filled.
-   In September 1951, Mitchell resigned and was not replaced.|
+|Member                 |William D. Renner  pur37 / Harold Kennedy  marq43|
+||Note: In March 1951, Renner resigned and was replaced by Kennedy.  In July 1951, Sachs resigned and was replaced as Secretary/Treasurer by Kennedy.  The open council seat was not filled. In September 1951, Mitchell resigned and was not replaced.|
 | | |
 |__1951-52__||
 |President              |Ikel C. Benson  minn25|
@@ -348,30 +342,24 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Vice President         |William R. Brown  os33|
 |Secretary/Treasurer    |Harold Kennedy  marq43|
 |Member                 |Ikel C. Benson  minn25|
-|Member                 |Harry E. Lenz  cin47/
-			   William G. Deas  cin39
-   |__Note:__|| In August 1954, Lenz resigned from Council and was replaced
-   by Deas.|
+|Member                 |Harry E. Lenz  cin47 / William G. Deas  cin39|
+||Note: In August 1954, Lenz resigned from Council and was replaced by Deas.|
 | | |
 |__1954-55__||
 |President              |Howard H. Darbo  wis29|
 |Vice President         |Harold Kennedy  marq43|
 |Secretary/Treasurer    |Douglas P. Jenkins  nu42|
 |Member                 |William J. Kingston  cor48|
-|Member                 |Robert A. Vogt  mom43
-   |__Note:__|| In July 1955, Kennedy resigned as Vice President and was
-   not replaced.|
+|Member                 |Robert A. Vogt  mom43|
+||Note: In July 1955, Kennedy resigned as Vice President and was not replaced.|
 | | |
 |__1955-57__||
-|President              |Howard H. Darbo  wis29/
-			   Robert A. Vogt  mom43|
-|Vice President         |Robert A. Vogt  mom43/
-			   Frank Caplan, Jr.  cor42|
+|President              |Howard H. Darbo  wis29 / Robert A. Vogt  mom43|
+|Vice President         |Robert A. Vogt  mom43 / Frank Caplan, Jr.  cor42|
 |Secretary/Treasurer    |Douglas P. Jenkins  nu42|
 |Member                 |Charles E. Bischoff  os25|
-|Member                 |William J. Kingston  cor48
-   |__Note:__|| In July 1956, Darbo resigned as President and was replaced
-   by Vogt. Caplan was then appointed Vice President.|
+|Member                 |William J. Kingston  cor48|
+||Note: In July 1956, Darbo resigned as President and was replaced by Vogt. Caplan was then appointed Vice President.|
 | | |
 |__1957-59__||
 |President              |Robert A. Vogt  mom43|
@@ -380,14 +368,15 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Eugene J. Rezabeck  ar47|
 |Member                 |Frank W. Vogt ill17|
 | | |
-|__1959-61__||
+
+|<a name="1960"></a>__1959-61__||
 |President              |Frank Caplan, Jr.  cor42|
 |Vice President         |William J. Kingston  cor48|
 |Secretary/Treasurer    |Eugene J. Rezabeck  ar47|
 |Member                 |William L. Swihart  pur45|
 |Member                 |Frank W. Vogt ill17|
 | | |
-|<a name="1960"></a>__1961-63__||
+|__1961-63__||
 |President              |William J. Kingston  cor48|
 |Vice President         |Eugene J. Rezabeck  ar47|
 |Secretary/Treasurer    |Patrick J. Clark  marq54|
