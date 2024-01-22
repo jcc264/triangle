@@ -13,7 +13,7 @@ rating in overall performance as measured by scholarship, campus
 activities, financial stability, alumni relations, and house activity.
 Starting in 1976, the rating was made automatically on the basis of data
 routinely submitted by undergraduate officers.  Colonies were added in
-|1977| and alumni corporations were added in 1978, finally making it truly a
+1977 and alumni corporations were added in 1978, finally making it truly a
 chapter evaluation.
 
 The first time a chapter won, it received a
