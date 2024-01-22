@@ -90,7 +90,7 @@ retired cup was entrusted to Purdue Chapter.
 |1991|Illinois|(1990-91)|
 |1992|Michigan|(1991-92)|
 |1993|VPI|(1992-93)|
-|1994|Texas A&amp;M|(1993-94)|
+|1994|Texas A&M|(1993-94)|
 |1995|Nebraska|(1994-95)|
 |1996|Cincinnati|(1995-96)|
 |1997|Oklahoma|(1996-97)|
