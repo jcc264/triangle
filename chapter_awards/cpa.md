@@ -21,6 +21,11 @@ triangular wall plaque and an engraved pendant indicating rating and
 school year.  Successive ratings and years in which they are won are
 recognized by additional pendants.
 
+|1962|1st: Marquette <br>2nd: Purdue <br>3rd: Penn State <br>4th: UCLA <br>5th: Clarkson <br>6th: Ohio State <br>7th: Wisconsin <br>8th: Missouri Mines <br>9th: Illinois <br>10th: Minnesota|
+        
+
+
+
 <pre>
 *Designates winner of Most Improved CPA
 
