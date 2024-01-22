@@ -8,6 +8,39 @@ nav_order: 5
 
 # Summit Award Winners (1996-2000)
 
+|1996|Pledge Programming: Cincinnati and Minnesota<br><b>Scholarship: Illinois<br><b>Communication: Rose Tech<br><b>Community Service: Illinois and Rose Tech<br>Social: Illinois and Rose Tech|
+|1997|Pledge Programming: Cincinnati and Minnesota<br>Scholarship: Armour and Minnesota<br>Communication: Cincinnati and Rose Tech<br>Community Service: Cincinnati, Minnesota and Rose Tech<br>Social: Cincinnati<br>University Involvement: Cincinnati, Marquette, and Rose Tech<br>Personal Development: Cincinnati|
+
+
+<dt><font size="+1"><b>1998 Winners</b></font>
+<dd>
+<ul>
+<li><b>Pledge Programming:</b> Cincinnati Chapter
+<li><b>Communication:</b> Rose Tech Chapter
+<li><b>Community Service:</b> Cincinnati and Rose Tech Chapters
+<li><b>University Involvement:</b> Rose Tech Chapter
+</ul>
+
+<dt><font size="+1"><b>1999 Winners</b></font>
+<dd>
+<ul>
+<li><b>Scholarship:</b> Iowa State Chapter
+<li><b>Leadership and Educational Development:</b> Iowa State Chapter
+<li><b>Communication:</b> Cincinnati and Iowa State Chapters
+<li><b>Recruitment:</b> Cincinnati Chapter
+</ul>
+
+<dt><font size="+1"><b>2000 Winners</b></font>
+<dd>
+<ul>
+<li><b>Scholarship:</b> Iowa State Chapter
+<li><b>Community Service:</b> Tri-State Chapter
+</ul>
+
+</dl>
+
+
+
 <dl>
 <dt><font size="+1"><b>1996 Winners</b></font>
 <dd>
