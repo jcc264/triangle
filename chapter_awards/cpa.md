@@ -16,8 +16,7 @@ routinely submitted by undergraduate officers.  Colonies were added in
 1977 and alumni corporations were added in 1978, finally making it truly a
 chapter evaluation.
 
-The first time a chapter won, it received a
-triangular wall plaque and an engraved pendant indicating rating and
+The first time a chapter won, it received a triangular wall plaque and an engraved pendant indicating rating and
 school year.  Successive ratings and years in which they are won are
 recognized by additional pendants.
 
