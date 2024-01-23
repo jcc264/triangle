@@ -19,8 +19,8 @@ Beginning in 2007, awards were given to chapters who had initiated 10-19 men, 20
 ||# increase|Nebraska|
 |1994|% increase|Cincinnati|
 ||# increase|South Dakota Mines|
+|1995|# increase and % increase|Marquette|
 
-1995    Marquette                  (# increase and % increase)
 1996    Louisville                 (% increase)
 1997    Louisville                 (% increase)
 1998    Penn State                 (% increase)
@@ -38,16 +38,10 @@ Beginning in 2007, awards were given to chapters who had initiated 10-19 men, 20
         Ohio State                 (# increase)
 2006    Kansas State               (% increase)
         South Dakota Mines         (# increase)
-2007    Illinois                   (20-29 men)
-        Rose Tech                  (20-29 men)
-        Pittsburgh                 (20-29 men)
-        Louisville                 (10-19 men)
-        Marquette                  (10-19 men)
-        Michigan                   (10-19 men)
-        MSOE                       (10-19 men)
-        Toledo                     (10-19 men)
-        UCLA                       (10-19 men)
-        UMBC                       (10-19 men)
+        
+|2007|20-29 men|Illinois<br>Rose Tech<br>Pittsburgh|
+||10-19 men|Louisville<br>Marquette<br>Michigan<br>MSOE<br>Toledo<br>UCLA<br>UMBC|  
+
 2008    South Dakota Mines         (40+ men)
         Michigan                   (30-39 men)
         Purdue                     (30-39 men)
