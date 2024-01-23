@@ -39,15 +39,6 @@ To Do:
 - [ ] Founders Award
 - [ ] Living Your Values Award
 - [ ] Awards Given to Chapters
-- [ ] General
-- [ ] Scholarship
-- [ ] Kahlert Outstanding Academic Excellence Awards
-- [ ] Scholarship Cup (1925-2016) 
-- [ ] Scholarship Plaque (1941-2016)
-- [ ] GPA Above 3.0 (2007-2016)
-- [ ] GPA Increased by .2 or more (2008)
-- [ ] GPA Top 20% on Campus (2007-2008)
-- [ ] Highest New Member GPA (1986-2016)
 - [ ] Growth and Retention
 - [ ] Growth Award (1991-2016) 
 - [ ] New Member Retention Award
@@ -63,9 +54,8 @@ To Do:
 - [ ] Web Communications Award (1996-2016)
 - [ ] Other
 - [ ] BLF/TBHC Property Improvement Contest
-- [ ] 
+- [ ] Coat of Arms History
 
 - [ ] Verify pages
 
-- [ ] Coat of Arms History
 
