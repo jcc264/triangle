@@ -23,22 +23,20 @@ Beginning in 2007, awards were given to chapters who had initiated 10-19 men, 20
 |1996|% increase|Louisville|
 |1997|% increase|Louisville|
 |1998|% increase|Penn State|
-||#increase|Armour|
+||# increase|Armour|
 |1999|% increase|Michigan State|
 ||# increase|Cincinnati<br>Marquette|
-
-2000    Toledo and UCLA            (% increase)
-        RIT                        (# increase)
-2001    Illinois
-2002    NIU
-2003    Cincinnati and UWM         (% increase)
-        Louisville                 (# increase)
-2004    RIT
-2005    MSOE                       (% increase)
-        Ohio State                 (# increase)
-2006    Kansas State               (% increase)
-        South Dakota Mines         (# increase)
-        
+|2000|% increase|Toledo<br>UCLA|
+||# increase|RIT|
+|2001||Illinois|
+|2002||NIU|
+|2003|% increase|Cincinnati<br>UWM|
+||# increase|Louisville|
+|2004||RIT|
+|2005|% increase|MSOE|
+||# increase|Ohio State|
+|2006|% increase|Kansas State|
+||# increase |South Dakota Mines|
 |2007|20-29 men|Illinois<br>Rose Tech<br>Pittsburgh|
 ||10-19 men|Louisville<br>Marquette<br>Michigan<br>MSOE<br>Toledo<br>UCLA<br>UMBC|  
 
