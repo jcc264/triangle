@@ -20,13 +20,13 @@ Beginning in 2007, awards were given to chapters who had initiated 10-19 men, 20
 |1994|% increase|Cincinnati|
 ||# increase|South Dakota Mines|
 |1995|# increase and % increase|Marquette|
+|1996|% increase|Louisville|
+|1997|% increase|Louisville|
+|1998|% increase|Penn State|
+||#increase|Armour|
+|1999|% increase|Michigan State|
+||# increase|Cincinnati<br>Marquette|
 
-1996    Louisville                 (% increase)
-1997    Louisville                 (% increase)
-1998    Penn State                 (% increase)
-        Armour                     (# increase)
-1999    Michigan State             (% increase)
-        Cincinnati and Marquette   (# increase)
 2000    Toledo and UCLA            (% increase)
         RIT                        (# increase)
 2001    Illinois
