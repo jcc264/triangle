@@ -18,4 +18,6 @@ Beginning in 2007, an award was presented to each chapter with a GPA of 3.0 or h
 |2013|California<br>Illinois<br>Penn State|
 |2014|California<br>Clemson|
 |2015|California<br>Cincinnati<br>Georgia Tech<br>Houston<br>Kansas<br>Kentucky<br>Michigan<br>Pittsburgh<br>Rose Tech<br>UCLA<br>UMBC<br>Wisconsin|
-|2016|Armour<br>Georgia Tech<br>Iowa State<br>Kansas<br>Kentucky<br>Michigan<br>Michigan State<br>MSOE<br>Rose Tech|----
+|2016|Armour<br>Georgia Tech<br>Iowa State<br>Kansas<br>Kentucky<br>Michigan<br>Michigan State<br>MSOE<br>Rose Tech|
+
+----
