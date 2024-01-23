@@ -13,14 +13,13 @@ increase.
 Beginning in 2007, awards were given to chapters who had initiated 10-19 men, 20-29 men, 30-39 men, and 40 or more men.
 
 
-|1991|Connecticut||
-|1992|RIT||
-|1993|Armour|(% increase)|
-||Nebraska|(# increase)|
+|1991||Connecticut|
+|1992||RIT|
+|1993|% increase|Armour|
+||# increase|Nebraska|
+|1994|% increase|Cincinnati|
+||# increase|South Dakota Mines|
 
-        
-1994    Cincinnati                 (% increase)
-        South Dakota Mines         (# increase)
 1995    Marquette                  (# increase and % increase)
 1996    Louisville                 (% increase)
 1997    Louisville                 (% increase)
