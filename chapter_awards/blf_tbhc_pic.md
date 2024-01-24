@@ -1,11 +1,11 @@
 ---
-title: BLF/THBC Property Improvement Contest
+title: BLF/TBHC Property Improvement Contest
 layout: default
 parent: Other
 grand_parent: Chapter Awards
 nav_order: 1
 ---
-#  BLF/THBC Property Improvement Contest
+#  BLF/TBHC Property Improvement Contest
 
 The Triangle Building &amp; Housing Corporation (TBHC) Improvement Contest is designed to encourage our undergraduate Triangle chapters and members to enhance their fraternity property or a local community property in a substantial and beneficial way through physical improvement.
 
