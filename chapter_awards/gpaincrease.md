@@ -1,5 +1,5 @@
 ---
-title: GPA increased .2
+title: GPA increased .2 (2008)
 layout: default
 parent: Scholarship
 grand_parent: Chapter Awards

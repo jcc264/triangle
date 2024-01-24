@@ -1,5 +1,5 @@
 ---
-title: New Member GPA
+title: New Member GPA (1986-2016)
 layout: default
 parent: Scholarship
 grand_parent: Chapter Awards

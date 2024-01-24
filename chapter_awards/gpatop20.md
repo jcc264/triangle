@@ -1,5 +1,5 @@
 ---
-title: Top 20% GPA
+title: Top 20% GPA (2008-2008)
 layout: default
 parent: Scholarship
 grand_parent: Chapter Awards

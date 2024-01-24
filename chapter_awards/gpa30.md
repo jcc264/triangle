@@ -1,5 +1,5 @@
 ---
-title: GPA > 3.0
+title: GPA > 3.0 (2007-2016)
 layout: default
 parent: Scholarship
 grand_parent: Chapter Awards

@@ -1,5 +1,5 @@
 ---
-title: Scholarship Plaque
+title: Scholarship Plaque (1941-2016)
 layout: default
 parent: Scholarship
 grand_parent: Chapter Awards

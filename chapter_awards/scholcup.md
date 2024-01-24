@@ -1,5 +1,5 @@
 ---
-title: Scholarship Cup
+title: Scholarship Cup (1925-2016)
 layout: default
 parent: Scholarship
 grand_parent: Chapter Awards
