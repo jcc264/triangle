@@ -36,144 +36,30 @@ Beginning in 2007, awards were given to chapters who had initiated 10-19 men, 20
 |2005|% increase|MSOE|
 ||# increase|Ohio State|
 |2006|% increase|Kansas State|
-||# increase |South Dakota Mines|
+||# increase|South Dakota Mines|
 |2007|20-29 men|Illinois<br>Rose Tech<br>Pittsburgh|
-||10-19 men|Louisville<br>Marquette<br>Michigan<br>MSOE<br>Toledo<br>UCLA<br>UMBC|  
-
-2008    South Dakota Mines         (40+ men)
-        Michigan                   (30-39 men)
-        Purdue                     (30-39 men)
-        Louisville                 (20-29 men)
-        RIT                        (20-29 men)
-        Kansas                     (10-19 men)
-        Michigan State             (10-19 men)
-        Ohio State                 (10-19 men)
-        Rose Tech                  (10-19 men)
-        UMBC                       (10-19 men)
-2009    Michigan                   (20-29 men)
-        Penn State                 (20-29 men)
-        Purdue                     (20-29 men)
-        Rose Tech                  (20-29 men)
-        Houston                    (10-19 men)
-        Louisville                 (10-19 men)
-        Marquette                  (10-19 men)
-        South Dakota Mines         (10-19 men)
-        Toledo                     (10-19 men)
-        UCLA                       (10-19 men)
-        UMBC                       (10-19 men)
-2010    California                 (20-29 men)
-        Cal Poly Pomona            (20-29 men)
-        Michigan                   (20-29 men)
-        Michigan Tech              (20-29 men)
-        Rose Tech                  (20-29 men)
-        UCSD                       (20-29 men)
-        Kentucky                   (10-19 men)
-        Michigan State             (10-19 men)
-        MSOE                       (10-19 men)
-        RIT                        (10-19 men)
-        South Dakota Mines         (10-19 men)
-        Toledo                     (10-19 men)
-2011    Rose Tech                  (30-39 men)
-        Illinois                   (20-29 men)
-        Michigan State             (20-29 men)
-        Wisconsin                  (20-29 men)
-        Cal                        (10-19 men)
-        Cal Poly Pomona            (10-19 men)
-        Cincinnati                 (10-19 men)
-        Houston                    (10-19 men)
-        Kentucky                   (10-19 men)
-        Louisville                 (10-19 men)
-        Marquette                  (10-19 men)
-        Michigan                   (10-19 men)
-        Penn State                 (10-19 men)
-        Pitt                       (10-19 men)
-        Purdue                     (10-19 men)
-        South Dakota Mines         (10-19 men)
-        Toledo                     (10-19 men)
-        UC Irvine                  (10-19 men)
-        UCSD                       (10-19 men)
-2012    Kansas                     (20-29 men)
-        Michigan State             (20-29 men)
-        Purdue                     (20-29 men)
-        Rose Tech                  (20-29 men)
-        California                 (10-19 men)
-        Colorado State             (10-19 men)
-        Louisville                 (10-19 men)
-        Marquette                  (10-19 men)
-        Michigan Tech              (10-19 men)
-        MSOE                       (10-19 men)
-        Oklahoma                   (10-19 men)
-        Oregon State               (10-19 men)
-        Penn State                 (10-19 men)
-        Pittsburgh                 (10-19 men)
-        South Dakota Mines         (10-19 men)
-        Toledo                     (10-19 men)
-        UC Irvine                  (10-19 men)
-2013    Florida Atlantic           (30+ men)
-        Illinois                   (20-29 men)
-        Penn State Behrend         (20-29 men)
-        Cal Poly Pomona            (10-19 men)
-        Colorado State             (10-19 men)
-        Louisville                 (10-19 men)
-        Marquette                  (10-19 men)
-        Michigan                   (10-19 men)
-        Michigan State             (10-19 men)
-        Minnesota                  (10-19 men)
-        MSOE                       (10-19 men)
-        Oklahoma                   (10-19 men)
-        Purdue                     (10-19 men)
-        Rose Tech                  (10-19 men)
-        South Dakota Mines         (10-19 men)
-        UC Irvine                  (10-19 men)
-        UCLA                       (10-19 men)
-        Virginia Commonwealth      (10-19 men)
-2014    Illinois                   (20-29 men)
-        Michigan State             (20-29 men)
-        Michigan Tech              (20-29 men)
-        Rose Tech                  (20-29 men)
-        Armour                     (10-19 men)
-        Cal Poly Pomona            (10-19 men)
-        Cincinnati                 (10-19 men)
-        Clemson                    (10-19 men)
-        Colorado State             (10-19 men)
-        Houston                    (10-19 men)
-        Kansas                     (10-19 men)
-        Kentucky                   (10-19 men)
-        Marquette                  (10-19 men)
-        Oklahoma                   (10-19 men)
-        Penn State                 (10-19 men)
-        Purdue                     (10-19 men)
-        Toledo                     (10-19 men)
-        UCLA                       (10-19 men)
-        UCSD                       (10-19 men)
-        Wisconsin                  (10-19 men)
-2015    Award not presented
-2016    Illinois                   (20-29 men)
-        Kansas                     (20-29 men)
-        Kentucky                   (20-29 men)
-        Michigan State             (20-29 men)
-        UC Irvine                  (20-29 men)
-        UCLA                       (20-29 men)
-        VPI                        (20-29 men)
-        Armour                     (10-19 men)
-        Cal Poly Pomona            (10-19 men)
-        Cincinnati                 (10-19 men)
-        Clemson                    (10-19 men)
-        Colorado State             (10-19 men)
-        Florida Atlantic           (10-19 men)
-        Houston                    (10-19 men)
-        Louisville                 (10-19 men)
-        Marquette                  (10-19 men)
-        Michigan                   (10-19 men)
-        Michigan Tech              (10-19 men)
-        Oklahoma                   (10-19 men)
-        Penn State Behrend         (10-19 men)
-        Pittsburgh                 (10-19 men)
-        Purdue                     (10-19 men)
-        South Dakota Mines         (10-19 men)
-        Toledo                     (10-19 men)
-        Utah                       (10-19 men)
-        Virginia Commonwealth      (10-19 men)
+||10-19 men|Louisville<br>Marquette<br>Michigan<br>MSOE<br>Toledo<br>UCLA<br>UMBC|
+|2008|40+ men|South Dakota Mines|
+||30-39 men|Michigan<br>Purdue|
+||20-29 men|Louisville<br>RIT|
+||10-19 men|Kansas<br>Michigan State<br>Ohio State<br>Rose Tech<br>UMBC|
+|2009|20-29 men|Michigan<br>Penn State<br>Purdue<br>Rose Tech|
+||10-19 men|Houston<br>Louisville<br>Marquette<br>South Dakota Mines<br>Toledo<br>UCLA<br>UMBC|
+|2010|20-29 men|California<br>Cal Poly Pomona<br>Michigan<br>Michigan Tech<br>Rose Tech<br>UCSD|
+||10-19 men|Kentucky<br>Michigan State<br>MSOE<br>RIT<br>South Dakota Mines<br>Toledo|
+|2011|30-39 men|Rose Tech|
+||20-29 men|Illinois<br>Michigan State<br>Wisconsin|
+||10-19 men|Cal<br>Cal Poly Pomona<br>Cincinnati<br>Houston<br>Kentucky<br>Louisville<br>Marquette<br>Michigan<br>Penn State<br>Pitt<br>Purdue<br>South Dakota Mines<br>Toledo<br>UC Irvine<br>UCSD|
+|2012|20-29 men|Kansas<br>Michigan State<br>Purdue<br>Rose Tech|
+||10-19 men|California<br>Colorado State<br>Louisville<br>Marquette<br>Michigan Tech<br>MSOE<br>Oklahoma<br>Oregon State<br>Penn State<br>Pittsburgh<br>South Dakota Mines<br>Toledo<br>UC Irvine|
+|2013|30+ men|Florida Atlantic|
+||20-29 men|Illinois<br>Penn State Behrend|
+||10-19 men|Cal Poly Pomona<br>Colorado State<br>Louisville<br>Marquette<br>Michigan<br>Michigan State<br>Minnesota<br>MSOE<br>Oklahoma<br>Purdue<br>Rose Tech<br>South Dakota Mines<br>UC Irvine<br>UCLA<br>Virginia Commonwealth|
+|2014|20-29 men|Illinois<br>Michigan State<br>Michigan Tech<br>Rose Tech|
+||10-19 men|Armour<br>Cal Poly Pomona<br>Cincinnati<br>Clemson<br>Colorado State<br>Houston<br>Kansas<br>Kentucky<br>Marquette<br>Oklahoma<br>Penn State<br>Purdue<br>Toledo<br>UCLA<br>UCSD<br>Wisconsin|
+|2015|Award not presented||
+|2016|20-29 men|Illinois<br>Kansas<br>Kentucky<br>Michigan State<br>UC Irvine<br>UCLA<br>VPI|
+||10-19 men|Armour<br>Cal Poly Pomona<br>Cincinnati<br>Clemson<br>Colorado State<br>Florida Atlantic<br>Houston<br>Louisville<br>Marquette<br>Michigan<br>Michigan Tech<br>Oklahoma<br>Penn State Behrend<br>Pittsburgh<br>Purdue<br>South Dakota Mines<br>Toledo<br>Utah<br>Virginia Commonwealth|
 
 
 
