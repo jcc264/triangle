@@ -39,9 +39,6 @@ To Do:
 - [ ] Founders Award
 - [ ] Living Your Values Award
 - [ ] Awards Given to Chapters
-- [ ] Growth and Retention
-- [ ] Growth Award (1991-2016) 
-- [ ] New Member Retention Award
 - [ ] Involvement and Communication
 - [ ] Administration Award (2008-2010)
 - [ ] Alumni Relations Plaque (1932-1999)
@@ -52,8 +49,6 @@ To Do:
 - [ ] Publications Awards (1970-2016)
 - [ ] Risk Reduction and Education Award
 - [ ] Web Communications Award (1996-2016)
-- [ ] Other
-- [ ] BLF/TBHC Property Improvement Contest
 - [ ] Coat of Arms History
 
 - [ ] Verify pages
