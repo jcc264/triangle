@@ -1,5 +1,5 @@
 ---
-title: Campus Involvement Award)
+title: Campus Involvement Award
 layout: default
 parent: Involvement and Communication
 grand_parent: Chapter Awards
