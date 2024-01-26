@@ -47,7 +47,7 @@ in 1982.
 |1985|Michigan|
 |1987|UWM|
 |1991|Nebraska|
-|1992-6|(Not awarded)|
+|1992-96|(Not awarded)|
 |1997|Marquette|
 |1999|Penn State
 
