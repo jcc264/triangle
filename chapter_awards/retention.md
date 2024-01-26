@@ -16,10 +16,10 @@ Beginning in 2017, the Outstanding Recruitment and Retention Awards were present
 |2008|100%|Minnesota|
 ||85-99%|Kansas State<br>Marquette|
 |2009|100%|Kansas State<br>Minnesota<br>Wisconsin|
-||85-99%|Houston<br>Kansas<br>Marquette<br>Rose Tech<br>South Dakota Mines<br>UMBC                 )|
+||85-99%|Houston<br>Kansas<br>Marquette<br>Rose Tech<br>South Dakota Mines<br>UMBC|
 |2010|85-99%|Michigan<br>	    MSOE<br>		Pittsburgh<br>		Rose Tech<br>		Toledo<br>|
 |2011|100%|Marquette<br>Michigan State<br>Michigan Tech<br>Ohio State<br>Oklahoma<br>Penn State<br>Pittsburgh<br>UCLA<br>UWM<br>Wisconsin|
-||85-99%|Illinois<br>Rose Tech<br>UCI|
+||85-99%|Illinois<br>Rose Tech<br>UC Irvine|
 |2012|100%|California<br>Minnesota<br>Oregon State<br>Purdue<br>UC Irvine<br>UMBC|
 ||85-99%|Charlotte<br>Colorado State<br>Marquette<br>Michigan Tech<br>Ohio State<br>Pittsburgh<br>Rose Tech<br>|
 |2013|100%|Houston<br>Kansas State<br>Marquette<br>Michigan State|
