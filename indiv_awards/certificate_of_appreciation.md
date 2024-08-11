@@ -11,7 +11,7 @@ The Triangle Certificate of Appreciation is presented in appreciation of service
 
 - To a non-member upon the completion of satisfactory service as a Triangle staff member, event speaker, or other position serving Triangle.
 - To a Triangle chapter or association or other organization that has performed significant services to the National Organization of Triangle.
--To a Triangle member who has made a significant contribution to the National Organization of Triangle, but who is not considered eligible for a Certificate of Service.
+- To a Triangle member who has made a significant contribution to the National Organization of Triangle, but who is not considered eligible for a Certificate of Service.
 
 |Year of Award|Recipient|Service|
 |1997|Elizabeth Eiler|Extensive work organizing the artifacts in the Triangle Museum|
