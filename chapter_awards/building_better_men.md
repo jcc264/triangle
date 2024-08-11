@@ -14,6 +14,6 @@ nav_order: 3
 |2020|Iowa State (1st place)<br>Michigan State (2nd place)<br>Washington (Rattle)|
 |2021|Michigan State (1st place)<br>Wisconsin (2nd place)<br>Washington (Rattle)|
 |2022|Rose Tech (1st place)<br>Ohio State (2nd place)<br>VPI (Rattle)|
-|2022|MSOE (1st place)<br>Wisconsin (2nd place)<br>VPI (Rattle)|
+|2023|MSOE (1st place)<br>Wisconsin (2nd place)<br>VPI (Rattle)|
 
 ----

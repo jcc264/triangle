@@ -38,17 +38,7 @@ To Do:
 - [ ] Compass of Character Award
 - [ ] Founders Award
 - [ ] Living Your Values Award
-- [ ] Awards Given to Chapters
-- [ ] Involvement and Communication
-- [ ] Administration Award (2008-2010)
-- [ ] Alumni Relations Plaque (1932-1999)
-- [ ] Campus Involvement Award
-- [ ] Chapter Operations Award
-- [ ] Community Service Award
-- [ ] National Involvement Award
-- [ ] Publications Awards (1970-2016)
-- [ ] Risk Reduction and Education Award
-- [ ] Web Communications Award (1996-2016)
+
 - [ ] Coat of Arms History
 
 - [ ] Verify pages
