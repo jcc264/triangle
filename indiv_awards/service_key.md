@@ -7,7 +7,7 @@ nav_order: 1
 ---
 # Triangle Service Key
 
-The Triangle Service Key is for pre-eminent work in developing the National Organization of Triangle in one or more elective or appointed national posts. The criterion is that of molding the character of the Fraternity and the members, and not that of finance or numerical expansion. The member's service must have been clearly outstanding, not merely long-lasting, and must have had a positive effect on individual members and on the Fraternity as a whole. Proposed by Alan C. Rockwood ia22, the award consists of a distinctive gold key and a certificate signed by the National President and the National Secretary. This is the highest award given for national service.
+The Triangle Service Key is presented for pre-eminent work in developing the National Organization of Triangle in one or more elective or appointed national posts. The criterion is that of molding the character of the Fraternity and the members, and not that of finance or numerical expansion. The member's service must have been clearly outstanding, not merely long-lasting, and must have had a positive effect on individual members and on the Fraternity as a whole. Proposed by Alan C. Rockwood ia22, the award consists of a distinctive gold key and a certificate signed by the National President and the National Secretary. This is the highest award given for national service.
 
 
 |Year of Award| Name|Chapter|Year of Initiation|
