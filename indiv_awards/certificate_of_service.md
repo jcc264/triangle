@@ -1,5 +1,5 @@
 ---
-title: Triangle Certificate of Service
+title: Certificate of Service
 layout: default
 parent: National Service
 grand_parent: Individual Awards
@@ -158,7 +158,7 @@ The Triangle Certificate of Service is presented at the discretion of National C
 |2022|Merle Newlon III|Louisville|1973|
 |2024|Deepansh Agarwal|MSOE|2019|
 |2024|F. Dee Duncan|Kansas State|1964|
-|2024|Steven Egnaczyk|Ohio State 2021|
+|2024|Steven Egnaczyk|Ohio State|2021|
 |2024|John P. Pritchard|Iowa State|1982|
 
 ----

@@ -1,5 +1,5 @@
 ---
-title: Triangle Service Key
+title: Service Key
 layout: default
 parent: National Service
 grand_parent: Individual Awards
