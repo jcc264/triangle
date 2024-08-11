@@ -19,14 +19,13 @@ The Triangle Certificate of Appreciation is presented in appreciation of service
 |2003|Dr. Bruce Walcott|Furtherance of Triangle's expansion goals by assisting the Kentucky expansion effort|
 |2006|Timothy L. Eiler minn87|Longstanding production of the Exponent electronic newsletter|
 |2006|Paul Lawson|Service as Triangle's Executive Director, 2000-2006|
-
-
 |2006|Scott Bova<br>
 Randall E. Drew rose67<br>
 David A. Fleischhacker minn95<br>
 Robert G. Halgren mich05<br>
 Kevin P. Robertson marq92<br>
 Mark W. Wheatley ok90|Members of Executive Director Search Committee|
+
 |2007|Frank Caplan, Jr. cor42<br>
 Charles L. Hett ks64<br>
 Robert J. Mosborg ill45<br>
