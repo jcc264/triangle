@@ -29,6 +29,7 @@ Beginning in 2017, awards were presented to one or more chapters who excelled in
 2020|Penn State Behrend|
 2021|Toledo|
 2022|South Dakota Mines|
-2023|Michigan State
+2023|Michigan State|
+2024|Minnesota|
 
 ----
