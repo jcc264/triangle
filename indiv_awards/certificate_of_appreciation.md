@@ -19,27 +19,10 @@ The Triangle Certificate of Appreciation is presented in appreciation of service
 |2003|Dr. Bruce Walcott|Furtherance of Triangle's expansion goals by assisting the Kentucky expansion effort|
 |2006|Timothy L. Eiler minn87|Longstanding production of the Exponent electronic newsletter|
 |2006|Paul Lawson|Service as Triangle's Executive Director, 2000-2006|
-|2006|Scott Bova<br/>
-Randall E. Drew rose67<br/>||
-
-
-||David A. Fleischhacker minn95<br>
-Robert G. Halgren mich05<br>
-Kevin P. Robertson marq92<br>
-Mark W. Wheatley ok90|Members of Executive Director Search Committee|
-
-|2007|Frank Caplan, Jr. cor42<br>
-Charles L. Hett ks64<br>
-Robert J. Mosborg ill45<br>
-Merle Newlon III lou73<br>
-Eugene J. Rezabeck ar47<br>
-Jeffrey P. Scott wis87<br>
-Richard H. Sudheimer minn52|Members of Men of the Century Committee|
+|2006|Scott Bova, Randall E. Drew rose67, David A. Fleischhacker minn95, Robert G. Halgren mich05, Kevin P. Robertson marq92, Mark W. Wheatley ok90|Members of Executive Director Search Committee|
+|2007|Frank Caplan, Jr. cor42, Charles L. Hett ks64, Robert J. Mosborg ill45, Merle Newlon III lou73, Eugene J. Rezabeck ar47, Jeffrey P. Scott wis87, Richard H. Sudheimer minn52|Members of Men of the Century Committee|
 |2007|Bradley N. Keller neb69|Co-author of the History of Triangle|
-|2008|Timothy L. Eiler minn87<br>
-Andrew J. Severance wis05<br>
-A.J. Sylvain ar06
-|Service during the 2008 Leadership School|
+|2008|Timothy L. Eiler minn87, Andrew J. Severance wis05, A.J. Sylvain ar06|Service during the 2008 Leadership School|
 |2016|Kent T. Hoffman ar07|Service as an Educational Leadership Consultant and Director of Communications &amp; Brand Standards|
 |2016|Brandon Montalvo marq10|Service as an Educational Leadership Consultant|
 |2017|Scott Bova|&nbsp;|
