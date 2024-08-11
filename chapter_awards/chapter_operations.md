@@ -16,5 +16,6 @@ There are several pieces that go into making a fraternity successful. The Outsta
 |2021|Iowa State|
 |2022|Michigan State|
 |2023|Wisconsin|
+|2024|Iowa State|
 
 ----
