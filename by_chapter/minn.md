@@ -23,7 +23,7 @@ parent: Awards by Chapter
 <br><b>Richard H. Sudheimer</b> minn52 (1972-76)
 <br><b>Timothy L. Eiler</b> minn87 (1991-2000, 2009-11)
 <br>Shawn G. Diedtrich minn90 (1997-2000)
-<br>Neel Kumar minn14 (2023- )
+<br>Neel Kumar minn14 (2023-24)
 </td></tr>
 
 <tr>

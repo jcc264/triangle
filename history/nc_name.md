@@ -9,7 +9,7 @@ nav_order: 6
 |Name|Chapter|Year Initiated|Years Served|
 |---|---|---|---|
 |Adriansen, John R.|Marquette|1941|1947-1951|
-|Agarwal, Deepansh|MSOE|2019|2023-present|
+|Agarwal, Deepansh|MSOE|2019|2023-2024|
 |Albright, Gifford H.|Penn State|1952|1982-1985|
 |Allison, H. Jack|Oklahoma State|1964 (Asc)|1969-1972|
 |Amerman, Daniel J.|Michigan Tech|1995|2001-2003|
@@ -40,6 +40,7 @@ nav_order: 6
 |Campbell, C. Alfred|Ohio State|1914|1922-1923|
 |Caplan, Frank, Jr.|Cornell|1942|1956-1961|
 |Cerrato, Joseph M.|Ohio State|2005|2011-2013, 2014-2023|
+|Clark, Jackson T.|Louisville|2021|2024-present|
 |Clark, Patrick J.|Marquette|1954|1961-1964|
 |Clicquennoi, Irving M.|Purdue|1909|1913-1915|
 |Coller, James A.|Michigan|2013|2016-2017|
@@ -108,7 +109,7 @@ nav_order: 6
 |Kingston, William J.|Cornell|1948|1954-1963|
 |Kleinknight, Luster R.|Purdue|1916|1922-1926|
 |Knapp, Willard A.|Illinois|1908 (Asc)|1911-1917|
-|Kumar, Neel|Minnesota|2014|2023-present|
+|Kumar, Neel|Minnesota|2014|2023-2024|
 |Lantz, Raymond L.|Penn State|1951|1970-1972|
 |Larson, Edward|Cincinnati|1922|1947-1950|
 |Layritz, Harold H.|Cincinnati|1921|1929-1947|
@@ -132,6 +133,7 @@ nav_order: 6
 |McNaughton, Lewis J.|Michigan|1963|1981-1983|
 |Meglan, Carl P.|Ohio State|1956|1986-1988|
 |Mercer, John W.|Ohio State|1924|1939-1947|
+|Messer, Darrell G., II|Louisville|2003|2024-present|
 |Mitchell, Ned E.|Northwestern|1943|1948-1951|
 |Moe, Christopher A.|Iowa State|1992|2001-2004|
 |Moore, Tyler J.|Toledo|2009|2019-present|

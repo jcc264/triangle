@@ -20,6 +20,7 @@ parent: Awards by Chapter
 <br>Matthew A. Czyzewski tol89 (1995-99, 1999-2001)
 <br><b>Jeffrey T. Weikinger</b> tol97 (2010-17)
 <br><b>Ryan M. Sunyak</b> tol10 (2016- )
+<br>Tyler J. Moore tol09 (2019- )
 <br>Marcus Mullins tol19 (2020-21)
 </td></tr>
 

@@ -16,12 +16,12 @@ parent: Awards by Chapter
 <tr>
 <td>National Council/<b>National President</b>:</td>
 <td>Jonathan E. Eklund msoe99 (2016-20)
-<br>Deepansh Agarwal msoe19 (2023- )
+<br>Deepansh Agarwal msoe19 (2023-24)
 </td></tr>
 
 <tr>
 <td>Active Advisor/Active Councilman:</td>
-<td>Deepansh Agarwal msoe19 (2023- )
+<td>Deepansh Agarwal msoe19 (2023-24)
 </td></tr>
 
 <tr>

@@ -1072,7 +1072,21 @@ Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [
 |Member                 |Jake J. Hoppert msu10|
 |Member                 |Neel Kumar minn14|
 |Member                 |Lucas Wallace kan11|
-|Active Councilman      |Deepansh Agarwal msoe19
+|Active Councilman      |Deepansh Agarwal msoe19|
+|Immediate Past Pres    |John C. Cottage, Jr. ps04|
+| | |
+|__2024-25__||
+|President              |Ryan M. Sunyak tol10|
+|Vice President         |Peter L. Satre os89|
+|Secretary              |Darrell G. Messer II lou03|
+|Treasurer              |Tyler J. Moore tol09|
+|Member                 |Fareed J. Dibazar ucsd12|
+|Member                 |Kevin Y. Fong ucla84|
+|Member                 |Robert L. Goehring is76|
+|Member                 |Jake J. Hoppert msu10|
+|Member                 |Stuart J. Masuda uci07|
+|Member                 |Lucas Wallace kan11|
+|Active Councilman      |Jackson T. Clark lou21|
 |Immediate Past Pres    |John C. Cottage, Jr. ps04|
 
 Jump to: [1910](#1910) [1920](#1920) [1930](#1930) [1940](#1940) [1950](#1950) [1960](#1960) [1970](#1970) [1980](#1980) [1990](#1990) [2000](#2000) [2010](#2010) [2020](#2020)

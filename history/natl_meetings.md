@@ -124,3 +124,5 @@ Leadership School are combined in a sequence of alternate sessions.
 |June 26-27, 2021|Virtual convention|
 |July 7-9, 2022|Orlando, Florida|
 |July 27-30, 2023|Dayton, Ohio|
+|August 1-3, 2024|Milwaukee, Wisconsin|
+

@@ -832,3 +832,5 @@ recognition of his 25 years of service to the Armour Chapter.</dd>
 <dd>The Cal Poly Pomona, Colorado State, and VCU Active Organizations are suspended by National Council.</dd>
 <dt><strong>July 27-30, 2023</strong></dt>
 <dd>Herbert F. Scobie Leadership School is held in Dayton, Ohio.</dd>
+<dt><strong>August 1-3, 2024</strong></dt>
+<dd>National Convention is held in Milwaukee, Wisconsin.</dd>
