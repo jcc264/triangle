@@ -200,6 +200,7 @@ parent: Awards by Chapter
 <br>2003 - Scholarship Plaque
 <br>2012 - GPA > 3.0
 <br>2012 - Scholarship Plaque
+<br>2024 - Outstanding Academic Excellence - Most Improved
 </td></tr>
 
 <tr>
@@ -232,6 +233,7 @@ parent: Awards by Chapter
 <br>2017 - National Involvement Award
 <br>2020 - National Involvement Award
 <br>2021 - National Involvement Award
+<br>2024 - Campus Involvement Award
 </td></tr>
 
 <tr>

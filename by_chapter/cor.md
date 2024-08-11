@@ -43,6 +43,7 @@ parent: Awards by Chapter
 <tr>
 <td>Wall of Fame:</td>
 <td>Theodore W.J. Wong cor50 (2010)
+<br>Randy H. Katz cor74 (2020)
 </td></tr>
 
 <tr>

@@ -154,6 +154,7 @@ parent: Awards by Chapter
 <td>Scholarship:</td>
 <td>2018 - Outstanding Academic Excellence - 3rd place
 <br>2021 - Outstanding Academic Excellence - 1st place
+<br>2024 - Outstanding Academic Excellence - 2nd place
 </td></tr>
 
 <tr>

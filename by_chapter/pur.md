@@ -95,6 +95,8 @@ parent: Awards by Chapter
 <br>Randall L. Herrel, Sr. pur70 (2017)
 <br>Robert A. Oakley pur65 (2018)
 <br>Robert M. Davidson pur61 (2019)
+<br>Norris R. Crump pur27 (2022)
+<br>Leo Millstein pur68 (2024)
 </td></tr>
 
 <tr>
@@ -191,7 +193,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Brother of the Year:</td>
-<td>
+<td>Jacob Mobley pur23 (2024)
 </td></tr>
 
 <tr>
@@ -206,12 +208,12 @@ parent: Awards by Chapter
 
 <tr>
 <td>Living Your Values Award:</td>
-<td>
+<td>Darrell C. Samuels pur74 (2024)
 </td></tr>
 
 <tr>
 <td>Compass of Character Award:</td>
-<td>
+<td>Andrew Morin pur22 (2024)
 </td></tr>
 
 </tbody>

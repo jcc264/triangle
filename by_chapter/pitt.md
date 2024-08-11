@@ -65,7 +65,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Engineer/Architect/Scientist of the Year:</td>
-<td>
+<td>Ramsey Smith pitt22 (2024)
 </td></tr>
 
 <tr>

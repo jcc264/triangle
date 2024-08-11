@@ -55,6 +55,7 @@ parent: Awards by Chapter
 <br>Carl P. Meglan os56 (1988) 
 <br>James A. Sands os80 (1996) 
 <br>Joseph M. Cerrato os05 (2013, 2023) 
+<br>Steven Egnaczyk os21 (2024) 
 </td></tr>
 
 <tr>
@@ -65,6 +66,8 @@ parent: Awards by Chapter
 <tr>
 <td>Wall of Fame:</td>
 <td>Kevin P. Granata os83 (2017)
+<br>Larry L. Hench os57 (2020)
+<br>Milan C. Johnson os59 (2024)
 </td></tr>
 
 <tr>
@@ -148,7 +151,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Senior of the Year:</td>
-<td>
+<td>Steven Egnaczyk os21 (2024)
 </td></tr>
 
 <tr>
@@ -221,6 +224,7 @@ parent: Awards by Chapter
 <br>2008 - Growth Award
 <br>2011 - New Member Retention Award
 <br>2012 - New Member Retention Award
+<br>2024 - Recruitment and Retention Award
 </td></tr>
 
 <tr>

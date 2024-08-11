@@ -62,6 +62,7 @@ parent: Awards by Chapter
 <br>Michael J. Wallace marq68 (2009)
 <br>John J. Viera marq51 (2011)
 <br>Edward T. Shonsey marq64 (2013)
+<br>Michael S. Butler marq93 (2023)
 </td></tr>
 
 <tr>
@@ -72,6 +73,7 @@ parent: Awards by Chapter
 <br>John D. Santi marq50 (2013)
 <br>Michael H. O'Connor marq74 (2021)
 <br>Ronald E. Barr marq67 (2022)
+<br>Kevin P. Robertson marq92 (2024)
 </td></tr>
 
 <tr>

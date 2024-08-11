@@ -100,7 +100,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Executive Board Member of the Year:</td>
-<td>
+<td>Garrett Wattawa uw22 (2024)
 </td></tr>
 
 <tr>
@@ -141,6 +141,7 @@ parent: Awards by Chapter
 <td>2019 - Building Better Men Award - Rattle Award
 <br>2020 - Building Better Men Award - Rattle Award
 <br>2021 - Building Better Men Award - Rattle Award
+<br>2024 - Most Improved Chapter
 </td></tr>
 
 <tr>

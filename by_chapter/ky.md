@@ -51,6 +51,7 @@ parent: Awards by Chapter
 <tr>
 <td>Wall of Fame:</td>
 <td>Earnest O. Robbins ky65 (2014)
+<br>Joseph A. Boyd ky39 (2021)
 </td></tr>
 
 <tr>
@@ -188,6 +189,7 @@ parent: Awards by Chapter
 <br>2016 - Campus Involvement Award
 <br>2016 - Community Service Award
 <br>2021 - Community Service Award
+<br>2024 - Philanthropy and Service Award
 </td></tr>
 
 <tr>

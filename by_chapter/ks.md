@@ -36,6 +36,7 @@ parent: Awards by Chapter
 <td>Michael D. Hicks ks76 (1990)
 <br>Charles L. Hett ks64 (1991)
 <br>Richard P. Harris ks82 (1995)
+<br>F. Dee Duncan ks64 (2024)
 </td></tr>
 
 <tr>

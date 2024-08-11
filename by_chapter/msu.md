@@ -97,7 +97,7 @@ parent: Awards by Chapter
 <tr>
 <td>Chapter President of the Year:</td>
 <td>Greyson Meyers msu18 (2021)
-
+<br>Gabriel Lipps msu22 (2024)
 </td></tr>
 
 <tr>

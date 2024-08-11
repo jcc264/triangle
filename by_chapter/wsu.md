@@ -1,12 +1,12 @@
 ---
-title: MSOE
+title: Washington State
 layout: default
 parent: Awards by Chapter
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/by_chapter.css' | relative_url }}">
 
-# MSOE Chapter Awards
+# Washington State Colony Awards
 
 ## Individual Honors
 
@@ -15,13 +15,12 @@ parent: Awards by Chapter
 
 <tr>
 <td>National Council/<b>National President</b>:</td>
-<td>Jonathan E. Eklund msoe99 (2016-20)
-<br>Deepansh Agarwal msoe19 (2023-24)
+<td>
 </td></tr>
 
 <tr>
 <td>Active Advisor/Active Councilman:</td>
-<td>Deepansh Agarwal msoe19 (2023-24)
+<td>
 </td></tr>
 
 <tr>
@@ -31,7 +30,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Certificate of Service:</td>
-<td>Deepansh Agarwal msoe19 (2024)
+<td>
 </td></tr>
 
 <tr>
@@ -46,12 +45,12 @@ parent: Awards by Chapter
 
 <tr>
 <td>Distinguished Alumnus Citation:</td>
-<td>Jeffrey J. Basso msoe89 (2024)
+<td>
 </td></tr>
 
 <tr>
 <td>Men of the Century Award:</td>
-<td>James D. Connelly msoe03
+<td> 
 </td></tr>
 
 <tr>
@@ -81,23 +80,22 @@ parent: Awards by Chapter
 
 <tr>
 <td>Outstanding Alumnus Award:</td>
-<td>Gene R. Strehlow msoe68 (1976)
-<br>Walter A. Swenberg msoe77 (1980)
+<td>
 </td></tr>
 
 <tr>
 <td>Outstanding Advisor Award/Chapter Advisor of the Year:</td>
-<td>Christopher J. Gust msoe12 (2024)
+<td>
 </td></tr>
 
 <tr>
 <td>Chapter Leadership Award:</td>
-<td>Matthew J. Wesley msoe12 (2015)
+<td>
 </td></tr>
 
 <tr>
 <td>Chapter President of the Year:</td>
-<td>Deepansh Agarwal msoe19 (2023)
+<td>
 </td></tr>
 
 <tr>
@@ -122,7 +120,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Living Your Values Award:</td>
-<td>Adam Roder msoe02 (2018)
+<td>
 </td></tr>
 
 <tr>
@@ -140,46 +138,22 @@ parent: Awards by Chapter
 
 <tr>
 <td>General:</td>
-<td>1967 - 10th Place CPA
-<br>1975 - 5th Place CPA
-<br>1976 - 6th Place CPA
-<br>1980 - 4th Place CPA
-<br>1980 - Most Improved CPA
-<br>1987 - 10th Place CPA
-<br>2003 - 6th Place CPA
-<br>2005 - 7th Place CPA
-<br>2023 - Chapter of the Year
-<br>2023 - Building Better Men Award - 1st place
+<td>2024 - Building Better Men Award - Rattle Award
 </td></tr>
 
 <tr>
 <td>Scholarship:</td>
-<td>1981 - Scholarship Plaque
-<br>2005 - Highest Pledge GPA
-<br>2005 - Scholarship Plaque
-<br>2016 - GPA > 3.0
+<td>
 </td></tr>
 
 <tr>
 <td>Growth and Retention:</td>
-<td>2005 - Growth Award
-<br>2007 - Growth Award
-<br>2010 - Growth Award
-<br>2010 - New Member Retention Award
-<br>2012 - Growth Award
-<br>2013 - Growth Award
-<br>2013 - New Member Retention Award
+<td>
 </td></tr>
 
 <tr>
 <td>Involvement and Communication:</td>
-<td>2008 - Administration Award
-<br>2008 - Community Service Award
-<br>2008 - Web Communications Award
-<br>2010 - Administration Award
-<br>2011 - Web Communications Award
-<br>2015 - Community Service Award
-<br>2024 - Risk Reduction and Education Award
+<td>
 </td></tr>
 
 <tr>

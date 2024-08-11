@@ -170,6 +170,7 @@ parent: Awards by Chapter
 <br>2004 - 9th Place CPA
 <br>2005 - 10th Place CPA
 <br>2017 - Building Better Men Award - 1st place
+<br>2024 - Building Better Men Award - 1st place
 </td></tr>
 
 <tr>

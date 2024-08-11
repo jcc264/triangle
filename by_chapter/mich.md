@@ -50,6 +50,7 @@ parent: Awards by Chapter
 <tr><td>Wall of Fame:</td>
 <td>Warren E. Norquist mich50 (1999)
 <br>Pierre E. Leroy mich67 (2015)
+<br>Peter S. Wang mich78 (2022)
 </td></tr>
 
 <tr>
@@ -195,6 +196,7 @@ parent: Awards by Chapter
 <br>2016 - GPA > 3.0
 <br>2017 - Outstanding Academic Excellence - 2nd place
 <br>2023 - Outstanding Academic Excellence - 1st place (tie)
+<br>2024 - Outstanding Academic Excellence - 1st place
 </td></tr>
 
 <tr>

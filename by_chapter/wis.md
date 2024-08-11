@@ -59,6 +59,7 @@ parent: Awards by Chapter
 <tr>
 <td>Wall of Fame:</td>
 <td>Lyle G. Hassebroek wis60 (2018)
+<br>Ajay Kumar wis82 (2023)
 </td></tr>
 
 <tr>
@@ -194,6 +195,7 @@ parent: Awards by Chapter
 <br>2015 - GPA > 3.0
 <br>2018 - Outstanding Academic Excellence - 2nd place
 <br>2023 - Outstanding Academic Excellence - 3rd place
+<br>2024 - Outstanding Academic Excellence - 3rd place
 </td></tr>
 
 <tr>

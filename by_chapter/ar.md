@@ -57,6 +57,7 @@ parent: Awards by Chapter
 <tr><td>Wall of Fame:</td>
 <td>Alex P. Ver ar65 (2006)
 <br>Maynard P. Venema ar29 (2016)
+<br>Robert B. Rosenberg ar55 (2024)
 </td></tr>
 
 <tr>

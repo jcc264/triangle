@@ -72,6 +72,7 @@ parent: Awards by Chapter
 <br>Mark E. Tolliver ill70 (2009)
 <br>John R. Hodge ill16 (2011)
 <br>Lawrence M. Kaplan ill84 (2019)
+<br>Preston A. Henne ill67 (2021)
 </td></tr>
 
 <tr>
@@ -104,7 +105,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Cap Henning ill16 Altruism Award:</td>
-<td>
+<td>Frederick V. Chin ill73 (2024)
 </td></tr>
 
 <tr>

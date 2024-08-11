@@ -37,6 +37,7 @@ parent: Awards by Chapter
 <td>James E. Fay is70 (1998)
 <br>Christopher A. Moe is92 (2004)
 <br>Seth H. Pierre is19 (2022)
+<br>John P. Pritchard is82 (2024)
 </td></tr>
 
 <tr>
@@ -80,6 +81,7 @@ parent: Awards by Chapter
 <tr>
 <td>Outstanding Philanthropy and Service by an Individual:</td>
 <td>David M. Gunger is19 (2021)
+<br>Ryan Wilson is23 (2024)
 </td></tr>
 
 <tr>
@@ -121,7 +123,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Senior of the Year:</td>
-<td>
+<td>Ethan Rosonke is20 (2024)
 </td></tr>
 
 <tr>
@@ -132,11 +134,14 @@ parent: Awards by Chapter
 <tr>
 <td>Living Your Values Award:</td>
 <td>Ben J. Johnson is19 (2022)
+<br>Gabriel Bayse is21 (2024)
 </td></tr>
 
 <tr>
 <td>Compass of Character Award:</td>
 <td>Ethan Rosonke is20 (2023)
+<br>Cullen White is21 (2024)
+<br>Nolan Zimmerman is22 (2024)
 </td></tr>
 
 </tbody>
@@ -172,6 +177,7 @@ parent: Awards by Chapter
 <br>2004 - 6th Place CPA
 <br>2020 - Building Better Men Award - 1st place
 <br>2020 - Chapter of the Year
+<br>2024 - Building Better Men Award - 2nd place
 </td></tr>
 
 <tr>
@@ -191,7 +197,7 @@ parent: Awards by Chapter
 <tr>
 <td>Growth and Retention:</td>
 <td>2016 - New Member Retention Award
-<br>2023 - New Member Retention Award
+<br>2023 - Recruitment and Retention Award
 </td></tr>
 
 <tr>
@@ -209,6 +215,8 @@ parent: Awards by Chapter
 <br>2021 - Chapter Operations Award
 <br>2022 - Risk Reduction and Education Award
 <br>2023 - Risk Reduction and Education Award
+<br>2024 - National Involvement Award
+<br>2024 - Chapter Operations Award
 </td></tr>
 
 <tr>
