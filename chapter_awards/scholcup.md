@@ -115,5 +115,3 @@ retired cup was entrusted to Purdue Chapter.
 |2016|Georgia Tech|(2015-16)|
 
 ----
-
-----
