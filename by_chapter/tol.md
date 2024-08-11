@@ -27,7 +27,7 @@ parent: Awards by Chapter
 <tr>
 <td>Active Advisor/Active Councilman:</td>
 <td>Michael D. Mayer tol09 (2011-12)
-<br>Marcus Mullins tol19 (2020- )
+<br>Marcus Mullins tol19 (2020-21)
 </td></tr>
 
 <tr>

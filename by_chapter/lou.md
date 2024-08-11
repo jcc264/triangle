@@ -29,6 +29,7 @@ parent: Awards by Chapter
 <td>Active Advisor/Active Councilman:</td>
 <td>C. Matthew Pulley lou04 (2007-08)
 <br>Ryan A. Burt lou15 (2017-18)
+<br>Jackson T. Clark lou21 (2024- )
 </td></tr>
 
 <tr>
