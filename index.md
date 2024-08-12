@@ -11,9 +11,6 @@ To Do:
 - [ ] Regulation internal links
 - [ ] National Headquarters
 - [ ] REVIEW Editors
-- [ ] Cap Henning ill16 Altruism Award
-- [ ] Outstanding Philanthropy and Service by an Individual
-- [ ] Richard H. Sudheimer Interfraternal Leadership Award 
 - [ ] Chapter Service
 - [ ] Order of the Transit
 - [ ] Outstanding Alumnus Award
