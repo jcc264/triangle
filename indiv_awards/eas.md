@@ -10,6 +10,7 @@ nav_order: 5
 The Oustanding Engineer, Architect, Scientist Award was created to recognize the time and effort given by an undergraduate to his academic discipline. The award emphasizes the attributes of an undergraduate's commitment to his major during his college career.
 
 |Year of Award|Name|Chapter|Year of Initiation|
+|---|---|---|---|
 |2017|Brian M. Jameson|Missouri Mines|2016|
 |2018|S. Reese Allison|Clemson|2015|
 |2019|Nikolas M. Pardoe|Minnesota|2016|

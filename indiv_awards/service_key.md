@@ -10,7 +10,8 @@ nav_order: 1
 The Triangle Service Key is presented for pre-eminent work in developing the National Organization of Triangle in one or more elective or appointed national posts. The criterion is that of molding the character of the Fraternity and the members, and not that of finance or numerical expansion. The member's service must have been clearly outstanding, not merely long-lasting, and must have had a positive effect on individual members and on the Fraternity as a whole. Proposed by Alan C. Rockwood ia22, the award consists of a distinctive gold key and a certificate signed by the National President and the National Secretary. This is the highest award given for national service.
 
 
-|Year of Award| Name|Chapter|Year of Initiation|
+|Year of Award|Name|Chapter|Year of Initiation|
+|---|---|---|---|
 |1925|Willard A. Knapp|Illinois|1908 (Associate)|
 |1926|Arthur Schwerin| Illinois|1907|
 |1927|Luster R. Kleinknight| Purdue|1916|

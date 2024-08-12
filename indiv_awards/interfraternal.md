@@ -14,6 +14,7 @@ limited to, Greek advisors, university administrators, faculty members,
 fraternity and sorority staff members, suppliers and vendors, and parents.
 
 |Year of Award|Name|Description|
+|---|---|---|
 |2007|William Jenkins|Member and former Executive Director of Phi Kappa Tau Fraternity; Consultant to Triangle; Member and President, NIC Board of Directors; Recipient of NIC Gold Medal; Director of Development for Delta Zeta; In 2004, the NIC Foundation's award for development professionals was named after Jenkins.|
 |2008|David Westol|Member, former board member, and Executive Director of Theta Chi Fraternity; Past President, Fraternity Executives Association; Recipient, FEA Distinguished Service Award; Silver Medal award winner, North American Interfraternity Conference. Westol has given hundreds of presentations to the Greek community on topics such as hazing, risk management, motivation, values, ideals, and leadership.|
 |2009|James R. Favor|Member of Pi Kappa Alpha Fraternity, Phi Kappa Phi Honor Society, Pi Delta Epsilon Journalism Honorary, and Phi Alpha Theta History Honorary; Developer of first national risk management and insurance programs for fraternities and sororities; Holder of extensive publications and copyrights in the fields of fraterntiy and sorority risk management; Underwriter for Lloyd's of London, Lloyd's Fraternity Program since 1985.|

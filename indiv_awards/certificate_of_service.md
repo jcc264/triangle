@@ -10,6 +10,7 @@ nav_order: 2
 The Triangle Certificate of Service is presented at the discretion of National Council in acknowledgment of service in an elective or appointive national post. The first Certificate of Service was presented in 1967.
 
 |Year of Award|Name|Chapter|Year Initiated|
+|---|---|---|---|
 |1967|David H. Bulman|Clarkson/Cornell|1954|
 |1968|E. Harlan Gellhaus|South Dakota Mines|1957|
 |1968|William G. Dunn|Wisconsin|1941|

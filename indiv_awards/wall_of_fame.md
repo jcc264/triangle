@@ -10,6 +10,7 @@ nav_order: 2
 In 1995, National Council established the Triangle Wall of Fame, an ongoing project to recognize our members who have received widespread acknowledgment of success within their chosen fields. The Wall of Fame is intended to honor successful members, serve as a motivation for Triangle members, and be used as a recruitment tool by Triangle chapters.  Each Triangle chapter has received a framed presentation of the Wall of Fame honorees for display in the chapter house. Every year, National Council will select one or two additions to the Wall of Fame.
 
 |Year of Award|Name|Chapter|Year of Initiation|
+|---|---|---|---|
 |1995|Frederick R. Kappel|Minnesota|1923|
 |1995|Ellison S. Onizuka|Colorado|1969|
 |1995|Henry J. (Hank) Ramey, Jr.|Purdue|1948|

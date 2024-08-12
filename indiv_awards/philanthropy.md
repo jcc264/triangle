@@ -7,7 +7,8 @@ nav_order: 7
 ---
 # Outstanding Philanthropy and Service by an Individual
 
-|Year of Award| Name|Chapter|Year of Initiation|
+|Year of Award|Name|Chapter|Year of Initiation|
+|---|---|---|---|
 |2018|Jacob P. Harding|Kansas|2017|
 |2019|Kyle A. Godfrey|Penn State Behrend|2016|
 |2020|Benjamin Tentis|Kansas|2019|

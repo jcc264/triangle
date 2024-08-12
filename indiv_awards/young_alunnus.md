@@ -13,6 +13,7 @@ such fields as engineering, architecture, science, education, industry, governme
 The award is named after Ellison S. Onizuka colo69, who flew on the space shuttle Discovery in January 1985 and lost his life in the Challenger accident in January 1986.
 
 |Year of Award| Name|Chapter| Year of Initiation|
+|---|---|---|---|
 |2006|Kevin R. Manley| Illinois|1988|
 |2006|Michael S. Morhaime| UCLA|1985|
 |2008|Ronald E. Nikel| Cincinnati|1988|

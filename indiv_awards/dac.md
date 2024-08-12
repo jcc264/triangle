@@ -15,6 +15,7 @@ Triangle. The recipient receives a certificate signed by the National President
 and the National Secretary. 
 
 |Year of Award| Name|Chapter|Year of Initiation|
+|---|---|---|---|
 |1961|Frederick R. Kappel| Minnesota|1923|
 |1963|Maynard P. Venema| Armour| 1929|
 |1964|Daniel V. Terrell| Kentucky| 1920 (Honorary)|

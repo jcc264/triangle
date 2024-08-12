@@ -14,6 +14,7 @@ The Triangle Certificate of Appreciation is presented in appreciation of service
 - To a Triangle member who has made a significant contribution to the National Organization of Triangle, but who is not considered eligible for a Certificate of Service.
 
 |Year of Award|Recipient|Service|
+|---|---|---|
 |1997|Elizabeth Eiler|Extensive work organizing the artifacts in the Triangle Museum|
 |2000|Daniel J. Guido uwm96|Service on Headquarters staff as Educational Leadership Consultant|
 |2003|Dr. Bruce Walcott|Furtherance of Triangle's expansion goals by assisting the Kentucky expansion effort|
