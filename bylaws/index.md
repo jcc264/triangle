@@ -7,5 +7,7 @@ has_children: true
 
 # Triangle Fraternity National Bylaws
 
+{%- include list_styles.html -%}
+
 {%- include bl_effective_date.html -%}
 
