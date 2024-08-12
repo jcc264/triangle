@@ -11,7 +11,6 @@ To Do:
 - [ ] Regulation internal links
 - [ ] National Headquarters
 - [ ] REVIEW Editors
-- [ ] Outstanding Engineer/Architect/Scientist
 - [ ] Cap Henning ill16 Altruism Award
 - [ ] Outstanding Philanthropy and Service by an Individual
 - [ ] Richard H. Sudheimer Interfraternal Leadership Award 
