@@ -11,7 +11,6 @@ To Do:
 - [ ] Regulation internal links
 - [ ] National Headquarters
 - [ ] REVIEW Editors
-- [ ] Outstanding Advisor Award/Chapter Advisor of the Year
 - [ ] Chapter Leadership Award
 - [ ] Chapter President of the Year
 - [ ] Executive Board Member of the Year
