@@ -20,5 +20,4 @@ The Order of the Transit is conferred for pre-eminent work in developing a Trian
 |2013|Thomas E. Mulinazzi|Kansas|1986|
 |2017|Gary N. Bodnar|Purdue|1976 (nominated by Cincinnati Chapter)|
 
-
 ----
