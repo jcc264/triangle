@@ -11,18 +11,7 @@ To Do:
 - [ ] Regulation internal links
 - [ ] National Headquarters
 - [ ] REVIEW Editors
-- [ ] Chapter Leadership Award
-- [ ] Chapter President of the Year
-- [ ] Executive Board Member of the Year
-- [ ] Senior of the Year
-- [ ] Other
-- [ ] Brother of the Year
-- [ ] Compass of Character Award
-- [ ] Founders Award
-- [ ] Living Your Values Award
-
 - [ ] Coat of Arms History
-
 - [ ] Verify pages
 
 
