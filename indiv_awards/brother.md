@@ -7,7 +7,7 @@ nav_order: 1
 ---
 # Brother of the Year
 
-Awarded to the brother who clearly lives the values of the Code of Ethics of Triangle through his daily actions
+Awarded to the brother who clearly lives the values of the Code of Ethics of Triangle through his daily actions.
 
 |Year of Award|Name|Chapter|Year of Initiation|
 |---|---|---|---|
