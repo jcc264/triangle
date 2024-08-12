@@ -11,9 +11,6 @@ To Do:
 - [ ] Regulation internal links
 - [ ] National Headquarters
 - [ ] REVIEW Editors
-- [ ] Chapter Service
-- [ ] Order of the Transit
-- [ ] Outstanding Alumnus Award
 - [ ] Outstanding Advisor Award/Chapter Advisor of the Year
 - [ ] Chapter Leadership Award
 - [ ] Chapter President of the Year
