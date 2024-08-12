@@ -11,7 +11,7 @@ The Chapter Advisor of the Year Award (previously the Outstanding Advisor Award)
 
 |Year of Award|Name|Chapter|Year of Initiation |
 |---|---|---|---|
-|2013|Bernadette Friedrich|Michigan State|
+|2013|Bernadette Friedrich|Michigan State|N/A|
 |2013|Mark D. Bowman|Purdue|1971|
 |2017|Cary Laxer|Rose Tech|1988 (Associate)|
 |2017|Ryan M. Sunyak|Toledo|2010|
