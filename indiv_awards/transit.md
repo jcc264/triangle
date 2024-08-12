@@ -10,6 +10,8 @@ nav_order: 1
 The Order of the Transit is conferred for pre-eminent work in developing a Triangle chapter or association. The criterion is that of molding the character of the group and its members, and not that of finance or numerical expansion. The member's service must have been clearly outstanding, not merely long-lasting, and must have had a positive effect on individual members and on the chapter or association as a whole. The Order of the Transit was created by National Council in 1997 to serve as a counterpart for the Triangle Service Key. This is the highest national award given for local service.
 
 |Year of Award|Name|Chapter|Year of Initiation|
+|---|---|---|---|
+|1998|Leonard J. Staab|Marquette|1950|
 |1998|Leonard J. Staab|Marquette|1950|
 |2003|Robert Patten|Armour|2001|
 |2006|George R. Griffin|Oklahoma|1978|
