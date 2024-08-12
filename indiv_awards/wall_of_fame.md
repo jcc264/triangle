@@ -9,10 +9,10 @@ nav_order: 2
 
 In 1995, National Council established the Triangle Wall of Fame, an ongoing project to recognize our members who have received widespread acknowledgment of success within their chosen fields. The Wall of Fame is intended to honor successful members, serve as a motivation for Triangle members, and be used as a recruitment tool by Triangle chapters.  Each Triangle chapter has received a framed presentation of the Wall of Fame honorees for display in the chapter house. Every year, National Council will select one or two additions to the Wall of Fame.
 
-|Year of Award|Name|Chapter|Init|
+|Year of Award|Name|Chapter|Year of Initiation|
 |1995|Frederick R. Kappel|Minnesota|1923|
 |1995|Ellison S. Onizuka|Colorado|1969|
-|1995|Ramey, Henry J. (Hank), Jr.|Purdue|1948|
+|1995|Henry J. (Hank) Ramey, Jr.|Purdue|1948|
 |1995|Gerald A. Rauenhorst|Marquette|1950|
 |1996|Edward R. McCracken|Iowa State|1964|
 |1996|Frederick R. Meyer|Purdue|1946|
@@ -40,7 +40,7 @@ In 1995, National Council established the Triangle Wall of Fame, an ongoing proj
 |2006|William J. Schroeder|Marquette|1964|
 |2006|Alex P. Ver|Armour|1965|
 |2007|Jeffrey D. McClelland|Northwestern|1977|
-|2007|Selzer, Michael M., Jr.|South Dakota Mines|1971|
+|2007|Michael M. Selzer, Jr.|South Dakota Mines|1971|
 |2007|John F. Wakerly|Marquette|1969|
 |2008|Dr. Paul A. Flaherty|Marquette|1984|
 |2008|J. Steven Flannigan|Rose Tech|1967|
@@ -51,7 +51,7 @@ In 1995, National Council established the Triangle Wall of Fame, an ongoing proj
 |2010|Gregory A. Lang|Missouri Mines|1974|
 |2010|Paul A. Lang|Missouri Mines|1980|
 |2010|Stephen A. Lang|Missouri Mines|1977|
-|2010|Peterman, Loyal M., Jr.|Cincinnati|1962|
+|2010|Loyal M. Peterman, Jr.|Cincinnati|1962|
 |2010|Theodore W.J. Wong|Cornell|1950|
 |2011|Eugene M. Cummings|Northwestern|1959|
 |2011|Gen John R. Hodge, USA, Ret.|Illinois|1916|
@@ -73,7 +73,7 @@ In 1995, National Council established the Triangle Wall of Fame, an ongoing proj
 |2016|Maynard P. "Pete" Venema|Armour|1929|
 |2017|Robert W. Brightfelt|Nebraska|1963|
 |2017|Dr. Kevin P. Granata|Ohio State|1983|
-|2017|Herrel, Randall L., Sr.|Purdue|1970|
+|2017|Randall L. Herrel, Sr.|Purdue|1970|
 |2018|Jesse F. Core|Penn State|1934|
 |2018|Lyle G. Hassebroek|Wisconsin|1960|
 |2018|Robert A. Oakley|Purdue|1965|
@@ -90,6 +90,6 @@ In 1995, National Council established the Triangle Wall of Fame, an ongoing proj
 |2023|Ajay Kumar|Wisconsin|1982|
 |2023|Michael S. Butler|Marquette|1993|
 |2024|Leo Millstein|Purdue|1968|
-|2024|Milan (Miles) C. Johnson|Ohio State|1959|
+|2024|Milan C. (Miles) Johnson|Ohio State|1959|
 
 ----
