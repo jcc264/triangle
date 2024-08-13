@@ -1,7 +1,7 @@
 ---
 title: Outstanding Philanthropy and Service by an Individual
 layout: default
-parent: Professional/Philanthropic Achievement
+parent: Professional/Philanthropic
 grand_parent: Individual Awards
 nav_order: 7
 ---

@@ -1,7 +1,7 @@
 ---
 title: Richard H. Sudheimer Interfraternal Leadership Award
 layout: default
-parent: Professional/Philanthropic Achievement
+parent: Professional/Philanthropic
 grand_parent: Individual Awards
 nav_order: 8
 ---
