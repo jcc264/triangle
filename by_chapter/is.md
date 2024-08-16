@@ -140,7 +140,7 @@ parent: Awards by Chapter
 <tr>
 <td>Compass of Character Award:</td>
 <td>Ethan Rosonke is20 (2023)
-<br>Cullen White is21 (2024)
+<br>Cullen H. White is21 (2024)
 <br>Nolan Zimmerman is22 (2024)
 </td></tr>
 

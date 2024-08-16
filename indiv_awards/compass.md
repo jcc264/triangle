@@ -15,7 +15,7 @@ The Compass of Character Award was first presented in 2023.
 |2023|Ethan Rosonke|Iowa State|2020|
 |2023|Steven Egnaczyk|Ohio State|2021|
 |2024|Andrew Morin|Purdue|2022|
-|2024|Cullen White|Iowa State|2021|
+|2024|Cullen H. White|Iowa State|2021|
 |2024|Nolan Zimerman|Iowa State|2022|
 
 ----
