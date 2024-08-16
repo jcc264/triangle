@@ -20,6 +20,7 @@ This award has been established to recognize the active or alumnus who best exem
 |2021|Connor R. Mears|Michigan State|2018|
 |2022|Ben J. Johnson|Iowa State|2019|
 |2023|Owen Petrich|Wisconsin|2021|
+|2023|Lucas M. Schloemp|Michigan Tech|2020|
 |2024|Gabriel Bayse|Iowa State|2021|
 |2024|Darrell C. Samuels|Purdue|1974|
 

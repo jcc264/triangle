@@ -1,7 +1,7 @@
 ---
 title: Outstanding Engineer/Architect/Scientist
 layout: default
-parent: Professional/Philanthropic Achievement
+parent: Professional/Philanthropic
 grand_parent: Individual Awards
 nav_order: 5
 ---

@@ -125,7 +125,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Living Your Values Award:</td>
-<td>
+<td>Lucas M. Schloemp mtu20 (2023)
 </td></tr>
 
 <tr>
