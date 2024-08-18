@@ -12,7 +12,7 @@ nav_order: 308
 
 ## POSITION STATEMENTS / Chapter Sanctions
 
-Revised August 1, 2018
+Revised August 1, 2024
 
 <strong>
 3.8.1.
@@ -43,25 +43,27 @@ National Council considers the following to constitute failures of sufficient se
 <ol type="a">
 <li><p>During or immediately after an incident (the chapter shall promptly notify the Executive Director of any incident):</p>
 
-<p>The Executive Director or his designee shall manage the initial fact-finding. Any Triangle staff member or volunteer who is notified of or becomes aware of a potential incident shall notify the Executive Director immediately.</p>
+<p>The Executive Director or their designee shall manage the initial fact-finding. Any Triangle staff member or volunteer who is notified of or becomes aware of a potential incident shall notify the Executive Director as soon as is practicable.</p>
 
-<p>Upon notification of an incident, the Executive Director, in consultation with the National President, may at his discretion issue a cease-and-desist order to the chapter if needed to prevent bodily injury, property damage, illegal activity, or a chapter culture that may contribute to any of these situations. This order may last no more than two weeks and shall be communicated to the chapter&#8217;s active and alumni presidents, National Council, and (if appropriate) university staff.</p>
+<p>Upon notification of an incident, the Executive Director, in consultation with the National President, may at their discretion issue a cease-and-desist order to the chapter if needed to prevent bodily injury, property damage, illegal activity, or a chapter culture that may contribute to any of these situations.</p>
+
+<p>This order may last no more than thirty (30) days and shall be communicated to the chapter&#8217;s active and alumni presidents, National Council, and (if appropriate) university staff.</p>
 
 <p>Possible restrictions may include but are not limited to:</p>
 
 <ol type="i">
 <li>Activities with alcohol</li>
 <li>Initiation or pledging ceremonies</li>
-<li>Any activities involving pledges</li>
+<li>Any activities involving candidates</li>
 <li>Social activities (including those involving non-members)</li>
 <li>Visits to other chapters</li>
 </ol>
 </li>
 
-<li><p>Within one business day of notification of an incident:</p>
+<li><p>Within one business day of notification of an incident, or as soon as is practicable:</p>
 <p>The Executive Director shall gather preliminary information and report the incident to the National President, and Standards Committee. In most circumstances, this information will consist of basic facts only: chapter, type, time, and location of incident, and details of the cease-and-desist order if applied.</p>
 
-<p>In his report, the Executive Director shall outline plans for next steps, which may include one or more of the following (subject to veto by the National President or Standards Committee):</p>
+<p>The report shall outline plans for next steps, which may include one or more of the following (subject to veto by the National President or Standards Committee):</p>
 
 <ol type="i">
 <li>Phone call with active/alumni president and/or officers</li>
@@ -93,7 +95,7 @@ National Council considers the following to constitute failures of sufficient se
 
 <p>The Standards Committee, in consultation with the Executive Director, shall assess the chapter's compliance with the sanctions that were imposed. Insufficient compliance may result in additional actions being taken by Council.</p>
 
-<p>The committee shall also report back to Council on the long-term effects of the incident and subsequent actions taken by National Council.</p>
+<p>At its discretion, the committee may report back to Council on the long-term effects of the incident and subsequent actions taken by National Council.</p>
 
 <p>Potential questions include, but are not limited to:</p>
 
@@ -136,15 +138,11 @@ National Council considers the following to constitute failures of sufficient se
 	<ol type="i">
 	<li>Prohibit the possession or consumption of alcohol on chapter premises or at chapter events.</li>
 	<li>Direct one or more officers (active or alumni) to resign or be removed from office.</li>
-	<li>Impose fines payable within 30 days up to $25 per member and new member/pledge on the active roster.</li>
-	<li>In addition to all other sanctions, a fine payable within 30 days of $10 per member and new member/pledge on the active roster will automatically be imposed for use of a common source of bulk quantity alcoholic beverage.  A second incidence of use of a common source of bulk quantity alcoholic beverage within 24 months will result in the fine payable within 30 days increasing to $20 per member and new member/pledge.</li>
 	<li>Prohibit (or require approval for) any visits to/from other chapters.</li>
 	<li>Direct the chapter to remove one or more members from participation in Triangle activities.</li>
 	<li>Direct the chapter to request voluntary termination of membership of one or more members or expel him/them if necessary.</li>
 	<li>Suspend or expel a member through National Council action.</li>
 	<li>Direct the chapter to make changes to its governing documents or other policies or traditions.</li>
-	<li>Any chapter with failure to abide by the Triangle Risk Management Guidelines will have its base rate for liability insurance increased by no less than 5% and no greater than 20% for the next academic year, dependent upon the seriousness of the failure(s) in question.</li>
-	<li>Require the chapter to host and/or participate in an educational module.</li>
 	</ol>
 	</li>
 <li>Influence attitudes of chapter members:
@@ -180,7 +178,10 @@ National Council considers the following to constitute failures of sufficient se
 <li>Modify future privileges and obligations as a punitive measure:
 	<ol type="i">
 	<li>Bill the chapter for expenses incurred by the National Organization (or other entities) related to the incident.</li>
-	<li>Increase the chapter's liability insurance premium.</li>
+	<li>Impose fines payable within 30 days up to $25 per member and candidate on the active roster.</li>
+	<li>In addition to all other sanctions, a fine payable within 30 days of $10 per member and candidate on the active roster will automatically be imposed for use of a common source of bulk quantity alcoholic beverage.  A second incidence of use of a common source of bulk quantity alcoholic beverage within 24 months will result in the fine payable within 30 days increasing to $20 per member and candidate.</li>
+	<li>Increase the chapter's Risk Management Fee.</li>
+	<li>Any chapter failing to abide by the Triangle Risk Management Guidelines will have its base Risk Management Fee increased by no less than 5% and no greater than 20% for the next academic year, dependent upon the seriousness of the failure(s) in question.</li>
 	<li>Remove the chapter's eligibility for Triangle awards, grants, or scholarships.</li>
 	<li>Place the chapter on social probation, prohibiting some or all of the following:
 		<ol type="A">
