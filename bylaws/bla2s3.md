@@ -135,4 +135,13 @@ the entire constitution shall be submitted to National Council for approval.
 </li>
 </ol>
 
+### Para. 5 - Chapter Housing Organizations
+
+<ol type="a">
+<li>Any chapter or colony purchasing real property after August 1, 2024, must organize an entity, separate from its active and alumni organizations, in accordance with the laws of the state where the chapter or colony is located. This entity shall be responsible for holding title to the real property and conducting such transactions as may be necessary.
+</li>
+<li>Housing entities shall have not less than three (3) Directors. Directors may not also have an official role with a chapter (e.g., Active or Alumni Organization officer, Faculty Advisor, Chapter Advisor), at the national level (e.g., National Council, Triangle Education Foundation, Triangle Building and Housing Corporation), or with an Alumni Association.
+</li>
+</ol>
+
 ---
