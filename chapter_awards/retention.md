@@ -1,11 +1,15 @@
 ---
-title: New Member Retention Award
+title: Outstanding Recruitment and Retention Award
 layout: default
 parent: Growth and Retention
 grand_parent: Chapter Awards
 nav_order: 2
 ---
-# New Member Retention Award
+# Outstanding Recruitment and Retention Award
+
+Recruitment is the lifeblood of our organization. Chapters that strive to recruit a higher quantity and quality of members into their chapters flourish. Recruitment should be the responsibility of every member and should occur 365 days a year.
+
+The recipient of the Outstanding Recruitment & Retention by Chapter Award facilitates a recruitment program in which chapter values are exemplified through chapter events and all members of the chapter are engaged in the recruitment of new members. Additionally, the chapter works hard to ensure that potential new members are aware of the requirements and expectations which will assist in the retention of all new members.
 
 From 2007 to 2016, awards in New Member Retention were presented to chapters who initiated 100% of their pledges during the academic year, and to chapters who initiated at least 85% of their pledges during the academic year.
 
