@@ -7,5 +7,5 @@ has_children: true
 
 # Triangle Fraternity Regulations
 
-As in effect on August 13, 2023.
+{%- include regs_effective_date.html -%}
 
