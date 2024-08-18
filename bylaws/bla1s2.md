@@ -29,6 +29,10 @@ An active member may choose to become an alumni member if:
 (4) years.</li>
 </ol>
 
+In extraordinary circumstances, National Council may waive these 
+requirements and allow an individual member’s change in status 
+after consultation with the active organization president and secretary.
+
 An active member who chooses to become an alumni member shall
 inform the secretary of the active organization in writing.  The
 member's change in status from active to alumni member shall be
