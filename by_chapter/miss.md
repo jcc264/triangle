@@ -49,7 +49,7 @@ parent: Awards by Chapter
 
 <tr>
 <td>Men of the Century Award:</td>
-<td>Ted F. Bowlds miss72 
+<td>Theodore F. Bowlds miss72 
 </td></tr>
 
 <tr>
