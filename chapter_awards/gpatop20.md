@@ -1,5 +1,5 @@
 ---
-title: Top 20% GPA (2008-2008)
+title: Top 20% GPA (2007-2008)
 layout: default
 parent: Scholarship
 grand_parent: Chapter Awards
@@ -11,8 +11,6 @@ Beginning in 2007, an award was presented to each chapter whose GPA was among th
 
 |2007|South Dakota Mines<br>UMBC|
 |2008|Kansas State|
-|2009|No award given|
-|2010|No award given|
 
 
 ----
