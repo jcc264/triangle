@@ -22,38 +22,39 @@ Leadership School are combined in a sequence of alternate sessions.
 |February 3-4, 1911|West Lafayette, Indiana|Convention|
 |February 2-3, 1912|Columbus, Ohio|Convention|
 |February 7-8, 1913|Champaign, Illinois|Convention|
-|February 27-28, 1914|Madison, Wisconsin|
-|February 26-27, 1915|West Lafayette, Indiana|
-|February 24-26, 1916|Columbus, Ohio|
-|February 22-24, 1917|Champaign, Illinois|
-|February 21-23, 1918|Madison, Wisconsin|
-|March 6-8, 1919|West Lafayette, Indiana|
-|February 26-28, 1920|Columbus, Ohio|
-|March 3-5, 1921|Champaign, Illinois|
-|May 4-6, 1922|Madison, Wisconsin|
-|May 3-5, 1923|West Lafayette, Indiana|
-|May 8-l0, 1924|Lexington, Kentucky|
-|April 30-May 2, 1925|Cincinnati, Ohio|
-|April 22-24, 1926|Chicago, Illinois|
-|April 28-30, 1927|Chicago, Illinois|
-|April 26-28, 1928|Chicago, Illinois|
-|April 25-27, 1929|Chicago, Illinois|
-|May 1-3, 1930|Chicago, Illinois|
-|April 30-May 2, 1931|Chicago, Illinois|
-|April 28-30, 1932|Urbana, Illinois|
-|April 27-29, 1933|Chicago, Illinois|
-|April 26-28, 1934|Chicago, Illinois|
-|April 25-27, 1935|Chicago, Illinois|
-|April 23-25, 1936|Columbus, Ohio|
-|August 30-September 3, 1937|Rapid City, South Dakota|
-|September 7-10, 1938|Chicago, Illinois|
-|September 6-9, 1939|West Lafayette, Indiana|
-|September 4-7, 1940|Minneapolis, Minnesota|
-|September 3-6, 1941|Cincinnati, Ohio|
-|October 25-27, 1946|Chicago, Illinois|
-|September 3-5, 1947|Chicago, Illinois|
-|September 2-5, 1948|Madison, Wisconsin|
-|September 1-3, 1949|Louisville, Kentucky|
+|February 27-28, 1914|Madison, Wisconsin|Convention|
+|February 26-27, 1915|West Lafayette, Indiana|Convention|
+|February 24-26, 1916|Columbus, Ohio|Convention|Convention|
+|February 22-24, 1917|Champaign, Illinois|Convention|
+|February 21-23, 1918|Madison, Wisconsin|Convention|
+|March 6-8, 1919|West Lafayette, Indiana|Convention|
+|February 26-28, 1920|Columbus, Ohio|Convention|
+|March 3-5, 1921|Champaign, Illinois|Convention|
+|May 4-6, 1922|Madison, Wisconsin|Convention|
+|May 3-5, 1923|West Lafayette, Indiana|Convention|
+|May 8-l0, 1924|Lexington, Kentucky|Convention|
+|April 30-May 2, 1925|Cincinnati, Ohio|Convention|
+|April 22-24, 1926|Chicago, Illinois|Convention|
+|April 28-30, 1927|Chicago, Illinois|Convention|
+|April 26-28, 1928|Chicago, Illinois|Convention|
+|April 25-27, 1929|Chicago, Illinois|Convention|
+|May 1-3, 1930|Chicago, Illinois|Convention|
+|April 30-May 2, 1931|Chicago, Illinois|Convention|
+|April 28-30, 1932|Urbana, Illinois|Convention|
+|April 27-29, 1933|Chicago, Illinois|Convention|
+|April 26-28, 1934|Chicago, Illinois|Convention|
+|April 25-27, 1935|Chicago, Illinois|Convention|
+|April 23-25, 1936|Columbus, Ohio|Convention|
+|August 30-September 3, 1937|Rapid City, South Dakota|Convention|
+|September 7-10, 1938|Chicago, Illinois|Convention|
+|September 6-9, 1939|West Lafayette, Indiana|Convention|
+|September 4-7, 1940|Minneapolis, Minnesota|Convention|
+|September 3-6, 1941|Cincinnati, Ohio|Convention|
+|1942-1945|Not held due to World War II||
+|October 25-27, 1946|Chicago, Illinois|Convention|
+|September 3-5, 1947|Chicago, Illinois|Convention|
+|September 2-5, 1948|Madison, Wisconsin|Convention|
+|September 1-3, 1949|Louisville, Kentucky|Convention|
 |August 30-September 2, 1950|Brainerd, Minnesota|
 |September 6-8, 1951|Columbus, Ohio|
 |September 10-13, 1952|Chicago, Illinois|
