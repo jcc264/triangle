@@ -771,7 +771,11 @@ recognition of his 25 years of service to the Armour Chapter.</dd>
 <dt><strong>July 14-16, 2011</strong></dt>
 <dd>National Convention takes place in Columbus, Ohio, celebrating the 100th anniversary of the Ohio State Chapter. Highlights include a Recruitment Boot Camp, joint events with Phi Sigma Rho Sorority, and educational sessions covering energy efficient housing, scholarship, risk management, and delegation.</dd>
 <dt><strong>April 14, 2012</strong></dt>
+<dd>The Michigan Tech Chapter is rechartered following a successful expansion effort .</dd>
+<dt><strong>April 14, 2012</strong></dt>
 <dd>Robert M. Petrick pitt85 is presented with the Order of the Transit.</dd>
+<dt><strong>April 28, 2012</strong></dt>
+<dd>The Colorado State Chapter is rechartered following a successful expansion effort .</dd>
 <dt><strong>July 12-15, 2012</strong></dt>
 <dd>Herbert F. Scobie Leadership School is held in Terre Haute, Indiana.</dd>
 <dt><strong>September 29, 2012</strong></dt>
@@ -782,6 +786,8 @@ recognition of his 25 years of service to the Armour Chapter.</dd>
 <dd>National Convention takes place in Irvine, California. Convention delegates approved changes to national fees and GPA requirements, and increased the size of National Council from nine to eleven members. Once again, joint social and educational events were held with Phi Sigma Rho Sorority. John Malmquist wis72 is presented with the Triangle Service Key.</dd>
 <dt><strong>September 7, 2013</strong></dt>
 <dd>The Florida Atlantic Chapter is installed at Florida Atlantic University, Boca Raton, Florida.</dd>
+<dt><strong>January 25, 2014</strong></dt>
+<dd>The Cincinnati Chapter is rechartered following a successful expansion effort .</dd>
 <dt><strong>July 10-13, 2014</strong></dt>
 <dd>Herbert F. Scobie Leadership School is held in Terre Haute, Indiana.</dd>
 <dt><strong>February 28, 2015</strong></dt>
@@ -804,16 +810,22 @@ recognition of his 25 years of service to the Armour Chapter.</dd>
 <dd>The California Chapter is suspended by National Council.</dd>
 <dt><strong>July 19-22, 2017</strong></dt>
 <dd>National Convention takes place in Litchfield Park, Arizona. The Service Key is presented to James A. McShane marq65 and Alex P. Ver ar65 for their work on the Triangle Education Foundation board.</dd>
+<dt><strong>2018</strong></dt>
+<dd>The UCSD Active Organization is suspended by National Council.</dd>
 <dt><strong>March 24, 2018</strong></dt>
 <dd>The Iowa State Chapter is rechartered following a successful expansion effort.</dd>
 <dt><strong>May 13, 2018</strong></dt>
 <dd>The UMBC Chapter is suspended at the chapter's request.
 <dt><strong>July 26-29, 2018</strong></dt>
 <dd>Herbert F. Scobie Leadership School is held in Terre Haute, Indiana.</dd>
+<dt><strong>2019</strong></dt>
+<dd>The FAU Chapter is suspended by National Council.
 <dt><strong>July 14, 2019</strong></dt>
 <dd>The Houston Chapter is suspended by National Council.</dd>
 <dt><strong>July 17-20, 2019</strong></dt>
 <dd>National Convention takes place in Indianapolis, Indiana.</dd>
+<dt><strong>2020</strong></dt>
+<dd>The Kansas State Active Organization is suspended by National Council.</dd>
 <dt><strong>July 23-26, 2020</strong></dt>
 <dd>Herbert F. Scobie Leadership School, originally planned for Indianapolis, is not held due to the COVID-19 pandemic.</dd>
 <dt><strong>June 13, 2021</strong></dt>
