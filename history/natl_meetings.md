@@ -18,10 +18,10 @@ In 1973, Triangle returned to a former practice of biennial instead of
 annual legislative meetings.  In the odd-numbered years, Convention and
 Leadership School are combined in a sequence of alternate sessions.
 
-|December 9-11, 1909|Champaign, Illinois|
-|February 3-4, 1911|West Lafayette, Indiana|
-|February 2-3, 1912|Columbus, Ohio|
-|February 7-8, 1913|Champaign, Illinois|
+|December 9-11, 1909|Champaign, Illinois|Convention|
+|February 3-4, 1911|West Lafayette, Indiana|Convention|
+|February 2-3, 1912|Columbus, Ohio|Convention|
+|February 7-8, 1913|Champaign, Illinois|Convention|
 |February 27-28, 1914|Madison, Wisconsin|
 |February 26-27, 1915|West Lafayette, Indiana|
 |February 24-26, 1916|Columbus, Ohio|
