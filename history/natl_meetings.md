@@ -55,45 +55,45 @@ Leadership School are combined in a sequence of alternate sessions.
 |September 3-5, 1947|Chicago, Illinois|Convention|
 |September 2-5, 1948|Madison, Wisconsin|Convention|
 |September 1-3, 1949|Louisville, Kentucky|Convention|
-|August 30-September 2, 1950|Brainerd, Minnesota|
-|September 6-8, 1951|Columbus, Ohio|
-|September 10-13, 1952|Chicago, Illinois|
-|August 31-September 4, 1953|Sylvan Lake, South Dakota|
-|August 31-September 3, 1954|St. Louis, Missouri|
-|August 30-September 2, 1955|University Park, Pennsylvania|
-|August 28-31, 1957|Urbana, Illinois|
-|September 2-5, 1959|Ithaca, New York|
-|August 30-September 2, 1961|Milwaukee, Wisconsin|
-|August 26-29, 1963|Excelsior Springs, Missouri|
-|September 2-5, 1964|Champaign, Illinois|
-|November 25-28, 1965|Cincinnati, Ohio|
-|November 24-27, 1966|Chicago, Illinois|
-|November 24-26, 1967|Minneapolis, Minnesota|
-|November 29-December 1, 1968|Columbus, Ohio|
-|August 27-30, 1969|Windsor, Ontario, Canada|
-|September 2-5, 1970|Boulder, Colorado|
-|September 2-4, 1971|Waukegan, Illinois|
-|August 3-5, 1972|Waukegan, Illinois|
-|August 9-11, 1973|Waukegan, Illinois|
-|August 2, 1974|Columbus, Ohio|
+|August 30-September 2, 1950|Brainerd, Minnesota|Convention|
+|September 6-8, 1951|Columbus, Ohio|Convention|
+|September 10-13, 1952|Chicago, Illinois|Convention|
+|August 31-September 4, 1953|Sylvan Lake, South Dakota|Convention|
+|August 31-September 3, 1954|St. Louis, Missouri|Convention|
+|August 30-September 2, 1955|University Park, Pennsylvania|Convention|
+|August 28-31, 1957|Urbana, Illinois|Convention|
+|September 2-5, 1959|Ithaca, New York|Convention|
+|August 30-September 2, 1961|Milwaukee, Wisconsin|Convention|
+|August 26-29, 1963|Excelsior Springs, Missouri|Convention|
+|September 2-5, 1964|Champaign, Illinois|Convention|
+|November 25-28, 1965|Cincinnati, Ohio|Convention|
+|November 24-27, 1966|Chicago, Illinois|Convention|
+|November 24-26, 1967|Minneapolis, Minnesota|Convention|
+|November 29-December 1, 1968|Columbus, Ohio|Convention|
+|August 27-30, 1969|Windsor, Ontario, Canada|Convention|
+|September 2-5, 1970|Boulder, Colorado|Convention|
+|September 2-4, 1971|Waukegan, Illinois|Convention|
+|August 3-5, 1972|Waukegan, Illinois|Convention|
+|August 9-11, 1973|Waukegan, Illinois|Convention|
+|August 2, 1974|Columbus, Ohio|Leadership School|
 |August 14-16, 1975|Rolla, Missouri|Convention|
-|August 14, 1976|Pittsburgh, Pennsylvania|
+|August 14, 1976|Pittsburgh, Pennsylvania|Leadership School|
 |August 18-20, 1977|West Lafayette, Indiana|Convention|
-|August 18-19, 1978|Lawrence, Kansas|
+|August 18-19, 1978|Lawrence, Kansas|Leadership School|
 |August 16-18, 1979|Milwaukee, Wisconsin|Convention|
-|August 15-16, 1980|Toledo, Ohio|
+|August 15-16, 1980|Toledo, Ohio|Leadership School|
 |August 13-15, 1981|Ann Arbor, Michigan|Convention|
-|August 13-14, 1982|Champaign, Illinois|
+|August 13-14, 1982|Champaign, Illinois|Leadership School|
 |August 11-13, 1983|Cincinnati, Ohio|Convention|
-|August 10-12, 1984|Ames, Iowa|
+|August 10-12, 1984|Ames, Iowa|Leadership School|
 |August 15-17, 1985|Columbus, Ohio|Convention|
-|August 14-16, 1986|St. Louis, Missouri|
+|August 14-16, 1986|St. Louis, Missouri|Leadership School|
 |August 13-15, 1987|Milwaukee, Wisconsin|Convention|
-|August 21-23, 1988|Lincoln, Nebraska|
+|August 21-23, 1988|Lincoln, Nebraska|Leadership School|
 |August 20-23, 1989|Ft. Collins, Colorado|Convention|
-|August 12-14, 1990|Cincinnati, Ohio|
+|August 12-14, 1990|Cincinnati, Ohio|Leadership School|
 |August 11-14, 1991|Arlington, Virginia|Convention|
-|August 8-11, 1992|Rapid City, South Dakota|
+|August 8-11, 1992|Rapid City, South Dakota|Leadership School|
 |August 14-17, 1993|Indianapolis, Indiana|Convention|
 |August 6-9, 1994|Madison, Wisconsin|Leadership School|
 |August 5-8, 1995|Overland Park, Kansas|Convention|
