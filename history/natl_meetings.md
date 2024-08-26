@@ -24,7 +24,7 @@ Leadership School are combined in a sequence of alternate sessions.
 |February 7-8, 1913|Champaign, Illinois|Convention|
 |February 27-28, 1914|Madison, Wisconsin|Convention|
 |February 26-27, 1915|West Lafayette, Indiana|Convention|
-|February 24-26, 1916|Columbus, Ohio|Convention|Convention|
+|February 24-26, 1916|Columbus, Ohio|Convention|
 |February 22-24, 1917|Champaign, Illinois|Convention|
 |February 21-23, 1918|Madison, Wisconsin|Convention|
 |March 6-8, 1919|West Lafayette, Indiana|Convention|
