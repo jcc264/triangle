@@ -10,8 +10,7 @@ To Do:
 - [ ] Regulation Revision History
 - [ ] Regulation internal links
 - [ ] National Headquarters
-- [ ] REVIEW Editors
+- [ ] Rattle history
 - [ ] Coat of Arms History
-- [ ] Verify pages
 
 
