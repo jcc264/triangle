@@ -10,13 +10,12 @@ National Convention is the legislative body of the Fraternity in which
 undergraduate and alumni delegates, along with National Council, enact
 legislation and adopt positions on matters of national importance.
 
-Leadership School is an annual national meeting held in approximately
-mid-August.  In non-Convention years, Leadership School includes the
-Awards Luncheon and Annual Banquet.
-
 In 1973, Triangle returned to a former practice of biennial instead of
-annual legislative meetings.  In the odd-numbered years, Convention and
-Leadership School are combined in a sequence of alternate sessions.
+annual legislative meetings.  In non-Convention years, a National Meeting combined
+Leadership School with other sessions and workshops of interest to actives and alumni.
+
+In 1988, the National Meeting became solely a Leadership School focused on undergraduate 
+members. Leadership School includes the Awards Luncheon and Annual Banquet.
 
 |December 9-11, 1909|Champaign, Illinois|Convention|
 |February 3-4, 1911|West Lafayette, Indiana|Convention|
