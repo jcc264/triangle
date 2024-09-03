@@ -13,11 +13,11 @@ GPA during the previous year.
 
 In 2013, the name of this award was changed from Highest Pledge Class GPA to Highest New Member GPA.
 
-|1986|Rose|
+|1986|Rose Tech|
 |1987|Michigan|
-|1988|Rose|
+|1988|Rose Tech|
 |1989|Michigan|
-|1990|Rose|
+|1990|Rose Tech|
 |1991|Purdue|
 |1992|Armour|
 |1993|Marquette|
