@@ -18,7 +18,7 @@ parent: Awards by Chapter
 <td>Benjamin F. Morrison ar23 (1934-35)
 <br>Carl J. Reutter ar24 (1942-45)
 <br><b>Eugene J. Rezabeck</b> ar47 (1957-66)
-<br><b>John F. Berninger</b> ar55 (1967-72)
+<br><b>John F. Berninger</b> ar55 (1968-72)
 <br><b>Robert D. Hoel</b> ar67 (1988-93)
 <br>Wesley C. Herbol ar52 (1990-92)
 <br>Albert J. Evon ar88 (1996-2000, 2002-04)

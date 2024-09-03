@@ -21,7 +21,7 @@ nav_order: 6
 |Beggs, C. Norman|Illinois|1918|1926-1934|
 |Bell, Raymond O.|Penn State|1934|1941-1942|
 |Benson, Ikel C.|Minnesota|1925|1948-1955|
-|Berninger, John F.|Armour|1955|1967-1972|
+|Berninger, John F.|Armour|1955|1968-1972|
 |Berns, Max A.|Illinois|1908|1912-1914|
 |Bischoff, Charles E.|Ohio State|1925|1937-1939, 1955-1957|
 |Bischoff, Edward Alan|Ohio State|1953|1966-1968, 1971-1975|

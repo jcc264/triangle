@@ -75,19 +75,19 @@ Leadership School are combined in a sequence of alternate sessions.
 |September 2-4, 1971|Waukegan, Illinois|Convention|
 |August 3-5, 1972|Waukegan, Illinois|Convention|
 |August 9-11, 1973|Waukegan, Illinois|Convention|
-|August 2, 1974|Columbus, Ohio|Leadership School|
+|August 2, 1974|Columbus, Ohio|National Meeting|
 |August 14-16, 1975|Rolla, Missouri|Convention|
-|August 14, 1976|Pittsburgh, Pennsylvania|Leadership School|
+|August 14, 1976|Pittsburgh, Pennsylvania|National Meeting|
 |August 18-20, 1977|West Lafayette, Indiana|Convention|
-|August 18-19, 1978|Lawrence, Kansas|Leadership School|
+|August 18-19, 1978|Lawrence, Kansas|National Meeting|
 |August 16-18, 1979|Milwaukee, Wisconsin|Convention|
-|August 15-16, 1980|Toledo, Ohio|Leadership School|
+|August 15-16, 1980|Toledo, Ohio|National Meeting|
 |August 13-15, 1981|Ann Arbor, Michigan|Convention|
-|August 13-14, 1982|Champaign, Illinois|Leadership School|
+|August 13-14, 1982|Champaign, Illinois|National Meeting|
 |August 11-13, 1983|Cincinnati, Ohio|Convention|
-|August 10-12, 1984|Ames, Iowa|Leadership School|
+|August 10-12, 1984|Ames, Iowa|National Meeting|
 |August 15-17, 1985|Columbus, Ohio|Convention|
-|August 14-16, 1986|St. Louis, Missouri|Leadership School|
+|August 14-16, 1986|St. Louis, Missouri|National Meeting|
 |August 13-15, 1987|Milwaukee, Wisconsin|Convention|
 |August 21-23, 1988|Lincoln, Nebraska|Leadership School|
 |August 20-23, 1989|Ft. Collins, Colorado|Convention|
