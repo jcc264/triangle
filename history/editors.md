@@ -25,7 +25,7 @@ nav_order: 8
 |1991-1998|Merle Newlon III lou73|
 |1998-2007|David W. Slack cin94|
 |2007-2016|H. Andrew Goss lou00|
-|2016-2019|Ariel Tarosky||
-|2020-2021|Rileigh Roberson||
-|2022|Rileigh Roberson and Ariel Tarosky||
-|2023|Ariel Tarosky||
+|2016-2019|Ariel Tarosky|
+|2020-2021|Rileigh Roberson|
+|2022|Rileigh Roberson and Ariel Tarosky|
+|2023|Ariel Tarosky|
